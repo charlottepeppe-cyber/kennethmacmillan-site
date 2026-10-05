@@ -1,0 +1,998 @@
+{
+  "website" : {
+    "id" : "56c185f6746fb9a875e10bc8",
+    "cloneable" : false,
+    "contentModifiedOn" : 1513113183947,
+    "identifier" : "charlotte-macmillan-9y0h",
+    "imageMetadataProcessingEnabled" : false,
+    "isHstsEnabled" : false,
+    "language" : "en-US",
+    "primaryDomain" : "www.kennethmacmillan.com",
+    "screenshotId" : "d4182ab0d34d0366c16de4d6b35c8392de50eb052cbcc557f0d196765ef55d2d",
+    "shareButtonOptions" : {
+      "3" : true,
+      "2" : true,
+      "8" : true,
+      "6" : true,
+      "7" : true,
+      "1" : true,
+      "4" : true
+    },
+    "showOwnerLogin" : false,
+    "siteDescription" : "<p>A website dedicated to the life and work of the late Sir Kenneth MacMillan</p>",
+    "siteStatus" : { },
+    "siteTagLine" : "His Life and Work",
+    "siteTitle" : "Kenneth MacMillan ",
+    "sslSetting" : 3,
+    "timeZone" : "Europe/London",
+    "typekitId" : "",
+    "websiteType" : 1,
+    "statsMigrated" : false,
+    "authenticUrl" : "https://www.kennethmacmillan.com",
+    "baseUrl" : "https://www.kennethmacmillan.com",
+    "internalUrl" : "https://charlotte-macmillan-9y0h.squarespace.com",
+    "machineTimeZoneOffset" : 3600000,
+    "socialAccounts" : [ {
+      "serviceId" : 2,
+      "userId" : "10153589214404804",
+      "screenname" : "Charlotte Pepp\u00E9 Was MacMillan",
+      "addedOn" : 1506287690730,
+      "profileUrl" : "http://www.facebook.com/10153589214404804",
+      "iconUrl" : "http://graph.facebook.com/10153589214404804/picture?type=square",
+      "metaData" : {
+        "service" : "facebook"
+      },
+      "iconEnabled" : true,
+      "serviceName" : "facebook"
+    }, {
+      "serviceId" : 20,
+      "userId" : "charlottemacmillan@mac.com",
+      "screenname" : "charlottemacmillan@mac.com",
+      "addedOn" : 1512932781375,
+      "profileUrl" : "mailto:charlottemacmillan@mac.com",
+      "iconEnabled" : true,
+      "serviceName" : "email"
+    } ],
+    "timeZoneAbbr" : "BST",
+    "timeZoneOffset" : 3600000,
+    "siteTitle" : "Kenneth MacMillan "
+  },
+  "websiteSettings" : {
+    "id" : "56c185f6746fb9a875e10bcb",
+    "websiteId" : "56c185f6746fb9a875e10bc8",
+    "type" : "Personal",
+    "subjects" : [ ],
+    "country" : "GB",
+    "state" : "ENG",
+    "simpleLikingEnabled" : true,
+    "mobileInfoBarSettings" : {
+      "isContactEmailEnabled" : false,
+      "isContactPhoneNumberEnabled" : false,
+      "isLocationEnabled" : false,
+      "isBusinessHoursEnabled" : false
+    },
+    "commentLikesAllowed" : true,
+    "commentAnonAllowed" : true,
+    "commentThreaded" : true,
+    "commentApprovalRequired" : false,
+    "commentAvatarsOn" : true,
+    "commentSortType" : 2,
+    "commentFlagThreshold" : 0,
+    "commentFlagsAllowed" : true,
+    "commentEnableByDefault" : true,
+    "commentDisableAfterDaysDefault" : 0,
+    "disqusShortname" : "",
+    "collectionTitleFormat" : "%c \u2014 %s",
+    "itemTitleFormat" : "%i \u2014 %s",
+    "commentsEnabled" : false,
+    "uiComponentRegistrationsFlag" : false,
+    "scriptRegistrationsFlag" : false,
+    "bundleEligible" : false,
+    "bucketingSeedId" : "dca33311-dd47-403c-8721-cee4aef154c0",
+    "newPlanArchitectureEligible" : true,
+    "storeSettings" : {
+      "returnPolicy" : null,
+      "termsOfService" : null,
+      "privacyPolicy" : null,
+      "expressCheckout" : false,
+      "continueShoppingLinkUrl" : "/",
+      "useLightCart" : false,
+      "showNoteField" : false,
+      "shippingCountryDefaultValue" : "US",
+      "billToShippingDefaultValue" : false,
+      "showShippingPhoneNumber" : true,
+      "isShippingPhoneRequired" : false,
+      "showBillingPhoneNumber" : true,
+      "isBillingPhoneRequired" : false,
+      "currenciesSupported" : [ "CHF", "HKD", "MXN", "EUR", "DKK", "USD", "CAD", "MYR", "NOK", "THB", "AUD", "SGD", "ILS", "PLN", "GBP", "CZK", "SEK", "NZD", "PHP", "RUB" ],
+      "defaultCurrency" : "USD",
+      "selectedCurrency" : "USD",
+      "measurementStandard" : 1,
+      "orderConfirmationInjectCode" : "",
+      "showCustomCheckoutForm" : false,
+      "checkoutPageMarketingOptInEnabled" : false,
+      "enableMailingListOptInByDefault" : true,
+      "sameAsRetailLocation" : false,
+      "merchandisingSettings" : {
+        "scarcityEnabledOnProductItems" : false,
+        "scarcityEnabledOnProductBlocks" : false,
+        "scarcityMessageType" : "DEFAULT_SCARCITY_MESSAGE",
+        "scarcityThreshold" : 10,
+        "multipleQuantityAllowedForServices" : true,
+        "restockNotificationsEnabled" : false,
+        "restockNotificationsSuccessText" : "",
+        "restockNotificationsMailingListSignUpEnabled" : false,
+        "relatedProductsEnabled" : false,
+        "relatedProductsOrdering" : "random",
+        "soldOutVariantsDropdownDisabled" : false,
+        "productComposerOptedIn" : false,
+        "productComposerABTestOptedOut" : false,
+        "productReviewsEnabled" : false,
+        "displayImportedProductReviewsEnabled" : false,
+        "hasOptedToCollectNativeReviews" : false
+      },
+      "minimumOrderSubtotalEnabled" : false,
+      "addToCartConfirmationType" : 2,
+      "isLive" : false,
+      "multipleQuantityAllowedForServices" : true
+    },
+    "useEscapeKeyToLogin" : true,
+    "ssBadgeType" : 1,
+    "ssBadgePosition" : 4,
+    "ssBadgeVisibility" : 1,
+    "ssBadgeDevices" : 1,
+    "pinterestOverlayOptions" : {
+      "mode" : "disabled"
+    },
+    "ampEnabled" : false,
+    "isRestrictiveCookiePolicyEnabled" : false,
+    "seoHidden" : false,
+    "userAccountsSettings" : {
+      "loginAllowed" : false,
+      "signupAllowed" : false
+    },
+    "isCookieBannerEnabled" : false,
+    "isVisitorDataRestricted" : false
+  },
+  "collection" : {
+    "id" : "56c1c37a9f726616784e8ac3",
+    "websiteId" : "56c185f6746fb9a875e10bc8",
+    "video" : {
+      "playbackSpeed" : 1,
+      "zoom" : 0
+    },
+    "backgroundSource" : 1,
+    "enabled" : true,
+    "starred" : false,
+    "type" : 1,
+    "ordering" : 2,
+    "title" : "1960 - 1966",
+    "navigationTitle" : "1960 - 1966",
+    "urlId" : "the-ballets-1960-",
+    "itemCount" : 0,
+    "updatedOn" : 1455539066147,
+    "description" : "",
+    "features" : {
+      "relatedItems" : {
+        "isEnabled" : false
+      },
+      "productQuickView" : {
+        "isEnabled" : false
+      }
+    },
+    "eventView" : 1,
+    "folder" : true,
+    "dropdown" : true,
+    "folderBehavior" : 1,
+    "collections" : [ {
+      "id" : "56c1c4381bbee0f5157cf90c",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "mainImageId" : "59c82df718b27d6b849e2859",
+      "mainImage" : {
+        "id" : "59c82df718b27d6b849e2859",
+        "recordType" : 2,
+        "addedOn" : 1506291191739,
+        "updatedOn" : 1506291196808,
+        "workflowState" : 1,
+        "publishOn" : 1506291191739,
+        "authorId" : "547c8136e4b0dcc910ec6ea3",
+        "systemDataId" : "1506291192217-F7GHUPSXZGZ7Z4E69HSO",
+        "systemDataVariants" : "1046x772,100w,300w,500w,750w,1000w",
+        "systemDataSourceType" : "JPG",
+        "filename" : "song.jpg",
+        "mediaFocalPoint" : {
+          "x" : 0.39,
+          "y" : 0.4,
+          "source" : 3
+        },
+        "colorData" : {
+          "topLeftAverage" : "4b4b4b",
+          "topRightAverage" : "3e3e3e",
+          "bottomLeftAverage" : "5b5b5b",
+          "bottomRightAverage" : "414141",
+          "centerAverage" : "484848",
+          "suggestedBgColor" : "515151"
+        },
+        "urlId" : "wzy9g9o561ss3205c5gsl7xxqqjw6n",
+        "title" : "",
+        "body" : null,
+        "likeCount" : 0,
+        "commentCount" : 0,
+        "publicCommentCount" : 0,
+        "commentState" : 2,
+        "unsaved" : false,
+        "assetUrl" : "https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1506291192217-F7GHUPSXZGZ7Z4E69HSO/song.jpg",
+        "contentType" : "image/jpeg",
+        "items" : [ ],
+        "pushedServices" : { },
+        "pendingPushedServices" : { },
+        "originalSize" : "1046x772",
+        "recordTypeLabel" : "image"
+      },
+      "video" : {
+        "playbackSpeed" : 1,
+        "zoom" : 0
+      },
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "1960 - 1966",
+      "navigationTitle" : "The Ballets",
+      "urlId" : "1960-1966",
+      "itemCount" : 0,
+      "updatedOn" : 1502206319813,
+      "description" : "",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1502206319810\" id=\"page-56c1c4381bbee0f5157cf90c\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_11_1468487124379_34905\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <h3>\u00A0</h3><ul><li><h3><a href=\"/new-page-4\">Le Baiser de la f\u00E9e </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/the-invitation.html\">The Invitation </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/orpheus.html\">Orpheus </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/seven-deadly-sins.html\">Seven Deadly Sins </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/diversions.html\">Diversions </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/the-rite-of-spring.html\">The Rite of Spring </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/dance-suite.html\">Dance suite </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/symphony.html\">Symphony </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/las-hermanas.html\">Las Hermanas </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/dark-descent.html\">Dark Descent </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/fantasia-in-c-minor.html\">Fantasia in C minor </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/la-creation-du-monde.html\">La Cr\u00E9ation du Monde </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/divertimento.html\">Divertimento </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/images-of-love.html\">Images of Love </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/romeo-and-juliet-pas-de-deux.html\">Romeo and Juliet pas de deux </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/romeo-and-juliet.html\">Romeo and Juliet </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/song-of-the-earth-das-lied-von-der-erde.html\">Song of the Earth (Das Lied von der Erde) </a></h3></li><li><h3><a href=\"http://kennethmacmillan.com/ballets/all-works/1960-1966/albertine.html\">Albertine </a></h3></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/1960-1966",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1c3ad9f726616784e8b2f",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Le Baiser de la F\u00E9e",
+      "navigationTitle" : "Le Baiser de la F\u00E9e",
+      "urlId" : "new-page-4",
+      "itemCount" : 0,
+      "updatedOn" : 1512919285195,
+      "description" : "<p>1960</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512919285191\" id=\"page-56c1c3ad9f726616784e8b2f\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_91218\" id=\"block-yui_3_17_2_21_1512811300430_91218\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1c3ad9f726616784e8b30\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>\u201CI\u2019m sick to death of fairytales\u201D Kenneth MacMillan once told <em>The Times</em>. Yet <em>Le Baiser de la f\u00E9e</em> fascinated him and he revisited his 1960 original again in 1986. \u201CIt was the music that naturally attracted me\u201D, he told Clive Barnes, \u201Ccertainly not the story. I realise that the story is not altogether convincing. But I also found the theme, or, if you like, allegory, extraordinarily interesting.\u201D</p><p>This was Kenneth MacMillan\u2019s third Stravinsky ballet; the previous two were <a target=\"_blank\" href=\"/danses-concertantes\"><em>Danses Concertantes</em></a> (1955) and <a target=\"_blank\" href=\"/agon\"><em>Agon</em></a> (1959). While the score of <em>Baiser</em> had been admired from the time of its composition in 1929, choreographers had struggled to create a completely successful staging. Nijinska\u2019s original for Ida Rubinstein had left Stravinsky cold (\u201CI\u2019m just back from the theatre with a fearful headache as a result of the terrible things I\u2019ve been seeing\u201D). Kenneth MacMillan was the eighth choreographer to tackle <em>Baiser</em>; others who had previously hazarded its pitfalls included Frederick Ashton (1935) and George Balanchine (1937), both of whom had warned MacMillan of the difficulties in his way, chief among them the lack of obvious relationships between score and scenario. For several critics, MacMillan\u2019s version is the most credible in its engagement with both and in its attempt to reconcile them.</p><p>Musically <em>Le Baiser de la f\u00E9e</em> is a tribute to Tchaikovsky, while its scenario is based on Hans Christian Andersen\u2019s <em>The Ice Maiden</em>. This is the story of a boy destined for immortality because he has been kissed at birth by a fairy, or ice maiden. When the boy grows up and marries, the fairy reappears, entices away him from his bride and carries him away to supreme happiness. Stravinsky explained his fascination with the tale:</p><h3>\u201CIn associating this muse (i.e. Tchaikovsky) with our Fairy, this ballet becomes an allegory. This Muse has in the same way marked the ballet with the fatal kiss whose mysterious imprint is visible in all the work of that great artist.\u201D</h3><p>Ashton, in creating his version, identified with the idea of the kiss as an ordination, an artistic setting apart. For Ashton the instant of the kiss is the climactic ecstatic moment in the young man\u2019s life. But MacMillan had a far darker story to tell. His instinct was for the bride betrayed. His tale is one of good and evil - of the abandoned bride (\u201CShe\u2019s the one who is lost\u201D) and a young man in the grip of everlasting darkness. For Clive Barnes, MacMillan, in reconceiving the allegory, had cut to its heart:</p><h3>\u201C...the artist in society, the man marked out from his fellows, unable to join in their life and dedicated to suffering\u201D. In MacMillan\u2019s hands, Barnes suggested, the ballet \u201Cnot only appears as a telling homage to the 19th-century Russian ballets that inspired it, but also as a work full of noble, singing poetry.\u201D</h3><p>MacMillan was determined that the set should not recycle traditional images of fairyland. Instead, the designer Kenneth Rowell created a threatening landscape in dark mineral colours; an abstract world of rock stratas, gorges, caverns and ominous icebergs.</p><p>For Richard Buckle, this <em>Baiser</em> was a \u2018tremendous success\u2019. He continued: \u201CMacMillan, with his ear to the ground, has perfectly translated into movement the filigree of shimmering insect splendour which is a feature of this score. Of Lynn Seymour as the Bride, he wrote that she \u201Cskims and flits like a happy gnat through her lovely allegretto variation: she has the priceless gift of lending to art an air of spontaneity, and without question makes a triumph of her first created role. Of Svetlana Beriosova as the Fairy, it seemed to Buckle that she had never been seen to better effect in a modern ballet. \u201CAs the Fairy, her swooping boreal gestures and Alpine style point the difference between god and human.\u201D</p><p>As for <em>The Times</em>, \u201CThe criticism that the music, drawn from Tchaikovsky\u2019s salon music, with difficulty sustains a continuous ballet in four scenes is just, but so much invention has been put into the new choreography by Mr Kenneth MacMillan and into the splendid evocative scenery by Mr Kenneth Rowell, that the weakness of the hybrid creation was not obtrusive, for the eye was continuously and abundantly satisfied and gratified.\u201D For <em>Dance and Dancers</em> MacMillan\u2019s greatest success was in transforming nineteenth century classical choreography into \u201Csomething completely individual and yet at the same time retaining the essence of its style and structure. <em>Le Baiser de la f\u00E9e</em> represents the most mature choreography MacMillan has so far given us.\u201D</p><p>But for Alexander Bland of <em>The Observer</em>. \u201Cit is not until the pas de deux that interest quickens, the high point of the evening being soon reached in the fianc\u00E9e\u2019s solo, a delicious drifting rubato affair, which Lynn Seymour will make into a winner, when she has grown into it. The contrasting dance between the hero and the fairy, which follows (rather awkwardly) immediately afterwards, seems laboured by comparison with Beriosova \u2013 serene and fluid as ever, but hampered by a singularly unbecoming costume \u2013 not so romantically remote as she might have been. This is an ambivalent role \u2013 a kind of amiable Odile \u2013 but unattainability is surely in the long run a Muse\u2019s trump card. Donald MacLeary danced and acted excellently throughout.\u201D</p><p>Given so many excellent reviews, the question must be asked why the ballet did not survive. The reasons were similar to those for the non-survival in the repertory of <a href=\"/laiderette\"><em>Laiderette</em></a>. MacMillan had wanted to do <em>Le Baiser de la f\u00E9e</em> as his first commissioned ballet, but the musical demands (configuration) of Stravinsky\u2019s score were impractical for a touring company. When it was produced in 1960 at Covent Garden, the complication became Kenneth Rowell\u2019s set designs. These were so complex that, at a time when the Royal Ballet could call on sixty other works in the repertory, there were only six other ballets with which <em>Le Baiser de la f\u00E9e</em> could, for technical reasons, be programmed. Of those six some were probably not compatible on the same programme; there could have been a preponderance of opening ballets or middle works, or impossible orchestral demands so <em>Le Baiser de la f\u00E9e</em> was a nightmare to schedule and had only 33 performances.</p><ul><li><blockquote>First performed: 12 April 1960</blockquote></li><li><blockquote>Company: The Royal Ballet</blockquote></li><li><blockquote>Music: Igor Stravinsky</blockquote></li><li><blockquote>Design: Kenneth Rowell</blockquote></li><li><blockquote>Cast: Lynn Seymour, Svetlana Beriosova, Donald MacLeary</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-4",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1c3b486db4351af25aaed",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "The Invitation",
+      "navigationTitle" : "The Invitation",
+      "urlId" : "new-page-5",
+      "itemCount" : 0,
+      "updatedOn" : 1512819081845,
+      "description" : "<p>1960</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512819081839\" id=\"page-56c1c3b486db4351af25aaed\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_86614\" id=\"block-yui_3_17_2_21_1512811300430_86614\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1c3b59f726616784e8b41\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Late in life Kenneth MacMillan told John Osborne that his experience of seeing <em>Look Back in Anger</em> in 1956 had made him realise that \u201Ceverything in my world was merely window-dressing.\u201D <em>The Invitation</em> was one of the first fruits of MacMillan\u2019s conviction that ballet in Britain needed grit and realism. It made waves for the quality of its story-telling but what made it especially controversial was its vivid enactment of a rape.</p><p>MacMillan had read Colette\u2019s<em> Le Bl\u00E9 en Herbe</em> and <em>The House of the Angel</em> by Beatriz Guido; his scenario for <em>The Invitation</em>, in effect, conflates them. The setting is a bourgeois household \u2018in some warm country\u2019 at the beginning of the twentieth century. Two young cousins, a boy and girl, both in the first glimmers of sexual awareness, are seduced by an unhappily married middle-aged couple. While the boy\u2019s seduction might be explained away as a rite of passage, the girl\u2019s experience is brutal. She misconstrues the older man\u2019s interest, and responds almost playfully to him. In a pas de deux, her innocent steps become, in his eyes, overt provocations. He rapes her and she collapses. Later, the boy tried to comfort her; in loathing she pushes him away. Her world has become bestial. She walks ashen-faced downstage as the curtain falls.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_5_1502551090036_7136\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:2500px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:66.68000030517578%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502555232394-I56WKLFYNY2XFQP9R5BZ/Yasmin+Naghdi\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502555232394-I56WKLFYNY2XFQP9R5BZ/Yasmin+Naghdi\" data-image-dimensions=\"2500x1667\" data-image-focal-point=\"0.5,0.5\" alt=\"Yasmin Naghdi in The Invitation performed 2016 \u00A9Charlotte MacMillan\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502555232394-I56WKLFYNY2XFQP9R5BZ/Yasmin+Naghdi\" width=\"2500\" height=\"1667\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502555232394-I56WKLFYNY2XFQP9R5BZ/Yasmin+Naghdi?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502555232394-I56WKLFYNY2XFQP9R5BZ/Yasmin+Naghdi?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502555232394-I56WKLFYNY2XFQP9R5BZ/Yasmin+Naghdi?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502555232394-I56WKLFYNY2XFQP9R5BZ/Yasmin+Naghdi?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502555232394-I56WKLFYNY2XFQP9R5BZ/Yasmin+Naghdi?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502555232394-I56WKLFYNY2XFQP9R5BZ/Yasmin+Naghdi?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502555232394-I56WKLFYNY2XFQP9R5BZ/Yasmin+Naghdi?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Yasmin Naghdi in The Invitation performed 2016 \u00A9Charlotte MacMillan</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_9_1505632502959_3206\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>So explicitly choreographed was the actual rape scene, that Ninette de Valois asked MacMillan at one of the final rehearsals to consider if that part of the action could take place off stage. He declined to make changes and de Valois did not over-rule him. The girl (Lynn Seymour) was flung spread-eagled around her assailant, then hooped around his body, sliding to the ground after the moment of orgasm.</p><p>MacMillan opted for a commissioned score by M\u00E1ty\u00E1s Seiber, who died shortly before the premiere (but having substantially completed the score). MacMillan gave Seiber a detailed scenario with a full treatment of the main characters and their psychological states. Only one fragment was not new: Seiber suggested his <em>Pastorale and Burlesque for flute and orchestra, to herald the young girl\u2019s first entry. Again, MacMillan</em> opted for designs by Nicholas Georgiadis: <em>tachiste</em> scenes on gauze praised by most critics, only Peter Williams of <em>Dance and Dancers</em> dissenting, on the basis that the scenery was \u201Cnear-bordering on the forbidden world of the fairy-tale\u201D and at variance with the harsh realism of the ballet\u2019s subject-matter.</p><p>\u201CI made the characters people I know\u201D, MacMillan told <em>The Times</em>, \u201Cnot the characters in the books. I want people to go to the theatre to be moved by something they can recognise.\u201D For the same paper\u2019s review of the first performance at Covent Garden on 30 December, MacMillan had shown \u201Can altogether remarkable power to represent a terrible act of violence with truth and a gruesome sort of beauty, but without toppling from the abyss of art into the abyss of sensationalism.\u201D Further, <em>The Times</em> noted, <em>The Invitation</em> \u201Cestablished Miss Lynn Seymour\u2019s arrival as an actress-ballerina of the front rank\u201D.</p><p>\u201CChoreographically this is MacMillan\u2019s best work and I no longer doubt his quality\u201D, wrote Richard Buckle, a verdict with which his opposite number at <em>The Observer</em>, Alexander Bland concurred. \u201CAbove all he has written beautifully for Lynn Seymour. She is the lucky possessor of a tender, expressive, liquid movement astonishingly similar to that of Fonteyn: she can act: and she is very young. From the moment when she runs on and gently plays (flirts would be too grown-up a word) with the boy \u2013 sensitively danced by Christopher Gable \u2013 to the beautifully arranged twisting rape scene and her last empty gesture, a modern Giselle, fracture by lust instead of by love, he never puts a foot wrong for her. And she responds with a performance which puts her straight into the ballerina class.\u201D</p><ul><li><blockquote><em>First performed</em>&nbsp;10 November 1960</blockquote></li><li><blockquote><em>Company</em> Royal Ballet Touring Company</blockquote></li><li><blockquote><em>Music </em>Matyas Seiber</blockquote></li><li><blockquote><em>Design</em> Nicholas Georgiadis</blockquote></li><li><blockquote><em>Cast</em> Lynn Seymour, Christopher Gable, Anne Heaton, Desmond Doyle</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-5",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1c3b786db4351af25aaee",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Orf\u00E9o",
+      "navigationTitle" : "Orf\u00E9o",
+      "urlId" : "new-page-45",
+      "itemCount" : 0,
+      "updatedOn" : 1512819071864,
+      "description" : "<p>1961<br />\u00A0</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512819071860\" id=\"page-56c1c3b786db4351af25aaee\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_81718\" id=\"block-yui_3_17_2_21_1512811300430_81718\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1c3b79f726616784e8b50\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Early in 1961 Kenneth MacMillan choreographed the dances for a revival of Covent Garden Opera\u2019s 1953 production of Gluck\u2019s <em>Orpheus</em>. Frederick Ashton had created the dances for the original, but they had been heavily criticised (\u201COrpheus strolled down the Stygian ranks as if at a revue\u201D) and a decision was made to commission MacMillan instead.</p><p>Kathleen Ferrier who sang Eurydice was seriously ill and could sing only two performances; she died later in the year. The production\u2019s designer Sophie Fedorovitch, Frederick Ashton\u2019s close associate, died near the night of the premiere after a gas leak in her flat.</p><p>Ballet is intrinsic to Gluck\u2019s opera with <em>The Dance of the Blessed Spirits</em> one of its musical highlights. According to <em>The Times\u2019</em> opera review, \u201CKenneth MacMillan\u2019s choreography was not always well suited to the music, notably in the E flat major dance in the first scene, but he seemed more at home in the Elysian Fields, where Miss Anne Heaton and Mr Alexander Bennett led the blessed spirits\u2019 sedate revels\u201D.</p><p>Philip Hope-Wallace, writing in <em>The Guardian</em>, was more critical. \u201CKenneth MacMillan\u2019s choreography comes no nearer than most efforts to solving the problems of the ballets: indeed it looks leggy, fidgety, and the costumes adopted suggest the more sensational Wimbledon outfit.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-45",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1c3ba86db4351af25ab01",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Seven Deadly Sins",
+      "navigationTitle" : "Seven Deadly Sins",
+      "urlId" : "new-page-55",
+      "itemCount" : 0,
+      "updatedOn" : 1512819059988,
+      "description" : "<p>1961</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512819059983\" id=\"page-56c1c3ba86db4351af25ab01\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_77845\" id=\"block-yui_3_17_2_21_1512811300430_77845\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1c3bb9f726616784e8b5a\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Elizabeth West and Peter Darrell co-founded Western Theatre Ballet in 1957. They aimed to find new audiences for ballet, performing in theatres that large companies did not visit. It was their ambition to commission ballets reflecting the spirit of the day and, crucially, to revitalise ballet\u2019s theatrical dimension (hence the word \u2018theatre\u2019 in the company\u2019s name). Lord Harewood\u2019s invitation to perform at the Edinburgh Festival in 1961 was an important recognition of what Western Theatre Ballet had achieved. The programme they chose was daunting for a small company: Kenneth MacMillan\u2019s version of Brecht/Weill\u2019s <em>Seven Deadly Sins</em>, along with <em>Salade</em> choreographed by Peter Darrell and Le Renard choreographed by Alfred Rodrigues. A particular strength of the evening was the designs, which for all three ballets were overseen by Barry Kay. Ian Spurling was MacMillan\u2019s designer, his set constructed, rather than consisting of painted cloths and flats, the seven locales of Anna\u2019s sins announced on large lettered cubes moved around the stage by the cast.</p><p><em>The Seven Deadly Sins</em>, which Berthold Brecht and Kurt Weill wrote after they fled Nazi Germany (it was their final collaboration), is an excoriating assault on capitalist morality. It was conceived as a satirical <em>ballet chant\u00E9</em> and first commissioned by Boris Kochno and George Balanchine in 1933. The work had been largely forgotten until Balanchine revived it in 1958.</p><p>Its heroine, Anna is a split personality, presented in MacMillan\u2019s ballet as two sisters. The singing Anna is all rational calculation. Her counterpart, the dancing Anna, is instinctive, natural, unguarded and generous. Anna is despatched into the world to \u2018make good\u2019. The deadly sins from which her sister has to save her are the instincts that stand in the way of success. The two sisters, really one, journey around the America of Brecht\u2019s imagination encountering a different sin in each city. Each humane impulse of the dancing Anna (Anya Linden) is stigmatised as a deadly sin by the singing Anna\u2019s voice of reason (Cleo Laine). Virtue subsists only in acquiring money, symbolised by the home in Louisiana to which they eventually return.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_5_1502551090036_23481\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:768px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:68.61979675292969%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502556413557-TF6RBIO2CKLC7GQW9EHF/Ian+Spurling\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502556413557-TF6RBIO2CKLC7GQW9EHF/Ian+Spurling\" data-image-dimensions=\"768x527\" data-image-focal-point=\"0.5,0.5\" alt=\"\u00A9Ian Spurling Costume design for Corps de Ballet of Seven Deadly Sins 1961\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502556413557-TF6RBIO2CKLC7GQW9EHF/Ian+Spurling\" width=\"768\" height=\"527\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502556413557-TF6RBIO2CKLC7GQW9EHF/Ian+Spurling?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502556413557-TF6RBIO2CKLC7GQW9EHF/Ian+Spurling?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502556413557-TF6RBIO2CKLC7GQW9EHF/Ian+Spurling?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502556413557-TF6RBIO2CKLC7GQW9EHF/Ian+Spurling?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502556413557-TF6RBIO2CKLC7GQW9EHF/Ian+Spurling?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502556413557-TF6RBIO2CKLC7GQW9EHF/Ian+Spurling?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502556413557-TF6RBIO2CKLC7GQW9EHF/Ian+Spurling?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>\u00A9Ian Spurling Costume design for Corps de Ballet of Seven Deadly Sins 1961</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_5_1502551090036_23758\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Lotte Lenya was to have been MacMillan\u2019s Singing Anna, as she had been both in the 1933 and in the 1958 revivals. She had not understood that the choreography would be new and withdrew from the production to be replaced by Cleo Laine. For <em>The Times</em> the ballet made the strongest impression of the evening. \u201CWhether or not we agree with Brecht\u201D, the review (unsigned) continued, \u201Cthat there is anything specifically bourgeois about this immorality, the piece should make us profoundly uncomfortable. That it did not tonight was partly due to Mr Kenneth MacMillan\u2019s and Mr Ian Spurling\u2019s all too brilliant evocation of the world of Pabst\u2019s films, which now seem safely quaint, and partly to the invincible warmth of Miss Cleo Laine\u2019s singing. The final horror should lie in the fact that Anna I thinks of herself not as hard-bitten but as a pillar of morality: no room here for a heart of gold, or even a heart at all.</p><p>A music critic, Peter Heyworth reviewed the premiere for <em>The Observer</em>. \u201CWhat was conceived in rage is swaddled in pity and savage satire is reduced to piquant paradox.\u201D However, Andrew Porter of <em>The Financial Times</em> came to MacMillan\u2019s defence. \u201CIt is not <em>The Seven Deadly Sins</em>, one feels, that Brecht and Weill intended. On its own terms, however, if not on theirs, MacMillan\u2019s choreography is filled with brilliance and invention and the whole presentation, in Ian Spurling\u2019s extremely clever set, is exciting.\u201D</p><ul><li>1961</li><li>Western Theatre Ballet, Edinburgh Festival&nbsp;</li><li><em>Music </em>Kurt Weill</li><li><em>Design </em>Ian Spurling</li><li><em>Cast </em>Anya Linden, Cleo Laine</li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-55",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1c3bd86db4351af25ab15",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Diversions",
+      "navigationTitle" : "Diversions",
+      "urlId" : "new-page-67",
+      "itemCount" : 0,
+      "updatedOn" : 1512819050174,
+      "description" : "<p>1961</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512819050169\" id=\"page-56c1c3bd86db4351af25ab15\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_72557\" id=\"block-yui_3_17_2_21_1512811300430_72557\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1c3bd86db4351af25ab16\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Kenneth MacMillan choreographed <em>Diversions</em> to fill a last-minute gap in the first triple bill of the Royal Ballet\u2019s 1961-\u201962 season. Ninette de Valois appealed to MacMillan to fill the breach. He agreed despite the pressure on him to complete another work, <em>Seven Deadly Sin</em>s, for Western Ballet Theatre (the premiere of which was on 4 September). Little choice was given him about the shape of the work; it had to be plotless as the programme already had two narrative pieces, Frederick Ashton's Persephone and Alfred Rodrigues\u2019s <em>Jabez and the Devil</em>. Neither was the score MacMillan\u2019s choice; De Valois suggested Arthur Bliss's <em>Music for Strings</em> (de Valois's own <em>Checkmate</em> was also created to music by Bliss). With little time to seek an alternative score, MacMillan agreed to use Bliss.</p><p><em>Diversions</em> is choreographed for two leading and four supporting couples. According to Edward Thorpe, MacMillan\u2019s earlier biographer, when The Royal Ballet revived the piece in 1979, MacMillan remarked to him that he was amazed that, 18 years before, he had dared to demand such sustained virtuosity from his dancers.</p><p><em>Diversions</em> was an exercise in neo-classicism of a kind by then familiar to MacMillan. Audiences who knew nothing of the background were surprised by the choice of Bliss as composer and of MacMillan\u2019s \u2018softening\u2019 of his accustomed angularities to suit Bliss\u2019s more traditional textures. The choreography is for two contrasting couples; one couple seem abstracted \u2013 almost ceremonial (Svetlana Beriosova and Donald MacLeary). In contrast to their \u2018diffident grandeur\u2019 (Clive Barnes\u2019 description) is a more darting exuberant couple, who may be alter egos (Maryon Lane and Graham Usher). Four subsidiary couples frame the various pas de deux.</p><p>\u201CFollowing the hint of the music\u201D, wrote <em>The Observer\u2019s</em> Alexander Bland, \u201CMacMillan has concentrated on smoothness. There is no echo here of his early jerky, perky style. This is the purest classicism. There is hardly a step, which is not from the classroom, yet not a clich\u00E9.\u201D Bland also noted parallels to Frederick Ashton\u2019s Symphonic Variations; this was also commented on in the (unsigned) <em>Times</em> review. \u201CMacMillan\u2019s choreographic idiom has taken a glance, if not a step backward, to the Ashton of <em>Symphonic Variations</em>, as though to check his development with the style of a senior colleague.\u201D Peter Williams in <em>Dance and Dancers</em> suggested that if <em>Symphonic Variations</em> was a song of spring, that <em>Diversions</em> was its autumnal equivalent.</p><p>However, <em>The Guardian\u2019</em>s un-named critic (possibly James Kennedy), characterised both <em>Diversions</em> and <em>Jabez and the Devil</em>, its companion piece in the programme as \u201Cthe journalism of choreography \u2013 good, sound hack work, required by the repertory, but not born, apparently of any passion in their choreographers\u2019 hearts\u201D. Mary Clarke, writing in <em>Dancing Times</em> saw \u201Chardly a quirk of MacMillan\u2019s wry imagination.\u201D She expressed surprise at MacMillan\u2019s choice of music (\u201Cor if he did not choose it, (it is) surprising that he accepted the commission.\u201D There was approval, however, from Clive Barnes at <em>Dance and Dancers</em>, who commented on \u201Cthe refinement and exciting power of the choreography as a whole. It seems to spin out in one effortless and elegant thread.\u201D</p><p>Philip Prowse\u2019s designs (no doubt as hastily improvised as the ballet itself) came from a palette of aubergine, black, ochre and cinnamon, the women\u2019s bodices and skirts and the men\u2019s tunics possibly Minoan or Etruscan in inspiration For Peter Williams in <em>Dance and Dancers</em> it was \u201Cthough Gods, or surviving mortals were performing some ritual in the ruins of a civilisation.\u201D</p><p>As originally conceived, <em>Diversions</em> was to be performed only in blacks and practice dress, which suggests MacMillan thought of it an exercise in pure dance. At some point someone had second thoughts and designs were commissioned from Philip Prowse to a limited budget which laid down the use of only three flats. He turned the three flats into suspended borders of massive architecture, and set against them costumes with his characteristic creation of planes and shapes within the body outline, predominantly in brown, an uncommon colour on the dance stage.</p><p>The Royal Opera House\u2019s annual report for 1961-62 noted that of the three ballets commissioned in the season, two, Ashton\u2019s <em>Persephon</em>e and MacMillan\u2019s <em>Diversions</em> had become part of the permanent repertory <em>Diversions</em> was occasionally revived during the 1960s and in 1979 and performed by the Royal Ballet New Group in 1971. In 1999, Scottish Ballet revived the ballet with new designs by Philip Prowse.</p><ul><li>Royal Ballet, Royal Opera House</li><li><em>Music </em>Arthur Bliss</li><li><em>Design </em>Philip Prowse</li><li><em>Cast </em>Maryon Lane, Svetlana Beriosova, Donald MacLeary, Graham Usher</li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-67",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1f6f660b5e91f2ef16f9a",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "The Rite of Spring",
+      "navigationTitle" : "The Rite of Spring",
+      "urlId" : "new-page-22",
+      "itemCount" : 0,
+      "updatedOn" : 1512938015452,
+      "description" : "<p>1961</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512938015447\" id=\"page-56c1f6f660b5e91f2ef16f9a\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_68044\" id=\"block-yui_3_17_2_21_1512811300430_68044\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1f6f660b5e91f2ef16f9b\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>In 1962 Kenneth MacMillan became the nineteenth choreographer to attempt <em>The Rite of Spring</em> and one of the few to have done so with any success. Nijinsky\u2019s original for the Diaghilev Ballet was only performed seven times: Stravinsky took a poor view of it and thereafter viewed <em>The Rite</em> as essentially a concert work. Whatever the merits or otherwise of Nijinsky\u2019s choreography, one truth remained: that he had made the first ballet to have broken with academic technique and <em>The Rite of Spring</em> became a beacon of all that was modern.</p><p>MacMillan\u2019s commission from the Royal Ballet came about almost by accident. Jerome Robbins had been asked to make a version of <em>Les Noces</em> to mark Stravinsky\u2019s eightieth birthday. When he withdrew, MacMillan\u2019s proposal for a new <em>Rite</em> was substituted. By 1962 Stravinsky loomed conspicuously large in Kenneth MacMillan\u2019s music choices and it was his fifth ballet to a Stravinsky score.</p><p>The original work stemmed from the Diaghilev Ballet Russes\u2019 fascination with Russia\u2019s mythic past. In Stravinsky and Nijinsky\u2019s scenario, a prehistoric people from the forests of Northern Russia sacrifice a virgin to the cosmic forces, which alone can make the spring come and ensure the continuity of the tribe. The scenario was retained by later choreographers including MacMillan. His innovation, was to switch hemispheres and, in tandem with his designer, Sidney Nolan, to re-enact <em>The Rite</em> in a nightmarish vision of aboriginal Australia. Nolan called the golden mushroom like totem pole on the backcloth of the second scene \u2018Moonboy\u2019, but to Cold War audiences it seemed like the cloud of a nuclear bomb explosion. The dancers wore ochre red and brown unitards, marked with handprints, suggestive of the daubed bodies of aboriginal peoples.</p><p>There are inherent problems in choreographing Stravinsky\u2019s score. Its climax is powerful, but the early dances can be ritually static. MacMillan abandoned these highly nuanced rituals in favour of dramatic effect. The ballet\u2019s complex choreographic patterns mean that it is best seen from above. MacMillan\u2019s <em>Rite</em> is one of the few ballets to have a specially designed floorcloth.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-embed embed-block\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.embed\" data-sqsp-block=\"embed\" data-website-component-id=\"yui_3_17_2_5_1502215998172_7039\" id=\"block-yui_3_17_2_5_1502215998172_7039\"><div class=\"sqs-block-content\">\n  \n\n<div\n  class=\"sqs-embed-container\"\n  data-localized=\"{&quot;embedInvalid&quot;:&quot;Enter a valid embed URL or code.&quot;,&quot;embedTitle&quot;:&quot;Embed Block&quot;,&quot;embedUninitialized&quot;:&quot;Add an embed URL or code.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;invalidThumbnail&quot;:&quot;Custom featured images only available with embedded videos. Go back into embed settings to turn off featured images.&quot;,&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\"\n  \n  \n>\n  \n  \n    \n    \n      \n        \n        \n        \n          \n          <div class=\"intrinsic\" style=\"max-width:100%\">\n            <div class=\"embed-block-wrapper embed-block-provider-YouTube\" style=\"padding-bottom:56.20608899297424%;\">\n        \n        \n          <iframe src=\"//www.youtube.com/embed/QzY_JDr3xws?wmode=opaque&amp;enablejsapi=1\" height=\"480\" width=\"854\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"\">\n</iframe>\n        \n        \n            </div>\n          </div>\n        \n        \n      \n    \n  \n  \n    \n\n\n\n  \n</div>\n\n\n  <style class=\"transform-overrides-vars\">\n  \n</style>\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-embed embed-block sqs-col-6 span-6 float float-left\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.embed\" data-sqsp-block=\"embed\" data-website-component-id=\"yui_3_17_2_5_1502551090036_51570\" id=\"block-yui_3_17_2_5_1502551090036_51570\"><div class=\"sqs-block-content\">\n  \n\n<div\n  class=\"sqs-embed-container\"\n  data-localized=\"{&quot;embedInvalid&quot;:&quot;Enter a valid embed URL or code.&quot;,&quot;embedTitle&quot;:&quot;Embed Block&quot;,&quot;embedUninitialized&quot;:&quot;Add an embed URL or code.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;invalidThumbnail&quot;:&quot;Custom featured images only available with embedded videos. Go back into embed settings to turn off featured images.&quot;,&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\"\n  \n  \n>\n  \n  \n    \n    \n      \n        \n        \n        \n          \n          <div class=\"intrinsic\" style=\"max-width:100%\">\n            <div class=\"embed-block-wrapper embed-block-provider-YouTube\" style=\"padding-bottom:56.20608899297424%;\">\n        \n        \n          <iframe src=\"//www.youtube.com/embed/RfGrZZX_nd0?wmode=opaque&amp;enablejsapi=1\" height=\"480\" width=\"854\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"\">\n</iframe>\n        \n        \n            </div>\n          </div>\n        \n        \n      \n    \n  \n  \n    \n\n\n\n  \n</div>\n\n\n  <style class=\"transform-overrides-vars\">\n  \n</style>\n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_5_1502215998172_7105\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>\u201CMr MacMillan\u2019s invention can never have been more musical or assured\u201D, said The Times of the opening night Gala, attended by Queen Elizabeth, the Queen Mother and Princess Margaret. \u201C Time and again Stravinsky\u2019s music, unaffectedly conducted by Mr Colin Davis meets its match, as the choreography, with its blend of primitivism and modern jive, piles climax on climax. At first sight, a thrilling ballet to which we will gratefully return.\u201D \u201CAlexander Bland of <em>The Observer</em> thought MacMillan\u2019s new ballet a \u2018really solid addition\u2019 to the repertoire of a kind different from anything else. \u201COnce the idiom of stage spectacle has been accepted, one can give nothing but praise. The profusion of invention and the way in which a new but not offensively quirkish style of movement is sustained is extraordinary. The company shows up excellently. Nolan\u2019s sets are impressive and Monica Mason gives a tremendous performance as the sacrificial girl.\u201D</p><p>Her performance as the Chosen One, made Monica Mason\u2019s career. \u201CA maiden excellently chosen\u201D, wrote <em>The Guardian\u2019s</em> critic. \u201CShe looks just a little more statuesque than most of her companions and she moves with an apparently easy grasp of the music\u2019s rhythms and with a lissom authority.\u201D The review continued. \u201CChoreographer and designer have been at one: they have made sense \u2013 emotional sense.\u201D</p><ul><li>First Performed: 3 May 1962</li><li>Company: Royal Ballet, Royal Opera House</li><li><em>Music </em>Igor Stravinsky</li><li><em>Design </em>Sidney Nolan</li><li><em>Chosen Maiden </em>Monica Mason</li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-22",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1f6facf80a13c7c1b26f6",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Dance Suite",
+      "navigationTitle" : "Dance Suite",
+      "urlId" : "new-page-99",
+      "itemCount" : 0,
+      "updatedOn" : 1512819027971,
+      "description" : "<p>1962</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512819027967\" id=\"page-56c1f6facf80a13c7c1b26f6\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_63192\" id=\"block-yui_3_17_2_21_1512811300430_63192\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1f6facf80a13c7c1b26f7\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Dance Suite</em> was a commission for the Royal Ballet School\u2019s end of year performance in July 1962. Ten of the graduating students were joining the Royal Ballet and the various reviews singled out two dancers who would feature significantly in Kenneth MacMillan\u2019s ballets in the years to follow.</p><p><em>The Guardian\u2019s</em> (un-named) critic wrote: \u201CKenneth MacMillan\u2019s dance suite to the music of Darius Milhaud was very apposite in its bouncy gaiety. It gave something to many dancers and most to Vergie Derman, a tall blonde South African, who promises to be an athletic virtuoso rather in the Balanchine manner.\u201D</p><p><em>The Times</em> thought that the \u201Cfolk-dance flavoured choreography would have daunted all but the stoutest hearts among professional dancers\u201D and singled out Derman along with \u201CMr Richard Cragun, a young man of considerable promise whose American nationality makes him unfortunately ineligible for our national ballet.\u201D</p><ul><li>14 July 1962</li><li>Royal Ballet School, Royal Opera House</li><li><em>Music </em>Darius Milhaud</li><li><em>Cast </em>Vergie Derman, Richard Cragun, Kerrison Cooke</li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-99",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1ff5862cd945cd5b3f2c7",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Fantasia in C minor",
+      "navigationTitle" : "Fantasia in C minor",
+      "urlId" : "new-page-12",
+      "itemCount" : 0,
+      "updatedOn" : 1512819008029,
+      "description" : "<p>1962</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512819008025\" id=\"page-56c1ff5862cd945cd5b3f2c7\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_59397\" id=\"block-yui_3_17_2_21_1512811300430_59397\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1ff5962cd945cd5b3f2c9\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Kenneth MacMillan made this solo for Rudolf Nureyev. The occasion was a gala matin\u00E9e, which Margot Fonteyn had organised in aid of the Royal Academy of Dancing (as it then was). But during the performance on a slippery stage Nureyev lost one shoe, stopped (\u201Cwith devastating sang-froid\u201D) to remove the other and appeared thereafter to improvise the choreography.</p><p>Writing in <em>The Observer</em>, Alexander Bland (Nigel and Maude Gosling, Nureyev\u2019s close friends) characterised <em>Fantasia</em> as a \u201Cvaguely hip arrangement performed by Nureyev with a nonchalant ease which enabled him to shed a pair of recalcitrant slippers without subtracting from - indeed adding to - the choreography.\u201D <em>The Times</em> was more chilly: \u201Cone could have been forgiven for imagining that this was the incredible Mr Nureyev\u2019s benefit\u201D. It said the solo was \u201Cnew, jazzy, but misjudged.\u201D</p><p>\u201CI was not proud of the choreography\u201D, MacMillan told Edward Thorpe. He was uncomfortable with Nureyev and with the cult of celebrity that surrounded him.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-12",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1f6feab48de9e3b10fe24",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Symphony",
+      "navigationTitle" : "Symphony",
+      "urlId" : "new-page-69",
+      "itemCount" : 0,
+      "updatedOn" : 1512939611100,
+      "description" : "<p>1963</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512939611096\" id=\"page-56c1f6feab48de9e3b10fe24\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_55622\" id=\"block-yui_3_17_2_21_1512811300430_55622\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1f6fe60b5e91f2ef16fd5\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Choreographers using symphonies as ballet scores had long been controversial. The first was Leonide Massine who, in 1933, aroused considerable debate by his use of Tchaikovsky\u2019s Fifth Symphony for <em>Les Pr\u00E9sages</em> and Brahms\u2019s Fourth Symphony for <em>Choreartium</em>. In 1939, he had used Shostakovich\u2019s First Symphony for <em>Rouge et noir</em>, with a scenario about Man and his Destiny. Few followed in his footsteps and by 1963 the symphonic ballet was out of fashion. Whatever MacMillan may have felt about revisiting a defunct idiom, he was under pressure to produce a steady stream of work for the Covent Garden stage. He turned for advice to John Lanchbery, who suggested Shostakovich\u2019s first symphony, written in 1926 when the composer was 19.</p><p>Unlike Massine\u2019s version, MacMillan\u2019s was - ostensibly - plotless and, unlike Massine, Macmillan did not seek to lay the score out on stage with a close equivalence between dancers and individual instruments of the orchestra. In some ways <em>Symphony</em> resembled MacMillan\u2019s own 1961 ballet <a href=\"/new-page-67\">Diversions</a>, the idiom similarly neo-classical. As in Diversions, there were two lead couples and a group of soloists (here, three subsidiary couples); however, <em>Symphony</em> had a full corps de ballet.</p><p>Despite the lack of stated plot, it was easy to imply relationships among the dancers. Sibley, lying sphinx-like on the floor was confronted first by MacLeary, then by Doyle. A pas de deux converted to a pas de trois, leaving the second woman outside the triangle. There were forceful traverses for the corps, in Clive Barnes\u2019 words, \u201Cwhen Shostakovich says jump, they all jump\u201D. Throughout, Barnes wrote for <em>Dance and Dancers</em>, \u201Cthere is a feeling of lovers in innocence and lovers in experience. At times the ballet might well be <em>about</em> loss of virginity, at others loss of identification, at others still loss of human contact. This desolate undertow finds its final expression in the closing sculptural group. Here you find the two men locked in a sort of combat, with the \u2018Sibley\u2019 girl emerging from the group with her empty arms outstretched for contact, and the \u2018Parkinson\u2019 girl at the back, her arms raised aloft in despair or even horror\u201D.</p><p>This last figure may even have stood for MacMillan himself. In an interview beforehand with the Covent Garden Friends\u2019 magazine <em>About the House</em>, MacMillan had said \u201CThe more I look at my work, the more it seems that, unwittingly, I choose the lonely, outcast, rejected figure: <a href=\"/new-page-5\">The Invitation</a>, <em>Rite of Spring</em>,<em> Solitaire</em>,<em> Le Baiser de la F\u00E9e</em>. I don\u2019t set out to do it, but it always seems to happen unconsciously \u2013 as a sort of leitmotif. It will be interesting to see if it emerges in the new work.\u201D</p><p>The designer Yolanda Sonnabend had been introduced to MacMillan by her mentor Nicholas Georgiadis; her designs for <em>Symphony</em>, vast painterly backdrops, had afterimages of Georgiadis\u2019s previous designs for <em>The Invitatio</em>n (1961); \u201CThe soft floating backcloths are gorgeous splashes of colour\u201D, wrote Mary Clarke in the 1964 Ballet Review, \u201Cbut her costumes, although serviceable for dancing, are unattractive and unbecoming, robbing their wearers of character\u201D. Peter Williams, writing for <em>Dance and Dancers,</em> thought the \u201Clack of relation between costumes and settings curious from a talented painter.\u201D (Sonnabend modified the designs when Symphony returned to the repertory in 1975).</p><p>There were illnesses among the cast; Antoinette Sibley was a last-minute replacement for Lynn Seymour, who had flu, while Donald MacLeary had a knee operation during rehearsals. Nonetheless, Clive Barnes was fulsome about the first night. \u201CWith its incandescent excitement contrasted with its sudden shafts of inexplicably desolate poetry, <em>Symphony</em> is a work of obvious distinction\u201D, he wrote in <em>The Times</em>. Less warm was <em>The Observer\u2019s</em> Alexander Bland. \u201CThe choreographic design is never clear. The principals don\u2019t form, either as individuals or pairs, strongly characterised motifs.\u201D <em>The Guardian\u2019s</em> review (unsigned) was tepid; \u201Cneo-classical dance, laced admittedly with some MacMillanesque contortions but apparently unencumbered by any purpose save that of catching the mood and the rhythm of the music in apposite dance\u201D.</p><p>Several years later, there was an intriguing back-reference by James Kennedy of <em>The Guardian</em>. When, eventually, <em>Song of the Earth</em> came to be staged at Covent Garden, he characterised MacMillan\u2019s classic as \u2018the marvellous fruition\u2019 of such \u2018half-baked experiments\u2019 as <em>Symphony</em>.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-69",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1ff51c6fc08ef548416f9",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Las Hermanas",
+      "navigationTitle" : "Las Hermanas",
+      "urlId" : "new-page-8",
+      "itemCount" : 0,
+      "updatedOn" : 1512818690953,
+      "description" : "<p>1963</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512818690949\" id=\"page-56c1ff51c6fc08ef548416f9\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_51749\" id=\"block-yui_3_17_2_21_1512811300430_51749\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1ff51c6fc08ef548416fa\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Kenneth MacMillan created Las Hermanas ('The Sisters'), for Stuttgart Ballet. Like Lorca's play <em>The House of Bernarda Alba</em> on which it is based, <em>Las Hermanas</em> is a tense psychological drama about sensuality under harsh repression and the emotional and violent consequences that follow. It tells the story of five sisters, all unmarried, who have been cowed into conformity by their tyrannical mother. The eldest is engaged, but the family is torn apart when her fianc\u00E9 is seduced by her youngest sister. A third sister betrays them. The fianc\u00E9 is banished, the elder sister is condemned to a lonely spinsterhood and the youngest hangs herself in shame.</p><p>MacMillan had to persuade audiences that dance could be as apt a medium for the story as the spoken word. In the event, his choreography stretched ballet to new limits of dramatic expressiveness. \u201CIt is classical, certainly, in its language but transmitting classicism into ferocious drama.\u201D wrote James Kennedy in <em>The Guardian</em>. According to Monica Mason, \"Kenneth would have been hugely attracted by the claustrophobia of this house and these young repressed women; it was right up his street.\"</p><p>It was the designer, Nicholas Georgiadis, who suggested to MacMillan the balletic possibilities of Lorca\u2019s original. Georgiadis\u2019s highly realistic set, the distillation of Lorca\u2019s oppressive atmospheres, is like a cloistered prison and follows the playwright\u2019s instructions exactly. \u201CA very white room in Bernarda Alba\u2019s house. The walls are white. There are arched doorways with jute curtains....\u201D Frank Martin's score is similarly apt, the sound world described by the solo harpsichord eerily claustrophobic.</p><p>MacMillan had an outstanding first cast in Stuttgart that included Marcia Hayd\u00E9e, Birgit Keil and Ray Barra. At the outset, the principal characters are strongly established; the elder sister\u2019s introversion with clenched fists, and a contrapuntal use of upper and lower body; the jealous sister with waspish meanness, quick turns, and accusing arms. Once the younger sister has tried on her sister\u2019s wedding veil, an atmosphere has been created, the scene set for what is to come. The groom has an animal insolence but in the pas de deux with the bride-to-be, she is spinsterish, all rigid arms and tight fists. She shrivels when she realises they are being watched. Then the groom dances with the younger sister \u2013 this time the dance is abandonedly sexual. The jealous sister tells the household. The denouement follows and the mother banishes the groom; the sisters contemplate a bleak finality. The youngest sister is discovered hanging as the curtain falls.</p><p>Reviewing the Stuttgart production at the Edinburgh Festival later that year, <em>The Times</em> reviewer (un-named but almost certainly Clive Barnes) wrote that \u201CMacMillan's use of literature tends towards the cavalier and this ballet is no exception, but he has extracted from the Lorca play an imaginative libretto of considerable dramatic impact.\u201D Alexander Bland, reviewing the 1971 Sadler\u2019s Wells production for <em>The Observer</em>, noted that Lorca\u2019s original had been \u201Ctranslated into dance terms with a sustained intensity\u201D. But James Kennedy, reviewing Western Theatre Ballet\u2019s 1966 production in The Guardian cavilled at the depiction of the younger sister\u2019s suicide; \u201Ca shock all right, but not the right sort of shock in the context.\u201D</p><p>In 1966 Peter Wright directed a BBC2 studio version of <em>Las Hermanas</em>. \u201CI brought over Marcia Hayd\u00E9e and Ray Barra, along with some dancers from the Royal Ballet, including Georgina Parkinson and Monica Mason. While keeping to the actual set designed by Georgiadis, I was able to enlarge it and make it much more as if it had been created for television rather than for the theatre. One could get in close to the action. It worked extremely well.\u201D</p><p>In 1966 <em>Las Hermanas</em> entered the repertoire of Western Theatre Ballet and in 1971 that of the Royal Ballet New Group. It was most recently performed by Sarasota Ballet in Florida in 2007.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-8",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1ff5462cd945cd5b3f293",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Dark Descent",
+      "navigationTitle" : "Dark Descent",
+      "urlId" : "new-page-77",
+      "itemCount" : 0,
+      "updatedOn" : 1512818681106,
+      "description" : "<p>1963</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512818681103\" id=\"page-56c1ff5462cd945cd5b3f293\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_47877\" id=\"block-yui_3_17_2_21_1512811300430_47877\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1ff5462cd945cd5b3f294\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Kenneth MacMillan choreographed the short chamber ballet Dark Descent for the ITV arts series <em>Tempo</em>, produced in Birmingham, which was shown late on Sunday nights and presented variously by Lord Harewood and the actor Leonard Maguire. The programme showed MacMillan working with Marcia Hayd\u00E9e and Ray Barra from Stuttgart Ballet and answering questions about his method of working. He based the ballet, an extended pas de deux, on the Orpheus myth and on a grieving husband\u2019s pursuit of his dead wife to the underworld. Following their collaboration on <em>Dark Descent</em>, MacMillan asked the programme\u2019s designer James Goddard to work with him on his next ballet, <a href=\"/new-page-54\">La Cr\u00E9ation du Monde</a>.</p><p><em>Tempo</em> (the predecessor of LWT\u2019s <em>Aquarius</em>, which in its turn begat <em>The South Bank Show</em>) was an attempt to challenge the BBC\u2019s hegemony in arts magazine programmes. This edition of <em>Tempo</em> was one of the ITV network\u2019s earliest broadcasts of classical dance. For a time, the dance scholar Peter Brinson was the programme\u2019s editor.</p><p>In 1982 the director Jack Gold followed a somewhat similar format to that of <em>Dark Descent</em>, when he filmed a documentary for ITV\u2019s Granada region on MacMillan rehearsing two other dancers from Stuttgart Ballet. <a href=\"/new-page-52\">A Lot of Happiness</a>, the programme\u2019s eventual title, also had parallels to <em>Dark Descent</em> in its invocation of the Orpheus myth.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-77",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1ffed55598673acb1d1ee",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "La cr\u00E9ation du monde",
+      "navigationTitle" : "La cr\u00E9ation du monde",
+      "urlId" : "new-page-54",
+      "itemCount" : 0,
+      "updatedOn" : 1512818671982,
+      "description" : "<p>1964</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512818671978\" id=\"page-56c1ffed55598673acb1d1ee\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_44103\" id=\"block-yui_3_17_2_21_1512811300430_44103\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1ffed55598673acb1d1ef\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>\u201CKenneth MacMillan has owed us a light-hearted ballet for years\u201D, began Clement Crisp\u2019s review of Kenneth MacMillan\u2019s <em>La Cr\u00E9ation du Monde</em>. It is a whimsical version of the Creation story in the form of a zany children\u2019s game.</p><p>Darius Milhaud\u2019s score, much influenced by black music and jazz, was originally written for the Ballet Su\u00E9dois, for which Jean Borlin had staged his version in 1924. In its day it was described as a <em>ballet N\u00E8gre</em>, because of its supposed sources in the African imagination of the beginnings of life. In 1931 Ninette de Valois had choreographed a distinctly solemn staging for the Camargo Society, which was later performed by the Vic-Wells (now Royal) Ballet.</p><p>Solemnity was the last thing, however, on MacMillan\u2019s mind. His <em>Cr\u00E9ation</em> was the Royal Ballet\u2019s first experiment in pop art. For early peoples, he substitutes children at play on whom the curtain rises as they empty out the contents of a dressing-up box. Then a decrepit \u201CGreat Deity\u201D with an enormous top hat is wheeled on-stage in the delivery basket of a butcher-boy\u2019s bicycle. The Great Deity, in Union Jack-bedecked white tights is introduced, rather like a conjuror at a party. The games begin.</p><p>\u201CFor my next creation\u201D, flashes a message on a screen and the animals enter. Then the screen signals; \u201CAnd now INSTANT people\u201D. Enter Adam and Eve (Richard Farley and Doreen Wells). Their fig leaves are discarded for all-over white tights. Eve\u2019s are stencilled with the words \u2018bird\u2019, \u2018floosie\u2019, \u2018doll\u2019, \u2018fluff\u2019 \u2018chick\u2019, \u2018filly\u2019 \u2018bint\u2019, \u2018frail\u2019; Adam\u2019s \u2013 less controversially - with \u2018bloke\u2019, \u2018fellow\u2019, \u2018beau\u2019, \u2018butch\u2019, \u2018homme\u2019.</p><p>Then, as Clive Barnes recorded for <em>Dance and Dancers</em>, followed a pas de deux for Adam and Eve. \u201CThis involves eccentricities, including much laying on of innocent hands on innocent anatomies in a mildly exploratory mood. Of course the answer to the rude question \u2018has no-one ever told them?\u2019 is no. Paradise is broken by the entrance of the Serpent (Elizabeth Anderton \u2013 \u201CI was a teenage snake\u201D) who comes on jauntily sucking her thumb. The Deity tries to fight her off while Adam and Eve resume their supernal fumblings. The Apple enters (a dancer in a green balloon --\u2018Granny\u2019, \u2018apple\u2019, \u2018fresh today\u2019) and the Serpent jives with him. She tempts Adam and Eve to take a bite from the Apple (while the subtitles joyfully proclaim \u2018I was seduced by Granny Smith\u2019) and they nibble the unfortunate Apple down to the core.\u201D</p><p>The ballet ends with Adam and Eve\u2019s pas de deux becoming more enthusiastically sexual. God interrupts their revels and chases them away with a whip. As God is left disconsolately alone, the children mock him and he is ferried away on the butcher\u2019s bike.</p><p>\u201CThis is a ballet full of ideas\u201D, wrote Clement Crisp in <em>The Financial Times</em>, \u201Cof gimmicks taken from \u2018Pop\u2019 art but made completely balletic and the tricks and comic devices never obscure the basic strength of the dancing.\u201D \u201CCertainly it is all very jolly\u201D, wrote <em>The Guardian\u2019s</em> critic James Kennedy, \u201Cand iconoclastic and cynical as well. For if this new version can be said to have anything like a message, that message can only be that the \u2018Great Deity\u2019 made a pretty mess of his creation.\u201D</p><p>MacMillan invited James Goddard, the designer, to work on the ballet, following their previous collaboration on MacMillan\u2019s television ballet <a href=\"/new-page-77\">Dark Descent</a>. \u201CThe decor is perfectly in key with the work\u201D, wrote Clement Crisp. Richard Buckle dissented: \u201CIt is high time Pop art reached ballet, but James Goddard is rather a confused and wishy-washy kind of Pop artist to represent it.\u201D Peter Williams, writing for <em>Dance and Dancers</em>, praised MacMillan\u2019s intent in choosing Goddard, but cavilled at the result. \u201CIn an art so composite as ballet with at least three creators doing their nut, there is really only room for one comedian who should, by rights, be the choreographer.\u201D</p><p>Richard Buckle\u2019s review for <em>The Sunday Times</em> ended: \u201CGod creates man in his own image, then man creates God in <em>his</em> own image. Man mocks God and sends him packing: and God starts all over again. But who created God in the first place? I see no reason why these sublime considerations should not be treated in a Pop and jazzy way.\u201D</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-54",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1fff001dbaeb4deb97edd",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Divertimento",
+      "navigationTitle" : "Divertimento",
+      "urlId" : "new-page-42",
+      "itemCount" : 0,
+      "updatedOn" : 1512936745091,
+      "description" : "<p>1964</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512936745088\" id=\"page-56c1fff001dbaeb4deb97edd\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_40182\" id=\"block-yui_3_17_2_21_1512811300430_40182\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1fff155598673acb1d1f8\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>This was the only pas de deux that Kenneth MacMillan ever created for Margot Fonteyn and Rudolf Nureyev. Its single performance was the high point of a gala evening at the 1964 Bath Festival, whose director was Yehudi Menuhin. On the day of the performance Fonteyn heard that her husband, Roberto Arias, had been seriously wounded in an attempted assassination. She decided to dance at the performance before leaving for Panama to be at his side.</p><p>Fonteyn and Nureyev had rehearsed the pas de deux several months previously before leaving on a tour of Australia. The photographer Keith Money recalled their rehearsal in Bath, along with a moment of naivety from Menuhin about the nature of choreography.</p><blockquote>\u201CRather surprisingly the dancers had somehow remembered most of the work during the interim, and the first stage rehearsal was progressing satisfactorily when Menuhin suddenly stopped playing, waved his bow at the two dancers, and said: \u2018I think, here, something a little lighter, more cheerful, perhaps\u2019.\u201D</blockquote><p>The Alexander Bland column in <em>The Observer</em> recorded the eventual performance as follows.</p><blockquote>\u201CThat a gala audience in the English provinces, faced with a modern dance arrangement, to a bit of unaccompanied solo violin by Bartok, should respond not with an icy rattle of gloved hands but with determined shouts for an immediate encore is surely a signal worth noticing. Is public taste on the move? The presence and playing of the Festival director, Yehudi Menuhin certainly contributed much: the dancing of the extraordinary couple contributed more; but most credit must go to the choreographer, Kenneth MacMillan, who showed again that he has not only found a personal style but that he can deploy it to exploit his dancers\u2019 virtues. This short piece, written in the sinuous, emotional groping \u00E1 terre style of the best bits of his recent <a href=\"/new-page-37\">Images of Love</a> was proved a success, all the keener for being so improbable.\u201D</blockquote>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-42",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c20089b654f99dc4490bff",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Images of Love",
+      "navigationTitle" : "Images of Love",
+      "urlId" : "new-page-37",
+      "itemCount" : 0,
+      "updatedOn" : 1512937095618,
+      "description" : "<p>1964</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512937095615\" id=\"page-56c20089b654f99dc4490bff\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_36286\" id=\"block-yui_3_17_2_21_1512811300430_36286\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c2008ab654f99dc4490c00\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Images of Love</em> was one of two ballets commissioned for a Covent Garden triple bill to mark the four hundredth anniversary of Shakespeare\u2019s birth. The other works on the programme were Frederick Ashton\u2019s <em>The Dream</em> and Robert Helpmann\u2019s 1942 ballet <em>Hamlet.</em></p><p>MacMillan\u2019s ballet was a suite of vignettes about unsatisfactory love affairs. The individual episodes, nine in all, were based on speeches from Shakespeare\u2019s plays \u2013 four from <em>Two Gentlemen of Verona</em> - and on Sonnet CXLIV (\u201CTwo loves I have of comfort and despair.\u201D). A few lines, common to each the word \u2018love\u2019, were spoken by the actor Derek Godfrey (on tape) before each dance</p><p>\u201CThe idea of this deliberately episodic ballet was good but perilous\u201D, wrote <em>The Guardian\u2019s</em> critic James Kennedy.\u201DThe quotation before each episode promised, or seemed to promise, something new and different each time; but seven times out of ten, the promise was unfulfilled. It is difficult enough to make a good one-act ballet; but to make eight short ballets, each with a sharp choreographic point, is more difficult still.</p><p>\u201COnce again\u201D, wrote Clive Barnes for <em>Dance and Dancers</em>, \u201CMacMillan has based his ballet on the character of the \u2018little girl lost\u2019, although here this MacMillan familiar is given for the first time to a male dancer, and the Rudolf Nureyev role, miserably alone in a world of miserable loveless couples, could perhaps have been used to bring the ballet into sharper focus.\u201D</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_3_1502524119359_7139\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:1152px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:73.69792175292969%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502524185797-KFOMSFIZUOO4EZSM55YR/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502524185797-KFOMSFIZUOO4EZSM55YR/image-asset.jpeg\" data-image-dimensions=\"1152x849\" data-image-focal-point=\"0.5,0.5\" alt=\"photo courtesy of the Barry Kay Archive\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502524185797-KFOMSFIZUOO4EZSM55YR/image-asset.jpeg\" width=\"1152\" height=\"849\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502524185797-KFOMSFIZUOO4EZSM55YR/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502524185797-KFOMSFIZUOO4EZSM55YR/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502524185797-KFOMSFIZUOO4EZSM55YR/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502524185797-KFOMSFIZUOO4EZSM55YR/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502524185797-KFOMSFIZUOO4EZSM55YR/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502524185797-KFOMSFIZUOO4EZSM55YR/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502524185797-KFOMSFIZUOO4EZSM55YR/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>photo courtesy of the Barry Kay Archive</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_3_1502524119359_7417\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>MacMillan\u2019s character sketches are often intriguing\u201D, <em>The Times</em> music critic reported, while Alexander Bland of <em>The Observer</em> had praise for individual vignettes. \u201CTwo at least are original, moving and beautiful. A legato \u201Clove is blind\u201D pas de deux for Lynn Seymour and Christopher Gable is written as though the two lovers, seeing only through their bodies, were drowning in a sea of sensuousness.; and a slow pas de trois in which Nureyev joins the same pair to become the apex of the sinuousness triangle celebrated in the \u201Ctwo angels\u201D sonnet, exploits a new and fascinating Oriental plasticism. Both were superbly danced.\u201D</p><p>The specially commissioned score was by Peter Tranchell, a Cambridge music lecturer. For Noel Goodwin of <em>Dance and Dancers</em>, it was little more than an accompaniment which failed to amplify character and had \u201Cthe semblance of sound-track music\u201D. For James Kennedy of <em>The Guardian</em>, it was \u201Cemphatically not the food of love.\u201D</p><p>For <em>Images of Love</em>, Barry Kay created a multi-level tubular construction. MacMillan had originally seen Kay\u2019s work in the theatre and been particularly struck by his mastery of period costume design. MacMillan acknowledged that working with Kay made his job so much easier, the clear, yet imaginative designs helping to clarify his own often vague ideas during the creating of the ballet. Also, importantly, they shared a similar response to music. MacMillan remembered <em>Images of Love\u2019s</em> set being \u201Cfor me a breakthrough in 3-dimensional stage design\u201D although it was rather a 3-d backcloth than a setting within which the dancers moved. The 1960s was to see the development of built sets rather than backcloths for ballets, notably <a href=\"/new-page-8\"><em>Las Hermanas</em></a><em> </em>(1963) and <a href=\"/new-page-90\"><em>Romeo and Juliet</em></a> (1965), both designed by Georgiadis.</p><p>Of the set, Kennedy wrote that \u201CBarry Kay\u2019s bamboo edifice, in the background to this work, was alluring\u201D. Peter Williams of <em>Dance and Dancers</em> agreed about its visual beauty, but argued that it distracted from the dance. \u201CWhat Kay has done for <em>Images of Love</em> seems to belong to the designer trying his hand at sculpture rather than a sculptor bringing his own plastic sense to choreography.\u201D</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-37",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c2020b86db4391f156a45d",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Romeo and Juliet Pas de Deux",
+      "navigationTitle" : "Romeo and Juliet Pas de Deux",
+      "urlId" : "new-page-64",
+      "itemCount" : 0,
+      "updatedOn" : 1512939153775,
+      "description" : "<p>1964</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512939153772\" id=\"page-56c2020b86db4391f156a45d\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_31374\" id=\"block-yui_3_17_2_21_1512811300430_31374\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c2020b86db4391f156a45e\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>When Kenneth MacMillan\u2019s ballet <em>Romeo and Juliet</em> was still in gestation, and before the management at Covent Garden had given the go-ahead, Lynn Seymour was invited to appear on CBC television in her native Canada. She asked Christopher Gable to join her on the programme. Inelegantly billed as <em>Lynn Seymour, Our Dancing Export</em>, it was described as \u201Can incisive profile of the Canadian ballerina\u201D. For the occasion, MacMillan offered to create a pas de deux from his envisaged production.</p><p>In her biography, Lynn Seymour recalls:</p><blockquote>\u201CIn rehearsal Kenneth created a pas de deux which serves as the fulcrum for his work. Christopher and I \u2013 both in fine fettle \u2013 responded to what Kenneth wanted as if we three were under a potent spell. Like a man possessed, Kenneth completed the balcony pas-de-deux in three rehearsals\u201D.</blockquote><p>Shortly afterwards, MacMillan received the go-ahead for a full production of <em>Romeo and Juliet</em>. The commission for CBC meant that a key part of the eventual ballet\u2019s architecture was already in place.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-64",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c202aa59827e8effb5fea6",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Romeo and Juliet",
+      "navigationTitle" : "Romeo and Juliet",
+      "urlId" : "new-page-90",
+      "itemCount" : 0,
+      "updatedOn" : 1512818242647,
+      "description" : "<p>1964</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512818242642\" id=\"page-56c202aa59827e8effb5fea6\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_10203\" id=\"block-yui_3_17_2_21_1512811300430_10203\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c202aa59827e8effb5fea8\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>MacMillan had been longing to create his own <em>Romeo and Juliet</em> after seeing John Cranko\u2019s version for the Stuttgart Ballet. Lynn Seymour had danced Cranko\u2019s Juliet as a guest artist in Stuttgart in April 1964; MacMillan had subsequently choreographed the balcony scene pas de deux for her and Christopher Gable to perform on Canadian television during their summer break that year.</p><p>Frederick Ashton, then artistic director of the Royal Ballet, gave MacMillan the green light for the complete ballet in September 1964. The company wanted a big new three-act ballet based on the play by Shakespeare, whose 400th anniversary was celebrated in 1964. Ashton had chosen not to mount the <em>Romeo and Juliet</em> he had made for the Royal Danish Ballet in 1955, fearing it would suffer by comparison with the large-scale Lavrovsky production the Bolshoi Ballet had brought to the Royal Opera House. MacMillan therefore had less than five months to create his first three-act ballet, which the company hoped to include in its 1965 American tour.</p><p>He, Seymour and Gable endlessly discussed their ideas about the characters as MacMillan choreographed the key pas de deux in each act \u2013 his starting point around which the rest of the ballet would be built. He and Seymour envisaged Juliet as a headstrong, passionate girl who makes all the crucial decisions: the secret marriage, in defiance of her parents\u2019 wishes; taking Friar Lawrence\u2019s potion; joining Romeo in death. Gable\u2019s Romeo was a young man swept off his feet by love, dancing in dizzy exultation.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-embed embed-block sqs-col-6 span-6 float float-left\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.embed\" data-sqsp-block=\"embed\" data-website-component-id=\"yui_3_17_2_9_1510085389115_12432\" id=\"block-yui_3_17_2_9_1510085389115_12432\"><div class=\"sqs-block-content\">\n  \n\n<div\n  class=\"sqs-embed-container\"\n  data-localized=\"{&quot;embedInvalid&quot;:&quot;Enter a valid embed URL or code.&quot;,&quot;embedTitle&quot;:&quot;Embed Block&quot;,&quot;embedUninitialized&quot;:&quot;Add an embed URL or code.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;invalidThumbnail&quot;:&quot;Custom featured images only available with embedded videos. Go back into embed settings to turn off featured images.&quot;,&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\"\n  \n  \n>\n  \n  \n    \n    \n      \n        \n        \n        \n        \n          <iframe src=\"https://player.vimeo.com/video/241745057\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\n        \n        \n        \n      \n    \n  \n  \n    \n\n\n\n  \n</div>\n\n\n  <style class=\"transform-overrides-vars\">\n  \n</style>\n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_9_1510085389115_13767\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Romeo and his close friends, Mercutio and Benvolio, were given bravura steps that distinguished them from the street fighters in Verona\u2019s market place and the stately aristocrats in the ballroom scene. MacMillan had hitherto avoided virtuoso steps because he thought them too conventionally balletic. Only Juliet and her girlfriends are on pointe: their choreography is contrasted with character dances and verismo crowd scenes. MacMillan broke the ballet conventions of the time by having the dancing evolve from naturalistic action. Unlike Cranko\u2019s production, there are no picturesque poses for applause at the end of set-pieces. Unlike the Bolshoi production there are no spotlit entrances for the leading characters: Romeo is discovered in semi-darkness at the start of the ballet as Rosaline\u2019s anonymous suitor; Juliet\u2019s arrival at the ball in her honour goes unnoticed at first.</p><p>MacMillan wanted to show the lovers as youngsters at the mercy of a powerful patriarchal society. Georgiadis\u2019s monumental designs \u2013 unusual, then, for a ballet \u2013 emphasised the oppressive might of Juliet\u2019s surroundings. She is a small, vulnerable figure within the imposing Capulet household and, finally, laid out in the family vault. Even Friar Lawrence is to be found in a well-appointed monastery rather than a simple cell. Georgiadis and MacMillan took their inspiration from Italian Quottrocento paintings and architecture, as well as from Shakespeare. Franco Zeffirelli\u2019s 1960 production of <em>Romeo and Juliet</em> for the Old Vic had been another influence, with its fortress of a palazzo guarding the Capulet family\u2019s treasures \u2013 including their nubile daughter.</p><p>MacMillan borrowed from Cranko the harlots who animate the market-place scenes. It is they who get the action going in the first scene, as they roister with the three young bloods, Romeo, Mercutio and Benvolio, and provoke the indignation of the townspeople. Tybalt, one of the Capulet clan, provokes a fight with the Montague faction which develops into a lethal brawl. The Prince of Verona enters to put a stop to the fighting, commanding the warring factions to lay down their swords.</p><p>The second scene introduces Juliet, playing childishly with her nurse. Her parents enter with Paris, her intended bridegroom. When they leave, the nurse tells her gently that her girlhood is over.</p><p>The Capulets are giving a ball to mark Juliet\u2019s entry into Veronese society. Romeo and his two friends decide to crash it, wearing masks as a disguise. During the formal dances, Juliet and Romeo fall in love before she realises that he is a Montague, a family enemy. When his identity is revealed, Lord Capulet intervenes to prevent Tybalt breaking the laws of hospitality by starting a fight.</p><p>After the ball, Juliet is on her balcony, dreaming of Romeo, when he enters below. She runs to join him in an ecstatic pas de deux expressing their love for each other.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-left\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_27_1502205154007_7396\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:468px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:73.93162536621094%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502206523917-9OXWL3O8RINL4XONYE0J/Kenneth+MacMillan+in+rehearsal+with+Margot+Fonteyn+and+Rudolph+Nureyev\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502206523917-9OXWL3O8RINL4XONYE0J/Kenneth+MacMillan+in+rehearsal+with+Margot+Fonteyn+and+Rudolph+Nureyev\" data-image-dimensions=\"468x346\" data-image-focal-point=\"0.5,0.5\" alt=\"Kennth MacMillan in rehearsal with Margot Fonteyn and Rudolph Nureyev\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502206523917-9OXWL3O8RINL4XONYE0J/Kenneth+MacMillan+in+rehearsal+with+Margot+Fonteyn+and+Rudolph+Nureyev\" width=\"468\" height=\"346\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502206523917-9OXWL3O8RINL4XONYE0J/Kenneth+MacMillan+in+rehearsal+with+Margot+Fonteyn+and+Rudolph+Nureyev?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502206523917-9OXWL3O8RINL4XONYE0J/Kenneth+MacMillan+in+rehearsal+with+Margot+Fonteyn+and+Rudolph+Nureyev?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502206523917-9OXWL3O8RINL4XONYE0J/Kenneth+MacMillan+in+rehearsal+with+Margot+Fonteyn+and+Rudolph+Nureyev?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502206523917-9OXWL3O8RINL4XONYE0J/Kenneth+MacMillan+in+rehearsal+with+Margot+Fonteyn+and+Rudolph+Nureyev?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502206523917-9OXWL3O8RINL4XONYE0J/Kenneth+MacMillan+in+rehearsal+with+Margot+Fonteyn+and+Rudolph+Nureyev?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502206523917-9OXWL3O8RINL4XONYE0J/Kenneth+MacMillan+in+rehearsal+with+Margot+Fonteyn+and+Rudolph+Nureyev?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502206523917-9OXWL3O8RINL4XONYE0J/Kenneth+MacMillan+in+rehearsal+with+Margot+Fonteyn+and+Rudolph+Nureyev?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Kennth MacMillan in rehearsal with Margot Fonteyn and Rudolph Nureyev</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_27_1502205154007_10884\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>In Act II, Romeo is a changed man in the market place, no longer at ease with his companions and the harlots. A wedding procession passes through, with acrobats entertaining the crowd to the sound of mandolins. The nurse arrives, bringing a letter for Romeo from Juliet, proposing a secret wedding.</p><p>Friar Lawrence marries the lovers, with Juliet\u2019s nurse the only witness. Before the marriage can be consummated, Romeo is embroiled in a duel with Tybalt in the market place. Because Romeo had initially refused to quarrel with Tybalt, Mercutio had stepped in for a dare-devil sword fight, only to be stabbed in the back. Romeo avenges his dead friend, killing Tybalt in anger. He has to flee when Lady Capulet enters, overcome with grief, followed by her husband.</p><p>Act III opens in Juliet\u2019s bedroom, the lovers asleep together. Romeo realises dawn is breaking and that he should leave. Juliet, frantic, tries to delay him, knowing he must go into exile. He departs just before Juliet\u2019s parents arrive with Paris. Juliet rejects him, to her father\u2019s rage, but she will be forced to marry him. In a dilemma about what to do, she sits on her bed, confounded, then rushes to seek Friar Lawrence\u2019s help.</p><p>He gives her a potion that will send her into a death-like trance. Romeo is to be told of the plan so that he can rescue her from her tomb, in the hope that both warring families will then forgive them. (The audience has to learn this from the synposis or the play, along with the fact that Romeo fails to be informed of the plan.)</p><p>Juliet takes the potion and hides the phial under her pillow. When her parents return with Paris, she appears, reluctantly, to yield to their insistence that she must marry him that day. She makes herself swallow the bitter potion, and crawls in a daze back to her bed. Her bridesmaids come to prepare her for her wedding but find her apparently lifeless. Her nurse and parents are distraught with grief.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-embed embed-block\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.embed\" data-sqsp-block=\"embed\" data-website-component-id=\"yui_3_17_2_21_1512811300430_17583\" id=\"block-yui_3_17_2_21_1512811300430_17583\"><div class=\"sqs-block-content\">\n  \n\n<div\n  class=\"sqs-embed-container\"\n  data-localized=\"{&quot;embedInvalid&quot;:&quot;Enter a valid embed URL or code.&quot;,&quot;embedTitle&quot;:&quot;Embed Block&quot;,&quot;embedUninitialized&quot;:&quot;Add an embed URL or code.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;invalidThumbnail&quot;:&quot;Custom featured images only available with embedded videos. Go back into embed settings to turn off featured images.&quot;,&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\"\n  \n  \n>\n  \n  \n    \n    \n      \n        \n        \n        \n          \n          <div class=\"intrinsic\" style=\"max-width:100%\">\n            <div class=\"embed-block-wrapper embed-block-provider-YouTube\" style=\"padding-bottom:56.20608899297424%;\">\n        \n        \n          <iframe src=\"//www.youtube.com/embed/dJwA2idPqnY?wmode=opaque&amp;enablejsapi=1\" height=\"480\" width=\"854\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"\">\n</iframe>\n        \n        \n            </div>\n          </div>\n        \n        \n      \n    \n  \n  \n    \n\n\n\n  \n</div>\n\n\n  <style class=\"transform-overrides-vars\">\n  \n</style>\n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_21_1512811300430_17648\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Juliet\u2019s body is placed on a bier in the family crypt. Paris stays behind after the mourners leave. Romeo enters the vault to bid farewell to her, unaware that she is not in fact dead. He kills Paris, then lifts Juliet from the bier to embrace her for the last time in an excess of grief. He lays her limp body back on the stone slab and drinks poison he has brought with him. When Juliet awakes to find herself in the crypt, Romeo is newly dead. She finds the dagger with which he killed Paris and stabs herself, trying to reach Romeo\u2019s body as she dies.</p><p>The curtain falls on the on the lifeless bodies without the reconciliation of the Montagues and Capulets with which Shakespeare ended his tragedy. The dual suicide has been painful, two young lives needlessly wasted.</p><p><em>Romeo and Juliet</em>\u2019s premiere, with Margot Fonteyn and Rudolf Nureyev in the leading roles, met with 43 curtain calls; the safety curtain had to be brought down to persuade the audience to leave the theatre. The critical response to the performers and the ballet was fulsome: \u2018A spectacular asset to the repertoire . . . altogether a milestone for MacMillan\u2019 (<em>Observer</em>); Kenneth MacMillan takes his place as one of the world\u2019s leading choreographers\u2019 (<em>Daily Mail</em>); Fonteyn\u2019s Juliet was \u2018all trust and purity, grace and gentleness, radiance and puppy love\u2019 (<em>Sunday Telegraph</em>). Andrew Porter in <em>The Financial Times</em> was the first to reveal that the role of Juliet was not conceived in Fonteyn\u2019s image: \u2018Juliet is plainly a role conceived for Lynn Seymour, and so until we have seen her dance it we cannot be precise about MacMillan\u2019s intentions\u2019.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-left\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_5_1502215998172_18816\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:432px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:127.3148193359375%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502216585842-T28PQ5AZ1GPT3EP10397/a219cca0c2b2a5593d918126b374e585--artsy-fartsy-vintage-ballet.jpg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502216585842-T28PQ5AZ1GPT3EP10397/a219cca0c2b2a5593d918126b374e585--artsy-fartsy-vintage-ballet.jpg\" data-image-dimensions=\"432x550\" data-image-focal-point=\"0.5,0.5\" alt=\"Lynn Seymour and Christopher Gable \u00A9Roy Round\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502216585842-T28PQ5AZ1GPT3EP10397/a219cca0c2b2a5593d918126b374e585--artsy-fartsy-vintage-ballet.jpg\" width=\"432\" height=\"550\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502216585842-T28PQ5AZ1GPT3EP10397/a219cca0c2b2a5593d918126b374e585--artsy-fartsy-vintage-ballet.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502216585842-T28PQ5AZ1GPT3EP10397/a219cca0c2b2a5593d918126b374e585--artsy-fartsy-vintage-ballet.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502216585842-T28PQ5AZ1GPT3EP10397/a219cca0c2b2a5593d918126b374e585--artsy-fartsy-vintage-ballet.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502216585842-T28PQ5AZ1GPT3EP10397/a219cca0c2b2a5593d918126b374e585--artsy-fartsy-vintage-ballet.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502216585842-T28PQ5AZ1GPT3EP10397/a219cca0c2b2a5593d918126b374e585--artsy-fartsy-vintage-ballet.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502216585842-T28PQ5AZ1GPT3EP10397/a219cca0c2b2a5593d918126b374e585--artsy-fartsy-vintage-ballet.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1502216585842-T28PQ5AZ1GPT3EP10397/a219cca0c2b2a5593d918126b374e585--artsy-fartsy-vintage-ballet.jpg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Lynn Seymour and Christopher Gable \u00A9Roy Round</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_5_1502215998172_19093\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>The first performances had gone to Fonteyn and Nureyev because they were a bigger draw than Seymour and Gable. The casting of the famous pair guaranteed a box-office sell out and massive publicity. Sol Hurok, the American impresario, had insisted that if the new ballet were to be included in the Royal Ballet\u2019s next US tour, it must be associated with Nureyev and Fonteyn. Paul Czinner\u2019s 1966 film of <em>Romeo and Juliet</em> featured Fonteyn and Nureyev for the same box-office reasons.</p><p>Seymour and Gable danced as the second cast, receiving adulatory reviews for their fresh approach to the roles. They were followed by three other pairings in the first London season and on the US tour in the spring of 1965.</p><p>MacMillan\u2019s <em>Romeo and Juliet</em> soon became a signature work of the Royal Ballet\u2019s repertoire, and the best known version of the Prokofiev ballet in Britain and the United States. During his lifetime, MacMillan mounted it for the Royal Swedish Ballet in 1971, American Ballet Theatre in 1985 and Birmingham Royal Ballet in 1992 (with new designs by Paul Andrews).</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-90",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c202ad746fb9eb0f5d26ed",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Song of the Earth   (Das lied von de erde)",
+      "navigationTitle" : "Song of the Earth (Des lied von de erde)",
+      "urlId" : "new-page-28",
+      "itemCount" : 0,
+      "updatedOn" : 1512935953193,
+      "description" : "<p>1965</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512935953189\" id=\"page-56c202ad746fb9eb0f5d26ed\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_27455\" id=\"block-yui_3_17_2_21_1512811300430_27455\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c202ad59827e8effb5feb4\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>MacMillan created <em>The Song of the Earth </em>soon after Romeo and Juliet, his first three-act ballet. He had long been hoping to choreograph a work to Mahler\u2019s symphonic song cycle, but the Royal Opera House board had rejected his proposal in 1959. When he tried again, after the huge success of Romeo and Juliet, he was told that Mahler was a composer whose music was unsuitable for ballet.</p><p>MacMillan offered his idea to the Stuttgart Ballet instead. His old friend John Cranko, director of the company since 1961, had extended an open invitation for him to visit Stuttgart and choreograph whatever he wanted. Cranko agreed to <em>The Song of the Earth </em>as part of a triple bill with MacMillan\u2019s <em><a href=\"/danses-concertantes\">Danses Concertantes</a></em> and a new work, <em>Opus 1</em>, by Cranko himself. He gave MacMillan first choice of the dancers he wanted to cast.</p><p>Since <em><em>Das Lied </em>von der Erde</em> would be sung in German, the Stuttgart audience would understand the words of the poems Mahler had set to music and see their visual connections in the choreography. The text of the songs is taken from Chinese poems of the eighth century T\u2019ang dynasty, freely translated into German. They are bitter-sweet reflections on human joys, concluding with a farewell to the world: Mahler added four lines to the final verses, ending with the repeated word \u2018Ewig\u2019 \u2013 \u2018Forever\u2019.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-embed embed-block\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.embed\" data-sqsp-block=\"embed\" data-website-component-id=\"yui_3_17_2_5_1502215998172_29609\" id=\"block-yui_3_17_2_5_1502215998172_29609\"><div class=\"sqs-block-content\">\n  \n\n<div\n  class=\"sqs-embed-container\"\n  data-localized=\"{&quot;embedInvalid&quot;:&quot;Enter a valid embed URL or code.&quot;,&quot;embedTitle&quot;:&quot;Embed Block&quot;,&quot;embedUninitialized&quot;:&quot;Add an embed URL or code.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;invalidThumbnail&quot;:&quot;Custom featured images only available with embedded videos. Go back into embed settings to turn off featured images.&quot;,&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\"\n  \n  \n>\n  \n  \n    \n    \n      \n        \n        \n        \n          \n          <div class=\"intrinsic\" style=\"max-width:100%\">\n            <div class=\"embed-block-wrapper embed-block-provider-YouTube\" style=\"padding-bottom:56.20608899297424%;\">\n        \n        \n          <iframe src=\"//www.youtube.com/embed/lQMLZJXUDi8?wmode=opaque&amp;enablejsapi=1\" height=\"480\" width=\"854\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"\">\n</iframe>\n        \n        \n            </div>\n          </div>\n        \n        \n      \n    \n  \n  \n    \n\n\n\n  \n</div>\n\n\n  <style class=\"transform-overrides-vars\">\n  \n</style>\n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_5_1502215998172_29673\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>MacMillan described the theme of his ballet succinctly: \u2018A man and a woman; death takes the man; they both return to her and at the end of the ballet, we find that in death there is the promise of renewal.\u2019 The central couple are part of a group of young people who are blissfully unaware of their own mortality. Among them is a man with a colourless half-mask over his face: he is Der Ewige \u2013 the Eternal One. In the English translation he is the Messenger of Death, which lends him a more sinister aspect. MacMillan liked to cast a slight young dancer in the role, apparently no more menacing than his companions, except that he knows what they choose to ignore. (Some interpreters, however, perform the Messenger as though he were Death itself.)</p><p>The Messenger shadows the leading man at the start of the ballet, and takes part in the men\u2019s horseplay. He will be present, however briefly, by the end of every song. (MacMillan added him in the fourth song in 1990.) The leading woman appears in the contemplative second song, Autumn Solitude, in which the words reveal her loneliness, her fear of death and her longing for a companion. She is the MacMillan \u2018outsider\u2019, sensing that she does not belong to the light-hearted group who amuse themselves during the songs that follow. She finds a lover in a long pas de deux, only to lose him to death. In her final solo, she has to reach an acceptance of her loss, the return of her isolation and the inevitability of death. As she resigns herself to a fate beyond her control, the Messenger returns with the man, who is now wearing a white half-mask symbolising death. All three link hands and step forward together in slow motion, as if into eternity. The curtain falls on their still-pacing figures.</p><p>MacMillan\u2019s choreography for <em>The Song of the Earth </em>was different from anything he had devised before. It was his long-considered response to Mahler\u2019s music and the images in the translated Chinese poetry. He introduced orientalisms amid the balletic pointework, asking the dancers to slide flat-footedly, tilt their torsos and bend their arms at the elbows and wrists as if adjusting long flowing sleeves or picking flowers. In the song Of Youth, which describes a porcelain pavilion reflected in a pool, the women kneel demurely as if by water, then later adopt upside-down positions.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-embed embed-block sqs-col-6 span-6 float float-left\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.embed\" data-sqsp-block=\"embed\" data-website-component-id=\"yui_3_17_2_5_1510085389115_10247\" id=\"block-yui_3_17_2_5_1510085389115_10247\"><div class=\"sqs-block-content\">\n  \n\n<div\n  class=\"sqs-embed-container\"\n  data-localized=\"{&quot;embedInvalid&quot;:&quot;Enter a valid embed URL or code.&quot;,&quot;embedTitle&quot;:&quot;Embed Block&quot;,&quot;embedUninitialized&quot;:&quot;Add an embed URL or code.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;invalidThumbnail&quot;:&quot;Custom featured images only available with embedded videos. Go back into embed settings to turn off featured images.&quot;,&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\"\n  \n  \n>\n  \n  \n    \n    \n      \n        \n        \n        \n        \n          <iframe src=\"https://player.vimeo.com/video/241417557\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\n        \n        \n        \n      \n    \n  \n  \n    \n\n\n\n  \n</div>\n\n\n  <style class=\"transform-overrides-vars\">\n  \n</style>\n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_5_1510085389115_10312\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Curving calligraphic shapes for the women are contrasted with weightier moves for the roistering men and stark lines and angles in the Farewell pas de deux. MacMillan may have been influenced by Antony Tudor\u2019s expressionist choreography in <em>Dark Elegies</em>, to Mahler\u2019s <em>Kindertotenlieder</em>, and by Martha Graham\u2019s modernism. Graham\u2019s work had been seen in London when her company visited in 1954 and 1963, but the Stuttgart dancers on whom Song of the Earth was created had no experience of her technique: for them, MacMillan\u2019s inventions were totally unfamiliar. German dance critics likened the choreography for <em>Das Lied </em>to Viennese Jugendstil or art nouveau, the period in which Mahler was composing his music.</p><p>By the time of the premiere, the designs had nothing to do with decorative art nouveau. Georgiadis\u2019s original costumes had been made in chiffon, with floating sleeves. He and MacMillan scrapped them after the dress rehearsal and asked the Stuttgart wardrobe staff to dye simple tunics, T-shirts and tights in bluey-green and purple shades. Der Ewige was in dark grey with a flesh-coloured half-mask. The ballet was given against a plain cyclorama, its colour changing through blues to pale green-yellow.</p><p>Royal Opera House board members who had objected to a ballet to Mahler\u2019s music gave in after critics who had seen <em>Das Lied </em>in Stuttgart wrote glowing reviews, urging the Royal Ballet to acquire it. The Royal Ballet first performed it in May 1966, with Marcia Hayd\u00E9e as a guest, Donald MacLeary as the man and Anthony Dowell as the Messenger of Death. Georgiadis changed the colour scheme to monochrome: the cyclorama varies from grey to black, the cast are dressed in shades of grey, the leading woman in white, the Messenger in black. The Stuttgart Ballet retains the original designs and has been performing <em><em>Das Lied </em>von der Erde</em>, along with MacMillan\u2019s <a href=\"/requiem-1\"><em>Requiem</em></a>, in a programme celebrating what would have been the choreographer\u2019s 80th birthday.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-28",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c2036b59827e8effb60523",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Albertine",
+      "navigationTitle" : "Albertine",
+      "urlId" : "new-page-83",
+      "itemCount" : 0,
+      "updatedOn" : 1512818323505,
+      "description" : "<p>1966</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512818323500\" id=\"page-56c2036b59827e8effb60523\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_21_1512811300430_22231\" id=\"block-yui_3_17_2_21_1512811300430_22231\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c2036b59827e8effb60525\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Zodiac was a twelve part series broadcast by BBC1 in 1966 in which dance episodes, both ballet and contemporary, were used to illustrate the various signs of the Zodiac. The producer/director was Margaret Dale, onetime member of the Sadler\u2019s Wells Ballet.</p><p>\u2018Taurus\u2019 was the theme of the edition of 13 May, which included a short ballet by Kenneth MacMillan with Lynn Seymour and Desmond Doyle. This was <em>Albertine</em>, a dramatisation of a story by Barbey d\u2019Aurevilly: a soldier lodges in a house where the daughter makes advances to him. They have an affair. At the end she falls dead at his feet.</p><p>(This is clearly the same ballet which Peter Wright remembers as<em>The Crimson Curtain</em>).<em> </em></p><p>Fernau Hall, reviewed the performance for <em>Ballet Today</em>.</p><blockquote>\u201CBoth Lynn Seymour and Desmond Doyle were perfectly cast and acted with style and intensity. The crunch came in the bedroom scene, when they launched themselves into a pas de deux in MacMillan\u2019s neo-classical style (very much as in <em>The Invitation</em>): this clashed rather brutally with the extreme naturalism of the acting up to then, and shattered the illusion. The contrast with the corresponding erotic scene in the garden in <em>The Invitation</em> was very instructive: what worked on stage did not work on television, which has its own laws. Nevertheless the work as a whole was intelligently staged and never failed to grip one\u2019s attention.\u201D</blockquote>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-83",
+      "passwordProtected" : false,
+      "draft" : false
+    } ],
+    "tags" : [ ],
+    "categories" : [ ],
+    "homepage" : false,
+    "typeName" : "index",
+    "regionName" : "default",
+    "synchronizing" : false,
+    "categoryPagesSeoHidden" : false,
+    "tagPagesSeoHidden" : false,
+    "qrCodeEnabled" : false,
+    "pagePermissionType" : 1,
+    "typeLabel" : "index",
+    "fullUrl" : "/the-ballets-1960-",
+    "passwordProtected" : false,
+    "draft" : false,
+    "title" : "1960 - 1966",
+    "navigationTitle" : "1960 - 1966"
+  },
+  "shoppingCart" : {
+    "websiteId" : "56c185f6746fb9a875e10bc8",
+    "created" : 1787124565499,
+    "entries" : [ ],
+    "shippingLocation" : { },
+    "taxLineItems" : [ ],
+    "coupons" : [ ],
+    "promoCodes" : [ ],
+    "appliedGiftCards" : [ ],
+    "cartType" : 1,
+    "validCoupons" : [ ],
+    "invalidCoupons" : [ ],
+    "subtotalCents" : 0,
+    "taxCents" : 0,
+    "shippingCostCents" : 0,
+    "discountCents" : 0,
+    "giftCardRedemptionTotalCents" : 0,
+    "grandTotalCents" : 0,
+    "amountDueCents" : 0,
+    "remainingBalanceCents" : 0,
+    "totalQuantity" : 0,
+    "purelyDigital" : false,
+    "hasDigital" : false,
+    "requiresShipping" : false,
+    "shippingOptions" : [ ]
+  },
+  "shareButtons" : {
+    "twitter" : true,
+    "facebook" : true,
+    "reddit" : true,
+    "tumblr" : true,
+    "google" : true,
+    "pinterest" : true,
+    "linkedin" : true
+  },
+  "showCart" : false,
+  "localizedStrings" : { },
+  "userAccountsContext" : {
+    "showSignInLink" : false
+  },
+  "template" : {
+    "mobileStylesEnabled" : true
+  },
+  "uiextensions" : {
+    "product-badge" : "sqs-uiextensions-product-badge",
+    "product-body" : "sqs-uiextensions-product-body",
+    "product-badge-mobile" : "sqs-uiextensions-product-badge-mobile",
+    "product-body-mobile" : "sqs-uiextensions-product-body-mobile",
+    "product-collection-item" : "sqs-uiextensions-product-collection-item",
+    "scripts-enabled" : false
+  },
+  "empty" : false,
+  "emptyFolder" : false,
+  "calendarView" : false,
+  "items" : [ ],
+  "pagePreviewContext" : {
+    "isPreviewMode" : false,
+    "memberAccessUrl" : "/the-ballets-1960-?format=json-pretty&requestAccess=true"
+  }
+}

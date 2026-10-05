@@ -1,0 +1,990 @@
+{
+  "website" : {
+    "id" : "56c185f6746fb9a875e10bc8",
+    "cloneable" : false,
+    "contentModifiedOn" : 1513113183947,
+    "identifier" : "charlotte-macmillan-9y0h",
+    "imageMetadataProcessingEnabled" : false,
+    "isHstsEnabled" : false,
+    "language" : "en-US",
+    "primaryDomain" : "www.kennethmacmillan.com",
+    "screenshotId" : "d4182ab0d34d0366c16de4d6b35c8392de50eb052cbcc557f0d196765ef55d2d",
+    "shareButtonOptions" : {
+      "6" : true,
+      "4" : true,
+      "2" : true,
+      "8" : true,
+      "7" : true,
+      "3" : true,
+      "1" : true
+    },
+    "showOwnerLogin" : false,
+    "siteDescription" : "<p>A website dedicated to the life and work of the late Sir Kenneth MacMillan</p>",
+    "siteStatus" : { },
+    "siteTagLine" : "His Life and Work",
+    "siteTitle" : "Kenneth MacMillan ",
+    "sslSetting" : 3,
+    "timeZone" : "Europe/London",
+    "typekitId" : "",
+    "websiteType" : 1,
+    "statsMigrated" : false,
+    "authenticUrl" : "https://www.kennethmacmillan.com",
+    "baseUrl" : "https://www.kennethmacmillan.com",
+    "internalUrl" : "https://charlotte-macmillan-9y0h.squarespace.com",
+    "machineTimeZoneOffset" : 3600000,
+    "socialAccounts" : [ {
+      "serviceId" : 2,
+      "userId" : "10153589214404804",
+      "screenname" : "Charlotte Pepp\u00E9 Was MacMillan",
+      "addedOn" : 1506287690730,
+      "profileUrl" : "http://www.facebook.com/10153589214404804",
+      "iconUrl" : "http://graph.facebook.com/10153589214404804/picture?type=square",
+      "metaData" : {
+        "service" : "facebook"
+      },
+      "iconEnabled" : true,
+      "serviceName" : "facebook"
+    }, {
+      "serviceId" : 20,
+      "userId" : "charlottemacmillan@mac.com",
+      "screenname" : "charlottemacmillan@mac.com",
+      "addedOn" : 1512932781375,
+      "profileUrl" : "mailto:charlottemacmillan@mac.com",
+      "iconEnabled" : true,
+      "serviceName" : "email"
+    } ],
+    "timeZoneAbbr" : "BST",
+    "timeZoneOffset" : 3600000,
+    "siteTitle" : "Kenneth MacMillan "
+  },
+  "websiteSettings" : {
+    "id" : "56c185f6746fb9a875e10bcb",
+    "websiteId" : "56c185f6746fb9a875e10bc8",
+    "type" : "Personal",
+    "subjects" : [ ],
+    "country" : "GB",
+    "state" : "ENG",
+    "simpleLikingEnabled" : true,
+    "mobileInfoBarSettings" : {
+      "isContactEmailEnabled" : false,
+      "isContactPhoneNumberEnabled" : false,
+      "isLocationEnabled" : false,
+      "isBusinessHoursEnabled" : false
+    },
+    "commentLikesAllowed" : true,
+    "commentAnonAllowed" : true,
+    "commentThreaded" : true,
+    "commentApprovalRequired" : false,
+    "commentAvatarsOn" : true,
+    "commentSortType" : 2,
+    "commentFlagThreshold" : 0,
+    "commentFlagsAllowed" : true,
+    "commentEnableByDefault" : true,
+    "commentDisableAfterDaysDefault" : 0,
+    "disqusShortname" : "",
+    "collectionTitleFormat" : "%c \u2014 %s",
+    "itemTitleFormat" : "%i \u2014 %s",
+    "commentsEnabled" : false,
+    "uiComponentRegistrationsFlag" : false,
+    "scriptRegistrationsFlag" : false,
+    "bundleEligible" : false,
+    "bucketingSeedId" : "dca33311-dd47-403c-8721-cee4aef154c0",
+    "newPlanArchitectureEligible" : true,
+    "storeSettings" : {
+      "returnPolicy" : null,
+      "termsOfService" : null,
+      "privacyPolicy" : null,
+      "expressCheckout" : false,
+      "continueShoppingLinkUrl" : "/",
+      "useLightCart" : false,
+      "showNoteField" : false,
+      "shippingCountryDefaultValue" : "US",
+      "billToShippingDefaultValue" : false,
+      "showShippingPhoneNumber" : true,
+      "isShippingPhoneRequired" : false,
+      "showBillingPhoneNumber" : true,
+      "isBillingPhoneRequired" : false,
+      "currenciesSupported" : [ "CHF", "HKD", "MXN", "EUR", "DKK", "USD", "CAD", "MYR", "NOK", "THB", "AUD", "SGD", "ILS", "PLN", "GBP", "CZK", "SEK", "NZD", "PHP", "RUB" ],
+      "defaultCurrency" : "USD",
+      "selectedCurrency" : "USD",
+      "measurementStandard" : 1,
+      "orderConfirmationInjectCode" : "",
+      "showCustomCheckoutForm" : false,
+      "checkoutPageMarketingOptInEnabled" : false,
+      "enableMailingListOptInByDefault" : true,
+      "sameAsRetailLocation" : false,
+      "merchandisingSettings" : {
+        "scarcityEnabledOnProductItems" : false,
+        "scarcityEnabledOnProductBlocks" : false,
+        "scarcityMessageType" : "DEFAULT_SCARCITY_MESSAGE",
+        "scarcityThreshold" : 10,
+        "multipleQuantityAllowedForServices" : true,
+        "restockNotificationsEnabled" : false,
+        "restockNotificationsSuccessText" : "",
+        "restockNotificationsMailingListSignUpEnabled" : false,
+        "relatedProductsEnabled" : false,
+        "relatedProductsOrdering" : "random",
+        "soldOutVariantsDropdownDisabled" : false,
+        "productComposerOptedIn" : false,
+        "productComposerABTestOptedOut" : false,
+        "productReviewsEnabled" : false,
+        "displayImportedProductReviewsEnabled" : false,
+        "hasOptedToCollectNativeReviews" : false
+      },
+      "minimumOrderSubtotalEnabled" : false,
+      "addToCartConfirmationType" : 2,
+      "isLive" : false,
+      "multipleQuantityAllowedForServices" : true
+    },
+    "useEscapeKeyToLogin" : true,
+    "ssBadgeType" : 1,
+    "ssBadgePosition" : 4,
+    "ssBadgeVisibility" : 1,
+    "ssBadgeDevices" : 1,
+    "pinterestOverlayOptions" : {
+      "mode" : "disabled"
+    },
+    "ampEnabled" : false,
+    "isRestrictiveCookiePolicyEnabled" : false,
+    "seoHidden" : false,
+    "userAccountsSettings" : {
+      "loginAllowed" : false,
+      "signupAllowed" : false
+    },
+    "isCookieBannerEnabled" : false,
+    "isVisitorDataRestricted" : false
+  },
+  "collection" : {
+    "id" : "56c1bcd88259b5cdaf948e11",
+    "websiteId" : "56c185f6746fb9a875e10bc8",
+    "video" : {
+      "playbackSpeed" : 1,
+      "zoom" : 0
+    },
+    "backgroundSource" : 1,
+    "enabled" : true,
+    "starred" : false,
+    "type" : 1,
+    "ordering" : 2,
+    "title" : "1953 - 1960",
+    "navigationTitle" : "1953 - 1960",
+    "urlId" : "when-where",
+    "itemCount" : 0,
+    "updatedOn" : 1406667812354,
+    "description" : "<p>1953 - 1960</p>",
+    "features" : {
+      "relatedItems" : {
+        "isEnabled" : false
+      },
+      "productQuickView" : {
+        "isEnabled" : false
+      }
+    },
+    "folder" : true,
+    "dropdown" : true,
+    "folderBehavior" : 1,
+    "collections" : [ {
+      "id" : "56c1bcee8259b5cdaf948e5c",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "mainImageId" : "56c20508859fd0d22ac555e0",
+      "mainImage" : {
+        "id" : "56c20508859fd0d22ac555e0",
+        "recordType" : 2,
+        "addedOn" : 1455555848542,
+        "updatedOn" : 1506291224327,
+        "displayIndex" : 19,
+        "starred" : false,
+        "workflowState" : 1,
+        "authorId" : "547c8136e4b0dcc910ec6ea3",
+        "systemDataId" : "1455555848542-KRSJG8KU60B64GXJN9KB",
+        "systemDataVariants" : "576x450,100w,300w,500w",
+        "systemDataSourceType" : "JPG",
+        "systemDataOrigin" : "USER_UPLOAD",
+        "filename" : "p-5.jpg",
+        "mediaFocalPoint" : {
+          "x" : 0.53,
+          "y" : 0.32,
+          "source" : 3
+        },
+        "colorData" : {
+          "topLeftAverage" : "f7f7f7",
+          "topRightAverage" : "e7e7e7",
+          "bottomLeftAverage" : "bababa",
+          "bottomRightAverage" : "cacaca",
+          "centerAverage" : "5c5c5c",
+          "suggestedBgColor" : "f7f7f7"
+        },
+        "urlId" : "odl838yle9h6gnsn8ugo7bi7g8bl4x",
+        "title" : "",
+        "body" : null,
+        "customContent" : null,
+        "likeCount" : 0,
+        "commentCount" : 0,
+        "publicCommentCount" : 0,
+        "commentState" : 1,
+        "unsaved" : false,
+        "assetUrl" : "https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455555848542-KRSJG8KU60B64GXJN9KB/p-5.jpg",
+        "contentType" : "image/jpeg",
+        "items" : [ ],
+        "pushedServices" : { },
+        "pendingPushedServices" : { },
+        "originalSize" : "576x450",
+        "recordTypeLabel" : "image"
+      },
+      "video" : {
+        "playbackSpeed" : 1,
+        "zoom" : 0
+      },
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "1953 - 1960",
+      "navigationTitle" : "The Ballets",
+      "urlId" : "portland",
+      "itemCount" : 0,
+      "updatedOn" : 1505634043524,
+      "description" : "",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1505634043521\" id=\"page-56c1bcee8259b5cdaf948e5c\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-9550c97e745fa92db57f\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <ul><li><h3><a href=\"/somnambulism\">Somnambulism 1953</a></h3></li><li><h3><a href=\"/fragment\">Fragment</a><a href=\"/fragment\"> 1953</a></h3></li><li><h3><a href=\"/punch-and-the-child\">Punch and the Child</a><a href=\"/punch-and-the-child\"> 1953</a></h3></li><li><h3><a href=\"/laiderette\">Laiderette</a><a href=\"/laiderette\"> 1954</a></h3></li><li><h3><a href=\"/danses-concertantes\">Danses Concertantes</a><a href=\"/danses-concertantes\"> 1955</a></h3></li><li><h3><a href=\"/house-of-birds\">House of Birds</a><a href=\"/house-of-birds\"> 1955</a></h3></li><li><h3><a href=\"/turned-out-proud\">Turned Out Proud</a><a href=\"/turned-out-proud\"> 1955</a></h3></li><li><h3><a href=\"/tannhuser\">Tannh\u00E4user</a><a href=\"/tannhuser\"> 1955</a></h3></li><li><h3><a href=\"/noctambules\">Noctambules</a><a href=\"/noctambules\"> 1956</a></h3></li><li><h3><a href=\"/solitaire\">Solitaire</a><a href=\"/solitaire\"> 1956</a></h3></li><li><h3><a href=\"/fireworks\">Fireworks</a><a href=\"/fireworks\"> 1956</a></h3></li><li><h3><a href=\"/valse-excentrique\">Valse Excentrique</a><a href=\"/valse-excentrique\"> 1956</a></h3></li><li><h3><a href=\"/winters-eve\">Winter\u2019s Eve</a><a href=\"/winters-eve\"> 1957</a></h3></li><li><h3><a href=\"/journey\">Journey</a><a href=\"/journey\"> 1957</a></h3></li><li><h3><a href=\"/the-burrow\">The Burrow</a><a href=\"/the-burrow\"> 1958</a></h3></li><li><h3><a href=\"/the-world-of-paul-slickey\">The World of Paul Slickey</a><a href=\"/the-world-of-paul-slickey\"> 1959</a></h3></li><li><h3><a href=\"/agon\">Agon</a><a href=\"/agon\"> 1959</a></h3></li><li><h3><a href=\"/espresso-bongo\">Expresso Bongo</a><a href=\"/espresso-bongo\"> 1959</a></h3></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_1_1406853546604_214092\" id=\"block-yui_3_17_2_1_1406853546604_214092\"><div class=\"sqs-block-content\">&nbsp;</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/portland",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bdd3d210b84d228bda9b",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Somnambulism",
+      "navigationTitle" : "Somnambulism",
+      "urlId" : "somnambulism",
+      "itemCount" : 0,
+      "updatedOn" : 1512939487933,
+      "description" : "<p>1953</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512939487923\" id=\"page-56c1bdd3d210b84d228bda9b\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_26_1512939134308_4971\" id=\"block-yui_3_17_2_26_1512939134308_4971\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bdd3d210b84d228bda9c\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>MacMillan\u2019s first ballet <em>Somnambulism</em> revealed a precocious young talent. The anxieties it explored were rooted in MacMillan\u2019s own; he would return to these anxieties and elaborate them in many of his subsequent works. Made in a week to fill a gap at a choreographic workshop, <em>Somnambulism</em> was the success of the evening. It was set to three jazz pieces by Stan Kenton, rearranged by the conductor John Lanchbery.</p><p><em>Somnambulism\u2019s</em> three main characters, were portrayed as if in dreaming sleep, variously troubled by anxiety, monotony and premonition. A corps de ballet of six wore black masks to transform them into the faceless fantasies of the three dreamers.</p><p>MacMillan created the leading female role for Maryon Lane, and he himself performed as one of the two men. This was a late change: because Margaret Hill, the intended dancer, was ill on the day, MacMillan adapted her steps for himself, making impromptu improvisations. Lane, who danced Premonition, was menaced by gloved hands reaching out from the wings. When she grabbed at a hand, a body fell dead at her feet. She believed herself responsible for the man\u2019s death, watching in horror as his corpse was carried across the stage in a mock funeral procession. In the solo representing Monotony, David Poole danced the same step over and over, \u201Ca study of a young man rocked by conflicting emotions, as if in a brainstorm, being mentally tortured\u201D (<em>Dance and Dancers</em>).</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_27271\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:582px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:77.31958770751953%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455569914279-4DBLE26R8X946D2JZM4U/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455569914279-4DBLE26R8X946D2JZM4U/image-asset.jpeg\" data-image-dimensions=\"582x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Somnambulism (1956), Photo: Denis De Marney. Image courtesy Victoria &amp;amp; Albert Museum (www.vam.ac.uk)\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455569914279-4DBLE26R8X946D2JZM4U/image-asset.jpeg\" width=\"582\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455569914279-4DBLE26R8X946D2JZM4U/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455569914279-4DBLE26R8X946D2JZM4U/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455569914279-4DBLE26R8X946D2JZM4U/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455569914279-4DBLE26R8X946D2JZM4U/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455569914279-4DBLE26R8X946D2JZM4U/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455569914279-4DBLE26R8X946D2JZM4U/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455569914279-4DBLE26R8X946D2JZM4U/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Somnambulism (1956), Photo: Denis De Marney. Image courtesy Victoria &amp; Albert Museum (www.vam.ac.uk)</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_7_1455569500953_27492\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Lane recalled that the ballet was prepared in a small room at Sadler's Wells Theatre so cluttered with skips and wardrobe baskets that the floor space was barely eight feet square. For the workshop presentations, De Valois had stipulated that sets and costumes were to be kept simple. <em>Somnambulism\u2019s</em> cast wore practice dress, their only props black masks and white gloves.</p><p>For the dance writer Peter Brinson, <em>Somnambulism</em> was \u201Cclear-cut, precise, highly original in construction and very demanding on the dancers\u201D. Clive Barnes thought it \u201Cobviously the work of a new choreographer potentially of the first rank\u201D\u2019. As <em>The Dreamers</em>, it was subsequently performed live on BBC TV, with the score played by the Ted Heath Orchestra. In 1956 it was briefly taken into the repertory of the Sadler\u2019s Wells Theatre Ballet.</p><p>In March 1953, the magazine <em>Dance and Dancers</em> featured MacMillan as its Personality of the Month and applauded his talent. \u201CHis remarkable invention of movement, understanding of mood, sense of theatre and how to use a stage, make this one of the most mature first works we have seen\u201D. With this success behind him, MacMillan joined his friend John Cranko as a choreographer for<strong> </strong><strong>Sadler's Wells Theatre Ballet</strong> and for Covent Garden. Within a short time, <strong>British ballet, still in its nascent state, had produced</strong><strong> </strong>two choreographers who would prove to be major artists.</p><p>\u00A0</p><ul><li><p>First performance: Sadler\u2019s Wells, London, 1 February 1953</p></li><li><p>Company: Sadler\u2019s Wells Choreographic Group</p></li><li><p>Cast: Maryon Lane, David Poole, Kenneth MacMillan</p></li><li><p>Music: Stan Kenton (arranged John Lanchbery)</p></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/somnambulism",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1beb5f85082c11d687ffd",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Fragment",
+      "navigationTitle" : "Fragment",
+      "urlId" : "fragment",
+      "itemCount" : 0,
+      "updatedOn" : 1512936922086,
+      "description" : "<p>1953</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512936922081\" id=\"page-56c1beb5f85082c11d687ffd\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_6_1512936858229_3753\" id=\"block-yui_3_17_2_6_1512936858229_3753\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1beb5f85082c11d687ffe\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>This was MacMillan\u2019s second workshop piece and it was performed along with <a href=\"/somnambulism\"><em>Somnambulism</em></a>, his success of several months previously. In idiom the two pieces were similar and again MacMillan used music by Stan Kenton. Like Somnambulism, the piece was made in a hurry. According to Edward Thorpe, MacMillan had hoped to use Gershwin\u2019s Piano Concert in F, but had to settle for Kenton as he had little time to prepare.</p><p>While <em>Dance and Dancers</em> recorded the \u2018incredible verve\u2019 of Britton\u2019s dancing and Annette Page\u2019s \u2018especial brand of humour\u2019, its critic was underwhelmed. \u201CThe whole thing seemed like a tiny chip of the old block. We may have to wait a bit longer before we know if MacMillan is really the promising young choreographer we believe him to be.\u201D</p><ul><li><blockquote>First Performance: 14 June 1953</blockquote></li><li><blockquote>Company: Sadler's Wells Theatre</blockquote></li><li><blockquote>Music: Stan Kenton</blockquote></li><li><blockquote>Cast: Sara Neil, Donald Britton, Annette Page</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/fragment",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bec0cf80a13c7c19f7ff",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Punch and the Child",
+      "navigationTitle" : "Punch and the Child",
+      "urlId" : "punch-and-the-child",
+      "itemCount" : 0,
+      "updatedOn" : 1512937643318,
+      "description" : "<p>1954</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512937643314\" id=\"page-56c1bec0cf80a13c7c19f7ff\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_4_1512937607087_4580\" id=\"block-yui_3_17_2_4_1512937607087_4580\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bec0cf80a13c7c19f800\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>The BBC children\u2019s programmes department gave Kenneth MacMillan his first opportunity to choreograph for television. The three episodes of <em>Steps into Ballet</em> were broadcast from the Lime Grove studios in West London and produced by Naomi Capron. An educational series, devised as an introduction to ballet steps, it included story inserts about a young girl determined to see a Punch and Judy show at the seaside. When she visits Punch\u2019s booth, against her parents\u2019 wishes, she is caught up in an unexpected adventure with a character called Pretty Polly and a policeman played by Kenneth MacMillan himself.</p><p>In the early years of television most programmes were live. Only a few were telerecorded. A telerecording consisted of placing a film camera in front of a monitor and recording the pictures displayed by the monitor on to film. This was the method used until the arrival of videotape.</p><blockquote>\u00A0</blockquote><p>No recording exists of <em>Punch and the Child.</em></p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/punch-and-the-child",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1becbcf80a13c7c19f821",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Laiderette",
+      "navigationTitle" : "Laiderette",
+      "urlId" : "laiderette",
+      "itemCount" : 0,
+      "updatedOn" : 1512937208881,
+      "description" : "<p>1954</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512937208875\" id=\"page-56c1becbcf80a13c7c19f821\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_14_1512937047946_5319\" id=\"block-yui_3_17_2_14_1512937047946_5319\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1becbcf80a13c7c19f822\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Laiderette</em> (from the French \u2018laideronette\u2019, \u201Clittle ugly one\u201D) like <a href=\"/somnambulism\"><em>Somnambulism</em></a> was a workshop production for the Sadler\u2019s Wells Choreographic Group. Its motifs of rejection and exclusion would be recurrent themes in MacMillan\u2019s later work. Maryon Lane danced the lead role, a Pierrot-like heroine; a young girl whose admirer rejects her when her bald head is revealed.</p><p>The heroine is one of a troupe of itinerant clowns, who abandon her outside a great house where a masked ball is under way. A mask-seller places a mask over the sleeping girl\u2019s face. One of the male guests discovers her and goes inside to tell the others. The host invites the mysterious stranger to join the party. They dance with abandon, but when the time for un-masking comes, her cap comes off as well and her baldness is revealed. Mocked and reviled, she is mournfully reclaimed by her clown family. They hold up a mirror and she sees herself as she truly is. She runs back up the steps to the house, where the host rejects her once again. He returns to the gaiety of the ball and Laiderette is left sobbing as the curtain falls.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-left\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_36756\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:431px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:104.4083480834961%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571456403-18GP4U2XCB3WF054ENYB/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571456403-18GP4U2XCB3WF054ENYB/image-asset.jpeg\" data-image-dimensions=\"431x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Laiderette 1954\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571456403-18GP4U2XCB3WF054ENYB/image-asset.jpeg\" width=\"431\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571456403-18GP4U2XCB3WF054ENYB/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571456403-18GP4U2XCB3WF054ENYB/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571456403-18GP4U2XCB3WF054ENYB/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571456403-18GP4U2XCB3WF054ENYB/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571456403-18GP4U2XCB3WF054ENYB/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571456403-18GP4U2XCB3WF054ENYB/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571456403-18GP4U2XCB3WF054ENYB/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Laiderette 1954</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_7_1455569500953_36975\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>The choreography for the heroine, danced by Maryon Lane, was intricate and strange. She moved at first with the gaucheness of a child, swivelling her knees sideways, turning her toes in and out, beating her flexed feet together then arching them in quick relev\u00E9s on pointe. In her signature step, a flowing arabesque was distorted into an angular attitude position for the raised leg. Her arms were held behind her, hands clenched or splayed out in anguish. Lane later said that she recognised the character as a projection of MacMillan, scared that the world would reject him if people knew what he was really like.</p><p>The Frank Martin music, requiring solo harpsichord and harp, made the ballet expensive to perform and difficult to fit into a touring programme; and the Musicians\u2019 Union would not agree to the use of recorded music. But de Valois was impressed enough to offer MacMillan his first full commission for Sadler\u2019s Wells Theatre Ballet, <a href=\"/danses-concertantes\"><em>Danses Concertantes</em></a> (1955). Marie Rambert acquired <em>Laiderette</em> for Ballet Rambert, which gave it a full stage production at Sadler\u2019s Wells in July 1955, with designs by Kenneth Rowell. It remained in Rambert\u2019s repertory until 1967.</p><p>\u2018Here was a work of near-genius\u2019, declared Peter Williams in <em>Dance and Dancers</em>. \u2018If this and his first work, Somnambulism, are fair examples of what we can expect from MacMillan, we have a choreographer of major dimensions\u2019.</p><ul><li><blockquote>First Performance:&nbsp;24 January 1954</blockquote></li><li><blockquote>Company: Sadler's Wells Theatre</blockquote></li><li><blockquote>Music: Frank Martin</blockquote></li><li><blockquote>Cast: Maryon Lane, David Poole</blockquote></li><li><blockquote>Design: Kenneth Rowell</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/laiderette",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bee8cf80a13c7c19f873",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Danses Concertantes",
+      "navigationTitle" : "Danses Concertantes",
+      "urlId" : "danses-concertantes",
+      "itemCount" : 0,
+      "updatedOn" : 1512981789098,
+      "description" : "<p>1955</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512981789094\" id=\"page-56c1bee8cf80a13c7c19f873\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_49_1512936007884_7571\" id=\"block-yui_3_17_2_49_1512936007884_7571\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bee8f85082c11d6880f2\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Danses Concertantes</em>&nbsp;was MacMillan\u2019s first major work: his first for the Sadler\u2019s Wells Theatre Ballet; his first Stravinsky ballet (seven others would follow); and his first to be designed by Nicholas Georgiadis, still a student at the Slade School. Arnold Haskell hailed the emergence of \u201Ca genuine choreographer of a rare kind\u201D. Encouraged by the response of audiences and critics, MacMillan decided to stop dancing and to commit himself wholeheartedly to choreography.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"row sqs-row\"><div class=\"col sqs-col-6 span-6\"><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_46553\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:669px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:67.26457214355469%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571764773-P32L9CV0MMLGPFXGLH44/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571764773-P32L9CV0MMLGPFXGLH44/image-asset.jpeg\" data-image-dimensions=\"669x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Danses Concertantes (1955), set design Nicolas Georgiadis.\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571764773-P32L9CV0MMLGPFXGLH44/image-asset.jpeg\" width=\"669\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 50vw, 50vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571764773-P32L9CV0MMLGPFXGLH44/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571764773-P32L9CV0MMLGPFXGLH44/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571764773-P32L9CV0MMLGPFXGLH44/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571764773-P32L9CV0MMLGPFXGLH44/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571764773-P32L9CV0MMLGPFXGLH44/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571764773-P32L9CV0MMLGPFXGLH44/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571764773-P32L9CV0MMLGPFXGLH44/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Danses Concertantes (1955), set design Nicolas Georgiadis.</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div></div><div class=\"col sqs-col-6 span-6\"><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_44584\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:583px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:77.18696594238281%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571681420-JPFKEEMZH53CY1JYI0V7/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571681420-JPFKEEMZH53CY1JYI0V7/image-asset.jpeg\" data-image-dimensions=\"583x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Danses Concertantes (1955), Annette Page, Marion Lane and Sara Neil. Photo: Denis de Marney. Image \u00A9 Victoria &amp;amp; Albert Museum (www.vam.ac.uk)\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571681420-JPFKEEMZH53CY1JYI0V7/image-asset.jpeg\" width=\"583\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 50vw, 50vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571681420-JPFKEEMZH53CY1JYI0V7/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571681420-JPFKEEMZH53CY1JYI0V7/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571681420-JPFKEEMZH53CY1JYI0V7/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571681420-JPFKEEMZH53CY1JYI0V7/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571681420-JPFKEEMZH53CY1JYI0V7/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571681420-JPFKEEMZH53CY1JYI0V7/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571681420-JPFKEEMZH53CY1JYI0V7/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Danses Concertantes (1955), Annette Page, Marion Lane and Sara Neil. Photo: Denis de Marney. Image \u00A9 Victoria &amp; Albert Museum (www.vam.ac.uk)</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div></div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_7_1455569500953_46772\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p id=\"yui_3_17_2_7_1455569500953_44155\">Although Stravinsky's score is for concert performance by a chamber orchestra, his chosen title also made clear his ambition for a dance staging and Balanchine had already choreographed his version in 1944. For Balanchine the score suggested the spirit of the <em>commedia dell\u2019arte;</em> MacMillan was similarly drawn to the music\u2019s \u201Chumorous and witty\u201D quality and its suggestions of \u201Ca kaleidoscope of ever changing patterns\u201D.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-left\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_42946\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:563px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:79.928955078125%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571624141-D8HJMKGAG1JFXPY89N6H/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571624141-D8HJMKGAG1JFXPY89N6H/image-asset.jpeg\" data-image-dimensions=\"563x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Danses Concertantes (1955). Photo: Houston Rogers. Image \u00A9 Victoria &amp;amp; Albert Museum (www.vam.ac.uk)\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571624141-D8HJMKGAG1JFXPY89N6H/image-asset.jpeg\" width=\"563\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571624141-D8HJMKGAG1JFXPY89N6H/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571624141-D8HJMKGAG1JFXPY89N6H/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571624141-D8HJMKGAG1JFXPY89N6H/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571624141-D8HJMKGAG1JFXPY89N6H/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571624141-D8HJMKGAG1JFXPY89N6H/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571624141-D8HJMKGAG1JFXPY89N6H/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571624141-D8HJMKGAG1JFXPY89N6H/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Danses Concertantes (1955). Photo: Houston Rogers. Image \u00A9 Victoria &amp; Albert Museum (www.vam.ac.uk)</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_7_1455569500953_43165\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Danses</em> <em>Concertantes</em> is a plotless ballet where sharpness is all. The choreography consists of an intricate suite of dances. There is a bustling general dance full of entrances and exits for the company, a pas de trois, a rumbustious solo for a male dancer, an adagio for the ballerina and five cavaliers, and a pas de deux. MacMillan responded to Stravinsky\u2019s acerbic chamber score with sharp spiky choreography; pointing fingers, jarringly broken line, angled ports de bras and sudden swift turns in direction. <em>Danses Concertantes</em> was fast, fleet and contemporary with hints of jive, revue, cinema and the circus. Georgiadis\u2019s hectic colours (lime, orange, electric blue) strongly recalled the Festival of Britain. His nervy lines of decoration, his fantastical mix of jazz and carnival references (echoing the score) similarly spoke of a generation breaking free of 1950s restraint.</p><p>Next morning, <em>The Times</em> praised Macmillan for choreography which \u201Ccould hardly be bettered\u201D in its realisation of the music and for invention that was \u201Chappy, copious and unforced. The orchestra laboured with the broken-backed rhythms but the dancers had them pat\u201D.</p><p>Clement Crisp was also in the first night audience. \u201CI still recall how the eye was teased by the sparks of energy and wild originality given off by the movement, how the Georgiadis designs glowed and flashed, how bright-footed the young cast seemed. Why had no-one ever used fingers like this before? Or turned staid ideas on their heads, and made partnering witty? <em>Danses</em> was a declaration of talent, of the arrival of the new heir.\u201D</p><p>\u00A0</p><ul><li><blockquote>First Performance:&nbsp;18 January 1955</blockquote></li><li><blockquote>Company: Sadler's Wells Theatre</blockquote></li><li><blockquote>Music: Igor Stravinsky</blockquote></li><li><blockquote>Design: Nicholas Georgiadis</blockquote></li><li><blockquote>Cast: Maryon Lane, David Poole, Donald Britton</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/danses-concertantes",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bef3cf80a13c7c19f890",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "House of Birds",
+      "navigationTitle" : "House of Birds",
+      "urlId" : "house-of-birds",
+      "itemCount" : 0,
+      "updatedOn" : 1512936971332,
+      "description" : "<p>1955</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512936971327\" id=\"page-56c1bef3cf80a13c7c19f890\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_10_1512936858229_7568\" id=\"block-yui_3_17_2_10_1512936858229_7568\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bef3cf80a13c7c19f891\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>John Cranko suggested the theme for MacMillan\u2019s third ballet, <em>House of Birds</em>, based on the Grimm Brother\u2019s macabre fairy tale, Jorinda and Joringel. A witch, The Bird Woman, snares young children and transforms them into birds. When the witch is overcome by two true lovers, the spell is broken; the witch\u2019s victims peck her to death and resume human form. While the turning of mortals into birds is a familiar pastime of ballet sorcerers, <em>House of Birds</em> was one of only three MacMillan ballets which drew for inspiration on fairy tales (The other two are <em>Le Baiser de la f\u00E9e</em> and <em>The Prince of the Pagodas</em>).</p><p>Arnold Haskell found in the first night performance \u201Csomething of the thrill of a Diaghileff premi\u00E8re\u201D while the ballet impressed Clive Barnes of <em>Dance and Dancers</em> for its \u201Cbrilliance and its oddness\u201D, which would \u201Cassuredly earn MacMillan a one way ticket to Parnassus or Bedlam.\u201D The Times found \u201Cmuch to intrigue the eye, but much that is fundamentally repellent.\u201D</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-left\" data-aspect-ratio=\"68.46652267818575\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_49598\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:574px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:68.46652221679688%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571872479-Q8K504SR79ZOGOXYBU4L/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571872479-Q8K504SR79ZOGOXYBU4L/image-asset.jpeg\" data-image-dimensions=\"574x450\" data-image-focal-point=\"0.5,0.5\" alt=\"House of Birds 1955\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571872479-Q8K504SR79ZOGOXYBU4L/image-asset.jpeg\" width=\"574\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571872479-Q8K504SR79ZOGOXYBU4L/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571872479-Q8K504SR79ZOGOXYBU4L/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571872479-Q8K504SR79ZOGOXYBU4L/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571872479-Q8K504SR79ZOGOXYBU4L/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571872479-Q8K504SR79ZOGOXYBU4L/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571872479-Q8K504SR79ZOGOXYBU4L/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571872479-Q8K504SR79ZOGOXYBU4L/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>House of Birds 1955</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_7_1455569500953_49817\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>This was MacMillan\u2019s second collaboration with Nicholas Georgiadis; for several critics there were influences of Paul Klee. <em>The Guardian</em> thought the designs \u201Cstrange, piquant and right\u201D. For the traditionally anonymous reviewer from <em>The Times</em>&nbsp; the designs were the ballet\u2019s most striking elements, \u201Cbrightly coloured but impregnated with cruelty, nature red in tooth and claw. From the outside of the Bird Woman\u2019s aviary we see the facade and, as it were, an X-ray plan of the interior; and the analytic method is repeated in the Bird Woman\u2019s macabre costume\u201D (black tights on which Georgiadis painted a birdly skeleton).</p><p>The choreography for the Bird Woman (Doreen Tempest) suggested automaton movement and the complete absence of emotion (for Clive Barnes, \u201Cthe personification of evil down to the last baleful feather\u201D). The witch wore a heavy beak, her victims\u2019 heads were held in birdcages. Although this complicated the movement possibilities, it also made for choreography that was ugly, jerky and full of menace.</p><p>Maryon Lane danced the girl transformed into a bird and then rescued by her lover (David Poole). For Barnes a pas de deux between the couple (complicated lifts foreshadowing future MacMillan couplings) inevitably echoed that in Fokine\u2019s <em>The Firebird</em> between the Firebird and Ivan Tsarevitch.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"row sqs-row\"><div class=\"col sqs-col-6 span-6\"><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_56001\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:318px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:141.50942993164062%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572008078-EB49M7S9AHEQX7G0BAHS/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572008078-EB49M7S9AHEQX7G0BAHS/image-asset.jpeg\" data-image-dimensions=\"318x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Costume designs for House of Birds \u00A9Nicholas Georgiadis\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572008078-EB49M7S9AHEQX7G0BAHS/image-asset.jpeg\" width=\"318\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 50vw, 50vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572008078-EB49M7S9AHEQX7G0BAHS/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572008078-EB49M7S9AHEQX7G0BAHS/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572008078-EB49M7S9AHEQX7G0BAHS/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572008078-EB49M7S9AHEQX7G0BAHS/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572008078-EB49M7S9AHEQX7G0BAHS/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572008078-EB49M7S9AHEQX7G0BAHS/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572008078-EB49M7S9AHEQX7G0BAHS/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Costume designs for House of Birds \u00A9Nicholas Georgiadis</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div></div><div class=\"col sqs-col-6 span-6\"><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_51338\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:378px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:119.04761505126953%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571950178-1J1GH7GQSOMYKBB6KRR6/p-18.jpg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571950178-1J1GH7GQSOMYKBB6KRR6/p-18.jpg\" data-image-dimensions=\"378x450\" data-image-focal-point=\"0.5,0.5\" alt=\"p-18.jpg\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571950178-1J1GH7GQSOMYKBB6KRR6/p-18.jpg\" width=\"378\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 50vw, 50vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571950178-1J1GH7GQSOMYKBB6KRR6/p-18.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571950178-1J1GH7GQSOMYKBB6KRR6/p-18.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571950178-1J1GH7GQSOMYKBB6KRR6/p-18.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571950178-1J1GH7GQSOMYKBB6KRR6/p-18.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571950178-1J1GH7GQSOMYKBB6KRR6/p-18.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571950178-1J1GH7GQSOMYKBB6KRR6/p-18.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455571950178-1J1GH7GQSOMYKBB6KRR6/p-18.jpg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div></div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_7_1455569500953_51557\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>John Lanchbery suggested to MacMillan that he use music by the Catalan composer Federico Mompou. \"I was mad about Mompou, who was little known in England at the time. I bought everything of his I could find and put the score together. Kenneth came and I played it through, and we did it there and then. Just like that.\"</p><ul><li><blockquote>First Performance: 26 May 1955</blockquote></li><li><blockquote>Company: Sadler's Wells Theatre</blockquote></li><li><blockquote>Music: Frederic Mompou arr. John Lanchberry</blockquote></li><li><blockquote>Design: Nicholas Georgiadis</blockquote></li><li><blockquote>Cast: Maryon Lane, David Poole, Doreen Tempest</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/house-of-birds",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bf06cf80a13c7c19f8b3",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Turned out Proud",
+      "navigationTitle" : "Turned out Proud",
+      "urlId" : "turned-out-proud",
+      "itemCount" : 0,
+      "updatedOn" : 1512939739496,
+      "description" : "<p>1955</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512939739490\" id=\"page-56c1bf06cf80a13c7c19f8b3\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_14_1512939538074_6357\" id=\"block-yui_3_17_2_14_1512939538074_6357\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bf06cf80a13c7c19f8b4\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Turned Out Proud</em> was a BBC commission shown in the <em>Music at Ten </em>series and was MacMillan\u2019s third television work after <em><a href=\"/punch-and-the-child\">Punch and the Child</a></em> and <em>The Dreamers</em>, an adaptation for television of <em><a href=\"/somnambulism\">Somnambulism</a></em>. Broadcast live from the former Lime Grove studios in Shepherd\u2019s Bush, London, it was Margaret Dale\u2019s first project for the BBC. A former dancer with the Sadler\u2019s Wells Ballet, Dale in years to come adapted and directed much of The Royal Ballet\u2019s work for television.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"row sqs-row\"><div class=\"col sqs-col-6 span-6\"><div class=\"sqs-block image-block sqs-block-image\" data-aspect-ratio=\"66.73866090712744\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_72382\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:626px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:66.73866271972656%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572300580-VKDLO8HVVIU75M1WFK1Z/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572300580-VKDLO8HVVIU75M1WFK1Z/image-asset.jpeg\" data-image-dimensions=\"626x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Turned Out Proud 1955\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572300580-VKDLO8HVVIU75M1WFK1Z/image-asset.jpeg\" width=\"626\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 50vw, 50vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572300580-VKDLO8HVVIU75M1WFK1Z/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572300580-VKDLO8HVVIU75M1WFK1Z/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572300580-VKDLO8HVVIU75M1WFK1Z/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572300580-VKDLO8HVVIU75M1WFK1Z/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572300580-VKDLO8HVVIU75M1WFK1Z/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572300580-VKDLO8HVVIU75M1WFK1Z/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572300580-VKDLO8HVVIU75M1WFK1Z/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Turned Out Proud 1955</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div></div><div class=\"col sqs-col-6 span-6\"><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_74099\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:676px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:66.56804656982422%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572332475-LZUAHJ00CSH6NX3E6A6L/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572332475-LZUAHJ00CSH6NX3E6A6L/image-asset.jpeg\" data-image-dimensions=\"676x450\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572332475-LZUAHJ00CSH6NX3E6A6L/image-asset.jpeg\" width=\"676\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 50vw, 50vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572332475-LZUAHJ00CSH6NX3E6A6L/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572332475-LZUAHJ00CSH6NX3E6A6L/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572332475-LZUAHJ00CSH6NX3E6A6L/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572332475-LZUAHJ00CSH6NX3E6A6L/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572332475-LZUAHJ00CSH6NX3E6A6L/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572332475-LZUAHJ00CSH6NX3E6A6L/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572332475-LZUAHJ00CSH6NX3E6A6L/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div></div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_7_1455569500953_72601\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Turned Out Proud</em> was a danced revue in nine parts, introduced by an opera-cloaked impresario (actor John Neville of the Old Vic). The dancers came from the two Sadler\u2019s Wells companies, along with one star guest, Violette Verdy. According to <em>Dance and Dancers</em>, a pas de deux for Verdy and Gilbert Vernon was \u2018the highlight of the evening\u2019. There was also a 1920s pastiche for Julia Farron, who, dancing in a park, tried to distract four boys from reading their newspapers. \u201CThe programme closed\u201D, <em>Dance and Dancers</em> recorded, \u201Cwith a rousing blues of those terrible twenties and the days of New Orleans jazz. Verdy, brandishing a long cigarette-holder, might almost have wandered in from <em>I am a Camera</em>\u201D.</p><p>The music was chosen less for its innate quality than for the fact that it did not attract copyright fees. Critical reaction was mostly warm; <em>The Stage</em> declared it \u201Can experiment to be encouraged\u201D; <em>Dance and Dancers</em> praised MacMillan\u2019s unceasing invention, while Mary Clarke, writing in the <em>Ballet Annual</em> thought it \u201Cthe liveliest half hour of television dancing for a long time.\u201D</p><ul><li><blockquote>First performance: 23 October 1955</blockquote></li><li><blockquote>BBC TV dir Margaret Dale</blockquote></li><li><blockquote>Cast: John Neville, Violette Verdy, Julia Farron, Gilbert Vernon, Sonya Hana, Sheila O'Neill, John Stevens</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/turned-out-proud",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bf0ecf80a13c7c19f8d2",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Tannh\u00E5user (venusberg)",
+      "navigationTitle" : "Tannh\u00E5user (venusberg)",
+      "urlId" : "tannhuser",
+      "itemCount" : 0,
+      "updatedOn" : 1512939670292,
+      "description" : "<p>1955</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512939670288\" id=\"page-56c1bf0ecf80a13c7c19f8d2\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bf0ff85082c11d688194\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>This was Kenneth MacMillan\u2019s first commission for Covent Garden, which at the time maintained a small Opera Ballet of twelve dancers separate from the main ballet company. The Venusberg ballet comes in act one of <em>Tannh\u00E4user</em> and represents the sensual world of Venus and her realm, with which the opera\u2019s protagonist is helplessly enchanted. It was not part of Wagner\u2019s 1845 original; he introduced the scene at the behest of the Paris Opera in 1861, where the insertion of a ballet in the score was a house tradition.</p><p>The 1955 Covent Garden production was not a success. <em>The Observer</em> called it \u201Ca ludicrous misalliance between Ralph Koltai\u2019s expressionistic sets and a singularly ill-executed production by Sumner Austin.\u201D Only MacMillan\u2019s choreography won praise. For <em>The Times</em> the bacchanale in the Venusberg was \u201Cbetter than is usually contrived\u201D. For <em>Dance and Dancers</em>, \u201CMacMillan almost alone did nothing to detract from his growing reputation\u201D. While the erotic by-play of the choreography had \u201Cmore kinship with Petit than Fokine\u201D, a more conventional romantic bacchanale \u201Cwould have been out of place in Ralph Koltai\u2019s starkly chic settings\u201D.</p><p>However, the popular press was now taking notice of MacMillan. \u201CHas the Lord Chamberlain seen it?\u201D asked The Daily Mail. \u201CThe astonishing Bacchanal dance sequence in the new production of <em>Tannh\u00E4user</em> at Covent Garden is the talk of the town. It shows scantily dressed bacchantes, sirens, naiads and nymphs in poses that, in my opinion, would be banned from the Folies Berg\u00E8re. \u201CIt\u2019s not all that erotic. MacMillan said. \u201CIn fact, I thought it rather tame.\u2026\u201D I don\u2019t know what Mr. MacMillan considers suggestive. But the fact remains that the Covent Garden administrators will not let the scene be photographed \u2013 at any price.\u201D</p><ul><li><blockquote>First Performed: 21 November 1955</blockquote></li><li><blockquote>Company: The Royal Opera, The Royal Opera House</blockquote></li><li><blockquote>Music: Richard Wagner</blockquote></li><li><blockquote>Design: Ralph Koltai</blockquote></li><li><blockquote>Cast: Julia Farron, Gilbert Vernon</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/tannhuser",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bf36d51cd4c4659afa9b",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Noctambules",
+      "navigationTitle" : "Noctambules",
+      "urlId" : "noctambules",
+      "itemCount" : 0,
+      "updatedOn" : 1512937438065,
+      "description" : "<p>1956</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512937438059\" id=\"page-56c1bf36d51cd4c4659afa9b\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_10_1512937304646_6902\" id=\"block-yui_3_17_2_10_1512937304646_6902\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bf37d51cd4c4659afa9c\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Noctambules</em> was of a different scale to MacMillan\u2019s previous ballets. It was his first work for the main company on the Covent Garden stage and his first to a commissioned score.</p><p>In MacMillan\u2019s scenario, a vengeful hypnotist hypnotises the audience in a small theatre after they scoff at his act. Under hypnosis a soldier becomes a hero, a couple fall in love, a faded beauty regains her charms and wins four suitors. The hypnotist, discards his stage assistant for the beauty he has created, but she, waking from her dream, recoils from him. At the premiere, Leslie Edwards was the hypnotist with Nadia Nerina as the Faded Beauty, Desmond Doyle as the Rich Man, Anya Linden as the Poor Girl, Brian Shaw as the Soldier and Maryon Lane as the Hypnotist\u2019s Assistant.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"row sqs-row\"><div class=\"col sqs-col-4 span-4\"><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_81903\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:351px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:128.20513916015625%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572663212-A86RXW6IMU0V37EM8BZ4/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572663212-A86RXW6IMU0V37EM8BZ4/image-asset.jpeg\" data-image-dimensions=\"351x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Noctambules (1956). Photo: Michael Dunne. Photo supplied courtesy of the Music Library, University at Buffalo, The State University of New York.\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572663212-A86RXW6IMU0V37EM8BZ4/image-asset.jpeg\" width=\"351\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 33.33333333333333vw, 33.33333333333333vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572663212-A86RXW6IMU0V37EM8BZ4/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572663212-A86RXW6IMU0V37EM8BZ4/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572663212-A86RXW6IMU0V37EM8BZ4/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572663212-A86RXW6IMU0V37EM8BZ4/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572663212-A86RXW6IMU0V37EM8BZ4/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572663212-A86RXW6IMU0V37EM8BZ4/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572663212-A86RXW6IMU0V37EM8BZ4/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Noctambules (1956). Photo: Michael Dunne. Photo supplied courtesy of the Music Library, University at Buffalo, The State University of New York.</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div></div><div class=\"col sqs-col-4 span-4\"><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_83527\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:352px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:127.84091186523438%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572690832-HGJMQQBS4ZHJK47MSZ1Q/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572690832-HGJMQQBS4ZHJK47MSZ1Q/image-asset.jpeg\" data-image-dimensions=\"352x450\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572690832-HGJMQQBS4ZHJK47MSZ1Q/image-asset.jpeg\" width=\"352\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 33.33333333333333vw, 33.33333333333333vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572690832-HGJMQQBS4ZHJK47MSZ1Q/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572690832-HGJMQQBS4ZHJK47MSZ1Q/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572690832-HGJMQQBS4ZHJK47MSZ1Q/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572690832-HGJMQQBS4ZHJK47MSZ1Q/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572690832-HGJMQQBS4ZHJK47MSZ1Q/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572690832-HGJMQQBS4ZHJK47MSZ1Q/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572690832-HGJMQQBS4ZHJK47MSZ1Q/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div></div><div class=\"col sqs-col-4 span-4\"><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_84619\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:352px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:127.84091186523438%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572736698-U7R11XZ3NP29YKIG9FNY/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572736698-U7R11XZ3NP29YKIG9FNY/image-asset.jpeg\" data-image-dimensions=\"352x450\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572736698-U7R11XZ3NP29YKIG9FNY/image-asset.jpeg\" width=\"352\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 33.33333333333333vw, 33.33333333333333vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572736698-U7R11XZ3NP29YKIG9FNY/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572736698-U7R11XZ3NP29YKIG9FNY/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572736698-U7R11XZ3NP29YKIG9FNY/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572736698-U7R11XZ3NP29YKIG9FNY/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572736698-U7R11XZ3NP29YKIG9FNY/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572736698-U7R11XZ3NP29YKIG9FNY/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572736698-U7R11XZ3NP29YKIG9FNY/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div></div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_7_1455569500953_82122\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>For Mary Clarke, writing in <em>Ballet Annual</em>, \u201Cthere was never a trace of the tiro in a work that was completely consistent\u201D, but the scenario fell short with a sense that \u201Cstrange happenings under hypnosis weren\u2019t strange enough.\u201D Alexander Bland of <em>The Observer</em> thought the ballet fell short \u2013 and for this he blamed Georgiadis\u2019s designs. \u201CHe has attempted, fatally, to combine mystery and drama with a kind of feverish gaiety. How can one take seriously a pantomime Svengali in black, green and lilac; or a rich lover whose velvet is sprinkled with drop pendants: or a soldier who mows down his friends in a crazy tommy-gun dream \u2013 but decked in purple cock\u2019s plumes? This is not drama but melodrama \u2013 Grand Guignol at the Chelsea Arts Ball. All the same a real imagination is cooking away there somewhere. When the fitful fever has died down, MacMillan may well produce something to astonish us.\u201D</p><p>But Clive Barnes, writing for <em>Dance and Dancers</em>, was contemptuous of older critics\u2019 dismissal of <em>Noctambule</em>s as \u2018melodramatic\u2019. \u201CThe choreography, which owes something possibly to MacMillan\u2019s very first ballet <a href=\"/somnambulism\"><em>Somnambulism</em></a>, is often shockingly original. It has something of Ashton in it (the pas de deux and grand adagio, for example, have certain Ashtonian characteristics) but MacMillan\u2019s style is remarkably individual. He is to Ashton what Robbins is to Balanchine; two formidable and self-willed apprentices for two formidable and self-willed sorcerers.\u201D</p><p><em>The Manchester Guardian\u2019s</em> critic JHM (possibly James Monahan) praised \u201Can extremely good work, rich in well-made dances.\u201D But for <em>The Times\u2019</em> un-named critic, \u201Cevery effect did not tell perfectly in the first performance: what pleased the audience was a ballet with aspirations but not pretentiousness and a ballet that effectively brings out the qualities of some of the younger dancers in the company.\u201D A group from Moscow\u2019s Bolshoi Theatre, in London to discuss possible exchange visits between the two companies, was, <em>The Times</em> reported a few days later, \u201Centhusiastic about <em>Noctambules</em>, whose choreography, decor, and music lie far outside the experience of the Bolshoi repertoire\u201D</p><p>This was also the first time MacMillan had choreographed to an original score, not a completely happy experience. De Valois had suggested Humphrey Searle, to whom MacMillan gave a very detailed scenario. When the piano score arrived, it was patently too long, but the young MacMillan was too diffident to ask for cuts. Mary Clarke remarked that it was \u201Cadmirable in suggesting the atmosphere, but less successful in developing the narrative.\u201D For <em>The Manchester Guardian\u2019s</em> JHM the score seemed \u201Caltogether too apocalyptic: the drumming and discordancies belong not to a charlatan\u2019s theatrical mystifications but to the day of judgement.\u201D</p><ul><li><blockquote>First Performed: 1 March 1956</blockquote></li><li><blockquote>Company: Sadler's Wells Ballet</blockquote></li><li><blockquote>Music: Humphrey Searle</blockquote></li><li><blockquote>Design: Nicholas Georgiadis</blockquote></li><li><blockquote>Cast: Leslie Edwards, Maryon Lane, Nadia Nerina</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/noctambules",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bf4ab6aa6086263ece9d",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Solitaire",
+      "navigationTitle" : "Solitaire",
+      "urlId" : "solitaire",
+      "itemCount" : 0,
+      "updatedOn" : 1512922681648,
+      "description" : "<p>1956</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512922681645\" id=\"page-56c1bf4ab6aa6086263ece9d\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-left\" data-aspect-ratio=\"195.2755905511811\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_90373\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:254px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:195.2755889892578%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572991430-EOIO0IU2LQ2A5DDYQVZB/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572991430-EOIO0IU2LQ2A5DDYQVZB/image-asset.jpeg\" data-image-dimensions=\"254x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Solitaire (1956), tutu worn by Patricia Ruanne as The Girl. Image courtesy Royal Opera House Collections (www.rohcollections.org.uk)\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572991430-EOIO0IU2LQ2A5DDYQVZB/image-asset.jpeg\" width=\"254\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572991430-EOIO0IU2LQ2A5DDYQVZB/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572991430-EOIO0IU2LQ2A5DDYQVZB/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572991430-EOIO0IU2LQ2A5DDYQVZB/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572991430-EOIO0IU2LQ2A5DDYQVZB/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572991430-EOIO0IU2LQ2A5DDYQVZB/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572991430-EOIO0IU2LQ2A5DDYQVZB/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455572991430-EOIO0IU2LQ2A5DDYQVZB/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Solitaire (1956), tutu worn by Patricia Ruanne as The Girl. Image courtesy Royal Opera House Collections (www.rohcollections.org.uk)</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bf4ab6aa6086263ece9e\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Kenneth MacMillan made <em>Solitaire</em> in response to a request by Ninette de Valois for a new work to substitute for a John Cranko ballet (<em>The Angels</em>) which had had to be postponed. Designs by Desmond Heely had already been commissioned for the Cranko ballet and MacMillan was asked to use them.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-right\" data-aspect-ratio=\"91.792656587473\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_7_1455569500953_91816\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:100%;\"\n        >\n          \n        \n        \n\n        \n          \n            <button\n                data-sqsp-image-classic-block-lightbox-button\n                class=\"\n                  sqs-block-image-button\n                  lightbox\n                  \n          \n        \n                \"\n                data-description=\"&lt;p&gt;Solitaire (1956). Photo \u00A9 Leslie E. Spatt.&lt;/p&gt;\"\n                data-lightbox-theme=\"dark\"\n            >\n              <span class=\"v6-visually-hidden\">View fullsize</span>\n              \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:91.79265594482422%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"true\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573052328-WJV1HKC4M1JMQ46XSTF7/p-26.jpg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573052328-WJV1HKC4M1JMQ46XSTF7/p-26.jpg\" data-image-dimensions=\"679x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Solitaire (1956). Photo \u00A9 Leslie E. Spatt.\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573052328-WJV1HKC4M1JMQ46XSTF7/p-26.jpg\" width=\"679\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573052328-WJV1HKC4M1JMQ46XSTF7/p-26.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573052328-WJV1HKC4M1JMQ46XSTF7/p-26.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573052328-WJV1HKC4M1JMQ46XSTF7/p-26.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573052328-WJV1HKC4M1JMQ46XSTF7/p-26.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573052328-WJV1HKC4M1JMQ46XSTF7/p-26.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573052328-WJV1HKC4M1JMQ46XSTF7/p-26.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573052328-WJV1HKC4M1JMQ46XSTF7/p-26.jpg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n            </button>\n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Solitaire (1956). Photo \u00A9 Leslie E. Spatt.</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_7_1455569500953_93335\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>MacMillan subtitled his new work \u2018A kind of game for one\u2019; he also described it as a \u201Ca divertissement ballet\u201D. Which in essence is what it was; a sequence of dances knit together by Malcolm Arnold\u2019s <em>Eight English Dances</em> and by the continuity provided by Margaret Hill\u2019s appearance in each one. \u201CIt is this girl\u201D, wrote JHM of <em>The Guardian</em>, \u201Cwho provides the only obvious choreographic thread, now as soloist, now as partner in a choral dance, now merely an observer of the rest of the cast: they, it seems, are her playthings.\u201D This figure is a leitmotif in MacMillan\u2019s work: she is an outsider, an observer; she tries to join in but is always in the end alone. The other characters may exist only in her imagination</p><p><em>The Times</em> critic (un-named but possibly Clive Barnes) remarked that MacMillan\u2019s eye for theatrical effect owed something to Ronald Petit, but that \u201Che is more musical than Petit and, since his choreographic invention is stronger, he has less need to rely on dramatic assault\u201D. \u201CThe choreography takes a hint or two from English country dances\u201D, <em>The Times</em> continued,, and \u201Cit is never a romp; it pick up ideas from the composer\u2019s keen instrumental colour-sense and it does not go on too long.\u201D</p><p>\u00A0</p><p>For <em>The Observer\u2019s</em> Alexander Bland, &nbsp;Margaret Hill was \u2018too positive a character\u2019 to convey the ambiguity of the girl, half-in, half-out of the goings on around her. \u201CIn the beautiful pas de deux she was excellent, but it\u2019s no point her pretending to be Alice in Wonderland\u201D</p><p>The night of the ballet\u2019s premiere was the first time that an entire evening had been devoted to the work of a choreographer from the emerging generation; the other ballets performed in the programme were <a href=\"/somnambulism\"><em>Somnambulism</em></a>, <a href=\"/danses-concertantes\"><em>Danses Concertantes</em></a> and <em><a href=\"/house-of-birds\">House of Birds</a>.</em></p><ul><li><blockquote>First Performed: 7 June 1956</blockquote></li><li><blockquote>Company: Sadler's Wells Theatre Ballet</blockquote></li><li><blockquote>Music: Malcolm Arnold</blockquote></li><li><blockquote>Design: Desmond Heeley</blockquote></li><li><blockquote>Cast: Margaret Hill, Donald MacLeary, Sara Neil</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/solitaire",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bf5207eaa0498160abce",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Fireworks",
+      "navigationTitle" : "Fireworks",
+      "urlId" : "fireworks",
+      "itemCount" : 0,
+      "updatedOn" : 1512936841307,
+      "description" : "<p>1956</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512936841303\" id=\"page-56c1bf5207eaa0498160abce\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_18_1512936713348_3752\" id=\"block-yui_3_17_2_18_1512936713348_3752\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bf52b6aa6086263ecec3\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>In Summer 1956 Nadia Nerina and Alexis Rassine toured the English regions with their Ballet Highlights programme consisting mostly of various pas de deux. Early performances were indifferently reviewed by some critics; <em>The Manchester Guardian</em> complained that the pas de deux lacked impact torn, as they were, from context and anthologised.</p><p>MacMillan created a bravura pas de deux,<em> Fireworks</em>, which received its first performance in Oxford, later in the tour. It seems to have had the necessary effect. For <em>Dance and Dancers</em>, <em>Fireworks </em>was by far the most interesting part of the programme \u201Crather in the manner of the solos from <a href=\"/noctambules\"><em>Noctambules</em></a>\u201D.</p><ul><li><blockquote><strong>Music:</strong> Igor Stravinsky</blockquote></li><li><blockquote><strong>Cast:</strong> Nadia Nerina, Alexis Rassine</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/fireworks",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bf6a07eaa0498160ac25",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Valse Excentrique",
+      "navigationTitle" : "Valse Excentrique",
+      "urlId" : "valse-excentrique",
+      "itemCount" : 0,
+      "updatedOn" : 1512939824395,
+      "description" : "<p>1956</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512939824387\" id=\"page-56c1bf6a07eaa0498160ac25\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_22_1512939538074_4223\" id=\"block-yui_3_17_2_22_1512939538074_4223\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bf6b7c65e4b75a0b5154\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>MacMillan created <em>Valse Excentrique</em> for a gala given in aid of Hungarian refugees in December 1956. Earlier that year Soviet troops had invaded Hungary and suppressed all public opposition to the country\u2019s hardline Communist regime. Three thousand people died, while two hundred thousand Hungarians fled to the West.</p><p><em>Valse</em> was the single newly-created work performed at the Gala. MacMillan\u2019s chosen music was the Ibert <em>Divertimento</em> written for Eug\u00E8ne Labiche\u2019s play, <em>The Italian Straw Hat</em>. In a slow-motion pas de trois for three Victorian bathers, a girl (Anya Linden) was gently passed between two suitors (Brian Shaw and Alexander Grant, both in Edwardian bathing suits and handlebar moustaches). For <em>Dance and Dancers</em>, <em>Valse</em> had \u201Call the imagination and invention we associate with its choreographer\u201D with Linden producing \u201Ca surprising vein of zany comedy as the young lady in not too much distress.\u201D The costumes were suggested by Alexander Grant. They were originally designed for Ashton\u2019s beach ballet <em>Les Sir\u00E8nes</em> (1946) in which Grant was cast as one of a group of children. The piece was exuberantly received (\u201Clouder laughter than has ever been lavished on the Crazy Gang\u201D, according to the 1958 <em>Ballet Review</em>).</p><p>Although intended as no more than a pi\u00E8ce d\u2019occasion, <em>Valse Excentrique</em> did have an afterlife. In 1958 MacMillan restaged it for Western Theatre Ballet with designs by Ian Spurling (it formed part of the programme for WTB\u2019s American tour in 1963). It continued to be danced at fund-raising galas into the 1970s (\u201Cpart of an underground Royal Ballet repertory seen only in this kind of programme\u201D, according to <em>The Times</em> in 1969). It was briefly in the repertory of the Royal Ballet New Group in 1972\u2014\u201973 clocking up seventeen performances.</p><ul><li><blockquote>First performed: December 10 December 1956</blockquote></li><li><blockquote>Gala, Sadler's Wells Theatre</blockquote></li><li><blockquote>Music: Jacques Ibert</blockquote></li><li><blockquote>Cast: Alexander Grant, Anya Linden, Brian Shaw</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/valse-excentrique",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bf7307eaa0498160ac49",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Winter's Eve",
+      "navigationTitle" : "Winter's Eve",
+      "urlId" : "winters-eve",
+      "itemCount" : 0,
+      "updatedOn" : 1512939953074,
+      "description" : "<p>1957</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512939953069\" id=\"page-56c1bf7307eaa0498160ac49\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_40_1512939538074_5737\" id=\"block-yui_3_17_2_40_1512939538074_5737\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bf7307eaa0498160ac4a\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  \n<p>Lucia Chase, the director of American Ballet Theatre, visited Europe in August 1956 in pursuit of new work to broaden her company\u2019s repertory. The critic Peter Williams introduced her to Kenneth MacMillan and shortly afterwards Chase commissioned him to make a ballet for ABT, with Nora Kaye and John Kriza as the two leads.</p><p>MacMillan proposed several librettos; Chase was attracted most to a story, vaguely inspired by Truman Capote, of a blind girl who tries to keep her blindness a secret from a young man and eventually renders him blind also, by accident. When they first meet and fall in love, the air is filled with birds which represent her soaring emotions. She accepts his invitation to a ball, during which he realises she is blind. Immediately the birds return. This time they are menacing and angry. The girl strikes at them. In doing so, she accidentally blinds the young man.</p><p>MacMillan planned to have a specially written score by the French composer Henri Dutilleux, who had written the score for Roland Petit\u2019s <em>Le Loup</em> (MacMillan later choreographed <em><a href=\"http://kennethmacmillan.com/ballets/all-works/1977-1992/metaboles.html?task=view\">M\u00E9taboles</a></em> (1978) to music by Dutilleux). But because time was short, a commissioned score was abandoned in favour of Britten\u2019s <em>Variations on a</em> <em>Theme of Frank Bridge.</em></p><p>Designs were by Nicholas Georgiadis; he had hurriedly to rethink them because of Chase\u2019s dislike of mauve, the dominant colour in the ballroom scene. John Martin of <em>The New York Times</em> thought both decor and costumes \u201Csumptuous and handsome\u201D and \u201Calso eminently Parisian in quality.\u201D (The set was built and painted in Paris).</p><p>The final go-ahead only came in December. Because of the Suez crisis ABT had had to abandon a tour of the Middle East and substitute a European tour. By 31 December 1956 MacMillan had sketched out a ballet for the two principals and a corps of 16. On January 16 1957 the premiere took place in Lisbon, where local press reaction was enthusiastic, even if the critics of both the <em>Diario de Noticias</em> and <em>O Seculo</em> considered the story improbable.</p>\n\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-left\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_44_1455539008688_26923\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:409px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:110.02445220947266%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455551432666-89NLJXNQ44VPJ5HQLM4U/Winter%27s+Eve+%281957%29.+Kenneth+MacMillan+rehearsing+Nora+Kaye+and+John+Kriza\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455551432666-89NLJXNQ44VPJ5HQLM4U/Winter%27s+Eve+%281957%29.+Kenneth+MacMillan+rehearsing+Nora+Kaye+and+John+Kriza\" data-image-dimensions=\"409x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Winter's Eve (1957). Kenneth MacMillan rehearsing Nora Kaye and John Kriza\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455551432666-89NLJXNQ44VPJ5HQLM4U/Winter%27s+Eve+%281957%29.+Kenneth+MacMillan+rehearsing+Nora+Kaye+and+John+Kriza\" width=\"409\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455551432666-89NLJXNQ44VPJ5HQLM4U/Winter%27s+Eve+%281957%29.+Kenneth+MacMillan+rehearsing+Nora+Kaye+and+John+Kriza?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455551432666-89NLJXNQ44VPJ5HQLM4U/Winter%27s+Eve+%281957%29.+Kenneth+MacMillan+rehearsing+Nora+Kaye+and+John+Kriza?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455551432666-89NLJXNQ44VPJ5HQLM4U/Winter%27s+Eve+%281957%29.+Kenneth+MacMillan+rehearsing+Nora+Kaye+and+John+Kriza?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455551432666-89NLJXNQ44VPJ5HQLM4U/Winter%27s+Eve+%281957%29.+Kenneth+MacMillan+rehearsing+Nora+Kaye+and+John+Kriza?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455551432666-89NLJXNQ44VPJ5HQLM4U/Winter%27s+Eve+%281957%29.+Kenneth+MacMillan+rehearsing+Nora+Kaye+and+John+Kriza?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455551432666-89NLJXNQ44VPJ5HQLM4U/Winter%27s+Eve+%281957%29.+Kenneth+MacMillan+rehearsing+Nora+Kaye+and+John+Kriza?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455551432666-89NLJXNQ44VPJ5HQLM4U/Winter%27s+Eve+%281957%29.+Kenneth+MacMillan+rehearsing+Nora+Kaye+and+John+Kriza?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Winter's Eve (1957). Kenneth MacMillan rehearsing Nora Kaye and John Kriza</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_44_1455539008688_27144\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>\u201CTragic events at a macabre-romantic ball \u2013 we are in fairly familiar balletic territory here\u201D, wrote David Vaughan for <em>The Guardian</em> when the ballet had its New York premiere on 10 February. \u201CHowever\u201D, he continued, \"<em>Winter\u2019s Eve</em> is saved from clich\u00E9 by the sharply individual flavour of MacMillan\u2019s idiom and his compassionate, if detached, attitude to his characters.\u201D</p><p>For <em>The New York Times</em> critic John Martin, <em>Winter\u2019s Eve</em> \u201Chad everything the matter with it. The work as a whole is callow, cruel, capricious and chichi and yet, there remains the indubitable evidence of Mr MacMillan\u2019s talent. Invention is at present his greatest asset and his greatest danger, for he can turn out an endless amount of original movement without developing any of it. As a result he abandons his principal character about the middle of the piece and leaves her largely to shift for herself thereafter.\u201D Ninette de Valois, Martin suggested, would not have countenanced such a scenario.</p><p>However Walter Terry of the <em>New York Herald Tribune</em> was sufficiently enthused to devote two lengthy reviews to MacMillan\u2019s ballet. Like Martin he agreed that the ballet had flaws; however he thought that MacMillan had extended ballet vocabulary into a freer form of expression and emotional revelation.</p><ul><li><blockquote>First Performed: 16 January 1957</blockquote></li><li><blockquote>Company: American Ballet Theatre</blockquote></li><li><blockquote>Music: Benjamin Britten</blockquote></li><li><blockquote>Design: Nicholas Georgiadis</blockquote></li><li><blockquote>Cast: Nora Kaye, John Kriza</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/winters-eve",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bf8607eaa0498160ac88",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Journey",
+      "navigationTitle" : "Journey",
+      "urlId" : "journey",
+      "itemCount" : 0,
+      "updatedOn" : 1512937156197,
+      "description" : "<p>1957</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512937156190\" id=\"page-56c1bf8607eaa0498160ac88\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_10_1512937047946_4911\" id=\"block-yui_3_17_2_10_1512937047946_4911\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bf877c65e4b75a0b51cb\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>In May 1957 American Ballet Theatre presented fifteen new ballets by young choreographers over four consecutive Mondays in the off-Broadway Phoenix Theater. Dance writers were invited to view the ballets as \u2018laboratory productions\u2019; most were presented without sets and with simple costumes.</p><p>MacMillan\u2019s <em>Journey</em> featured four principals, three soloists and an ensemble of three women and twelve men. Its subject was death, from the first premonition of it to the final judgement, and was in four sections \u2013 <em>Premonitions</em>, <em>Three Messengers of Death</em>, <em>Journey</em> and <em>Judgement</em>. The men, used in the manner of a Greek chorus, come somersaulting from the wings at the outset.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-left\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_11_1455569500953_32234\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:568px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:79.22534942626953%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573507276-F4QRHSX6V5D9SV3BL8XJ/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573507276-F4QRHSX6V5D9SV3BL8XJ/image-asset.jpeg\" data-image-dimensions=\"568x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Journey (1957) Nora Kaye in The American Ballet Theatre production\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573507276-F4QRHSX6V5D9SV3BL8XJ/image-asset.jpeg\" width=\"568\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573507276-F4QRHSX6V5D9SV3BL8XJ/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573507276-F4QRHSX6V5D9SV3BL8XJ/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573507276-F4QRHSX6V5D9SV3BL8XJ/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573507276-F4QRHSX6V5D9SV3BL8XJ/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573507276-F4QRHSX6V5D9SV3BL8XJ/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573507276-F4QRHSX6V5D9SV3BL8XJ/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455573507276-F4QRHSX6V5D9SV3BL8XJ/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Journey (1957) Nora Kaye in The American Ballet Theatre production</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_11_1455569500953_32453\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Arthur Todd, writing for <em>Dance and Dancers</em>, remarked on a work \u201Creplete with some of the most inventive and unusual dance movements seen in a ballet in several seasons in New York.\u201D In September 1958, ABT included <em>Journey</em> in a programme at the Metropolitan Opera House. John Martin of <em>The New York Times</em> was considerably more impressed than he had been with <a href=\"/winters-eve\"><em>Winter\u2019s Eve</em></a>, MacMillan\u2019s previous commission for the company. \u201CIt is certainly not one for the balletomanes, but it is an original and a stunning work.\u201D</p><p>Martin continued: \u201CThe choreography is a marvel of invention, the kind of intuitive invention that is generally associated with the modern dance rather than the ballet. The massed chorus is used with power and variety, and the individual figure of Miss Kaye stands out in high relief against it. In the second section she unwittingly goes out jazzing, as it were with three red-clad angels of death and only at the end of the scene does she realise who they are and what has happened. It is a remarkably macabre and beautifully conceived scene and it is remarkably danced.\u201D</p><p>\u00A0</p><p>\u00A0</p><ul><li><blockquote>First performed: 6 May 1957</blockquote></li><li><blockquote>Company: American Ballet Theatre</blockquote></li><li><blockquote>Music: B\u00E9la Bart\u00F3k</blockquote></li><li><blockquote>Cast: Nora Kaye, John Kriza, Erik Bruhn, Scott Douglas</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/journey",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bf8d07eaa0498160ac9f",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "The Burrow",
+      "navigationTitle" : "The Burrow",
+      "urlId" : "the-burrow",
+      "itemCount" : 0,
+      "updatedOn" : 1512919367987,
+      "description" : "<p>1958</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512919367981\" id=\"page-56c1bf8d07eaa0498160ac9f\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_70_1512892624651_3892\" id=\"block-yui_3_17_2_70_1512892624651_3892\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bf8d07eaa0498160aca0\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>To its early audiences for whom World War II was a recent memory,&nbsp;Kenneth MacMillan\u2019s psychological drama <em>The Burrow</em>&nbsp;strongly recalled the harrowing <em>Diaries of Ann Frank</em>. In his depiction of human suffering, MacMillan was venturing into territory then unusual on the ballet stage. <em>The Burrow</em> foreshadowed such later works as<a href=\"/valley-of-shadows\"><em> </em></a><a href=\"/valley-of-shadows\"><em>Valley of Shadows</em></a>, <a href=\"/playground\"><em>Playground</em></a> and <em><a href=\"/different-drummer\">Different Drummer</a></em>. Arnold Haskell\u2019s programme note for the premiere read:</p><h3>\u201CThere are many today who live in hiding, sealed off in some small room. Such a room is a small world in which life burns more intensely; the flickering of a light bulb may bring despair. The ballet introduces us to such a world; there is the woman who is close to breaking point; the man who is an outcast \u2013 even the victims of intolerance are intolerant \u2013 the over-cheerful man, whose humour is a bludgeon; the child unconscious of fear but quick to seize the mood; and the lover who can never be alone. A knock on the door and their world is shattered.\u201D</h3><p>There are some twenty dancers on stage throughout. Nicholas Georgiadis\u2019s claustrophobic set, in browns and buffs, was an attic room with a narrow closed door, which became the focal point as the ballet neared its climax. For his score, MacMillan looked again to Frank Martin whose <em>Petite Symphonie Concertante</em> he had used in <a href=\"/laiderette\"><em>Laiderette</em></a>.</p><p>For some reviewers, the concentration of dancers in a confined space was startling and dramatic; others commented that it made for fragmentary choreography and loss of impact. Clive Barnes, writing in <em>Dance and Dancers</em>, praised the performances of Lynn Seymour and Donald Mac Leary as touching, hesitant young lovers (\u201CSeymour showed a charming quality all her own and should prove a distinct acquisition for the Royal Ballet\u201D). Barnes singled out Donald Britton\u2019s Joker as \u201Cone of the finest male character performances yet seen in British ballet.\u201D For an audience with recent memories of war and whose younger members had known nothing but the Cold War, <em>The Burrow</em> was powerfully resonant. \u201CFear is something familiar to MacMillan\u2019s generation\u201D, Barnes continued, \u201Csomething we instinctively recognise.\u201D</p><p><em>The Times</em> review (unsigned) commented: \u201CAlthough there is no overt message, it somehow recalls <em>The Green Table</em>, perhaps because both are tracts on war, but though it generates considerable tension through the imaginatively conceived choreography \u2013 restricted movements, sudden tutti stampedes, contorted enchainements \u2013 it has not in sum the emotional power of that remarkable sermon in dance. Yet it is sufficiently dramatic in its three tableaux to make one glad when it ends.\u201D <em>The Guardian\u2019s</em> review (also unsigned) suggested that \u201Cthe work does not grow dramatically \u2013 when the knock on the door comes, one feel that it might just as well have come much earlier or much later \u2013 but its flashes of individual dance are impressive ; and altogether it has speed, tension and an atmosphere of fear\u201D</p><p>At the Copenhagen Festival in June 1961, the Royal Danish Ballet danced <em>The Burrow</em> along with <a href=\"/danses-concertantes\"><em>Danses Concertantes</em></a> and <a href=\"/solitaire\"><em>Solitaire</em></a> in a MacMillan programme. \u201CThe Danes have skilfully mastered the alien style\u201D, <em>The Guardian</em> noted approvingly, \u201Cand it was good to find that this versatile young choreographer is being hailed in Copenhagen as an outstanding creative talent.\u201D</p><p>In 1992, Kenneth MacMillan recreated <em>The Burrow</em> for Birmingham Royal Ballet, this time with new designs by Nicholas Georgiadis suggestive of one of today\u2019s cardboard cities of refugees. In important respects the recreation was a new work; the surviving Benesh score was fragmentary and the archive film poorly shot. Judith Mackrell, writing for<em> The Independent</em>, commented:</p><h3>\u201CPerhaps the most startling effect, which MacMillan hasn't tinkered with, is the way that all 21 dancers remain on stage throughout - fighting for space in Nicholas Georgiadis's dark and cluttered set yet often moving with frantic energy. Complex formal dances are fractured by brief scrappy fights, by a furtively grabbed embrace, by a child playing or by an old man shambling about his own half-crazy business. A single phrase alternates between deft classical steps and skewed, slumped, expressionistic body language. The effect is of torn remnants of civilised behaviour fighting for survival in a hell of fear and disorientation.\u201D</h3><ul><li><blockquote>First Performed: 2 January 1958</blockquote></li><li><blockquote>Company: Royal Ballet Touring Company, The Royal Opera House</blockquote></li><li><blockquote>Music: Frank Martin</blockquote></li><li><blockquote>Design: Nicholas Georgiadis</blockquote></li><li><blockquote>Cast: Anne Heaton, Donald Britton, Edward Miller, Lynn Seymour, Donald MacLeary</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/the-burrow",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bfa007eaa0498160ad00",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "The World of Paul Slickey",
+      "navigationTitle" : "The World of Paul Slickey",
+      "urlId" : "the-world-of-paul-slickey",
+      "itemCount" : 0,
+      "updatedOn" : 1512939974728,
+      "description" : "<p>1959</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512939974723\" id=\"page-56c1bfa007eaa0498160ad00\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_42_1512939538074_4945\" id=\"block-yui_3_17_2_42_1512939538074_4945\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bfa107eaa0498160ad02\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Kenneth MacMillan had been an admirer of John Osborne\u2019s work since he had seen <em>Look Back in Anger</em> in 1956. Years later he wrote to Osborne: \u201CYour play made me see that everything in my world was merely window-dressing.\u201D</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-left\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_13_1455569500953_26073\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:541px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:83.1792984008789%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574080423-8YU5E8O7JR6F1GLJQ4QW/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574080423-8YU5E8O7JR6F1GLJQ4QW/image-asset.jpeg\" data-image-dimensions=\"541x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Kenneth MacMillan with John Osborne, Hugh Casson and Jocelyn Rickards\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574080423-8YU5E8O7JR6F1GLJQ4QW/image-asset.jpeg\" width=\"541\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574080423-8YU5E8O7JR6F1GLJQ4QW/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574080423-8YU5E8O7JR6F1GLJQ4QW/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574080423-8YU5E8O7JR6F1GLJQ4QW/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574080423-8YU5E8O7JR6F1GLJQ4QW/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574080423-8YU5E8O7JR6F1GLJQ4QW/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574080423-8YU5E8O7JR6F1GLJQ4QW/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574080423-8YU5E8O7JR6F1GLJQ4QW/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Kenneth MacMillan with John Osborne, Hugh Casson and Jocelyn Rickards</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_6_1510335928633_14265\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>When Osborne was making plans to stage his musical satire, <em>The World of Paul Slickey</em>, he hired MacMillan as choreographer and Hugh Casson as set designer on the advice of Jocelyn Rickards, <em>Slickey\u2019s</em> costume designer. Osborne had met Rickards, his future lover, when she had assisted on the film version of <em>Look Back in Anger</em>. A ballet choreographer working in West End musicals was not new; Frederick Ashton, Antony Tudor and Ninette de Valois had all worked in commercial theatre, and MacMillan\u2019s contemporary, John Cranko, had achieved a smash-hit with his revue <em>Cranks</em> in 1955.</p><p><em>Slickey</em> was intended as a savage jab at London's Fleet Street gossip columnists and at the ruling class, its lead character patently based on <em>The Express\u2019s</em> William Hickey. It was a critical fiasco, not least because of Osborne\u2019s chaotic direction (he had insisted on directing the production). Booing broke out in the stalls half-way through the show (Noel Coward and John Gielgud were among the booers) and afterwards Osborne was chased up the Charing Cross Road by irate theatre-goers. The next day\u2019s headlines were scathing: \u201CThe biggest floperoo ever\u201D, \u201CEvening of general embarrassment\u201D, \u201CSad day for Osborne\u201D. <em>The Times</em> dismissed the piece for its \u2018extraordinary dullness\u2019. \u201CIncredibly naive and dull,\" said the <em>Evening Standard.</em></p><p>The major dance number was the funeral of one Lord Mortlake. For <em>Dancing Times</em> this was \u201Ca nightmare ritual taking the form of a rowdy alcoholic rock\u2019n\u2019roll orgy....the cigar-smoking clergyman wears a garment more like a tutu than a surplice.\u201D Its critic, Eric Johns, praised \u201Can excellent cha-cha number which captures the very beat of Fleet Street\u201D along with \u2018On Ice\u2019, \u201Ca clever satire on smart women journalists, inspired by those absurd attitudes struck by models on the fashion pages of the glossy weeklies.\u201D</p><p>But for Philip Hope-Wallace of <em>The Guardian</em> the dance routines were too long and carried \u201Cwhat looks like the date stamp of the Ballets Joos\u201D, while <em>The Observer</em> dismissed them as \u201Cmere choreographic exercises\u201D which failed to advance the story.</p><p>This was scarcely MacMillan\u2019s fault; Osborne had torn the dances from their intended contexts and staged them as stand-alone set pieces. <em>The World of Paul Slickey</em> closed after a run of six weeks.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/the-world-of-paul-slickey",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bfab07eaa0498160ad3d",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Agon",
+      "navigationTitle" : "Agon",
+      "urlId" : "agon",
+      "itemCount" : 0,
+      "updatedOn" : 1509875025374,
+      "description" : "<p>1958</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1509875025370\" id=\"page-56c1bfab07eaa0498160ad3d\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-left\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_13_1455569500953_34134\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:309px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:145.6310577392578%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574418333-8GGRWIWFZNRPGTI2HZMR/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574418333-8GGRWIWFZNRPGTI2HZMR/image-asset.jpeg\" data-image-dimensions=\"309x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Agon (1959). Photo: Roger Wood. Image courtesy Royal Opera House Collections (www.rohcollections.org.uk)\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574418333-8GGRWIWFZNRPGTI2HZMR/image-asset.jpeg\" width=\"309\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574418333-8GGRWIWFZNRPGTI2HZMR/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574418333-8GGRWIWFZNRPGTI2HZMR/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574418333-8GGRWIWFZNRPGTI2HZMR/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574418333-8GGRWIWFZNRPGTI2HZMR/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574418333-8GGRWIWFZNRPGTI2HZMR/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574418333-8GGRWIWFZNRPGTI2HZMR/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574418333-8GGRWIWFZNRPGTI2HZMR/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Agon (1959). Photo: Roger Wood. Image courtesy Royal Opera House Collections (www.rohcollections.org.uk)</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bfab7c65e4b75a0b5251\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>MacMillan\u2019s <em>Agon</em> was premiered at Covent Garden eight months after New York City Ballet first danced George Balanchine\u2019s definitive version for which the score had been commissioned. It was one of four settings of <em>Agon</em> performed in Europe that year \u2013 the others were by German choreographers \u2013 and was MacMillan\u2019s second ballet to a Stravinsky score (the first was <em><a target=\"_blank\" href=\"/danses-concertantes\">Danses Concertantes</a></em>). In an article for the Royal Opera House\u2019s then house magazine, <em>Covent Garden Books</em>, MacMillan characterised <em>Agon</em> as an off-shoot of <em>Danses Concertantes</em> and a reversion to that style.</p><p>Stravinsky\u2019s markings indicated a cast of twelve dancers, who are introduced with a pas de quatre, double pas de quatre and triple pas de quatre. As the ballet unfolds the twelve dancers re-emerge in various permutations. However, MacMillan chose to add two \u2018extra\u2019 dancers both to introduce the twelve and to form links during the Preludes and Interludes. His version bore little relationship to the austere modernism of the original. But because Stravinsky had named the ballet\u2019s central sections for sixteenth and seventeenth century dances, the sarabande, the gaillard and the bransle, Nicholas Georgiadis sought for inspiration in that period for his designs. The costumes, sprinkled with harlequin patches, have a flavour of the commedia dell\u2019arte and suggest a troupe of strolling players. The set designs suggested the facade of a house, mysterious cut-out figures watching from a balcony (Peter Williams wondered if they were \u2018eternal voyeuses prying on our private lives and passing private censure\u2019). The colour palette was Mediterranean; orange, sunbaked white and contrasting black.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-right\" data-aspect-ratio=\"109.07127429805617\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_13_1455569500953_33189\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:546px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:109.07127380371094%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574391604-06DZJYYBCNZRYGS5Z4AQ/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574391604-06DZJYYBCNZRYGS5Z4AQ/image-asset.jpeg\" data-image-dimensions=\"546x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Agon (1959). Photo: Roger Wood. Image courtesy Royal Opera House Collections (www.rohcollections.org.uk)\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574391604-06DZJYYBCNZRYGS5Z4AQ/image-asset.jpeg\" width=\"546\" height=\"450\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574391604-06DZJYYBCNZRYGS5Z4AQ/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574391604-06DZJYYBCNZRYGS5Z4AQ/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574391604-06DZJYYBCNZRYGS5Z4AQ/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574391604-06DZJYYBCNZRYGS5Z4AQ/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574391604-06DZJYYBCNZRYGS5Z4AQ/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574391604-06DZJYYBCNZRYGS5Z4AQ/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455574391604-06DZJYYBCNZRYGS5Z4AQ/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Agon (1959). Photo: Roger Wood. Image courtesy Royal Opera House Collections (www.rohcollections.org.uk)</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_13_1455569500953_31757\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>While there was no scenario, Clive Barnes, writing in <em>Dance and Dancers</em>, asserted that this Agon could be loosely defined as a story-ballet, the scene a bordello, the narrative one about \u201Clove in the Waste Land\u201D and about the Fates and their blind indifference to humanity. MacMillan accepted that while the ballet had no narrative element, there \u201Cwas a certain basis of truth\u201D to the suggestion that the action took place in a brothel.</p><p>Nonetheless, the Diaghilev conductor Ernest Ansermet considered MacMillan\u2019s <em>Agon</em> \u201Cthe first truly abstract ballet he had ever seen\u201D. The first night audience was enthusiastic (there were thirteen curtain calls). Clive Barnes, writing for <em>Dance and Dancers</em>, praised MacMillan for \u201Ccatching the right weight of dance to support the orchestration\u201D. In <em>The Financial Times</em>, Clement Crisp characterised MacMillan\u2019s vocabulary as \u201Cextremely rich, by turns extravagant and declamatory\u201D.</p><p>However <em>The Times</em> was unimpressed with the score\u2019s \u2018bankruptcy of melodic invention\u2019 and characterised MacMillan as having \u2018somehow made bricks without straw, a silk purse out of a sow\u2019s bristles\u2019. Alexander Bland of <em>The Observer</em> wrote of a missed opportunity which nonetheless had \u2018some fascinating side-products\u2019. \u201CThe choreography is, in fact, full of invention and aptly set to the music. But the economy and simplicity of the score is not reflected on the stage. Instead MacMillan has spread over it a veneer of rather facile coffee-bar mannerism which gives a fatal twist to the proceedings \u2013 a twist towards the kind of gimmick mannerism which dates with this year\u2019s waist-line. This attitude is reflected even more strongly in the costumes. I should like to see this interesting work in practice dress.\u201D</p><p>MacMillan\u2019s <em>Agon</em> was performed for one season and was danced nineteen times. No Benesh score exists. Although the system had by then been accepted by the Royal Ballet, the company\u2019s first notator did not start work until 1960.</p><ul><li><blockquote><strong>First performance:</strong>&nbsp;20 August 1958</blockquote></li><li><blockquote><strong>Music:</strong>&nbsp;Igor Stravinsky</blockquote></li><li><blockquote><strong>Design:</strong>&nbsp;Nicholas Geordiadis</blockquote></li><li><blockquote><strong>Cast:</strong>&nbsp;Anya Linden, David Blair, Deirdre Dixon, Ronald Hynde</blockquote></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/agon",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "56c1bfbe7c65e4b75a0b528a",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "video" : {
+        "playbackSpeed" : 1,
+        "filter" : 3,
+        "filterStrength" : 70,
+        "zoom" : 0
+      },
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Expresso Bongo",
+      "navigationTitle" : "Espresso Bongo",
+      "urlId" : "espresso-bongo",
+      "itemCount" : 0,
+      "updatedOn" : 1512936788846,
+      "description" : "<p>1959</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512936788841\" id=\"page-56c1bfbe7c65e4b75a0b528a\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_8_1512936713348_5195\" id=\"block-yui_3_17_2_8_1512936713348_5195\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-56c1bfbf7c65e4b75a0b528b\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Expresso Bongo</em> was MacMillan\u2019s second foray into musicals (his first was choreographing John Osborne\u2019s disastrous <a href=\"/the-world-of-paul-slickey\"><em>The World of Paul Slickey</em></a> in 1958). A satire on the music business, <em>Expresso Bongo</em> had begun life as a successful West End musical in 1958. The following year it was made into an even more successful film starring Laurence Harvey and Cliff Richard, becoming one of the ten best-selling films at the box office that year. Its leading character is a sleazy theatrical agent on the lookout for fresh talent to exploit. He discovers a teenage singer named Bert Rudge in a coffee shop, changes his name to Bongo Herbert, and a star is born. Fame, a record deal and the inevitable recriminations follow.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_13_1455569500953_54730\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:1000px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:79.4000015258789%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455575899883-J4BBF61KIMKRFLEBTU23/image-asset.jpeg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455575899883-J4BBF61KIMKRFLEBTU23/image-asset.jpeg\" data-image-dimensions=\"1000x794\" data-image-focal-point=\"0.5,0.5\" alt=\"\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455575899883-J4BBF61KIMKRFLEBTU23/image-asset.jpeg\" width=\"1000\" height=\"794\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455575899883-J4BBF61KIMKRFLEBTU23/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455575899883-J4BBF61KIMKRFLEBTU23/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455575899883-J4BBF61KIMKRFLEBTU23/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455575899883-J4BBF61KIMKRFLEBTU23/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455575899883-J4BBF61KIMKRFLEBTU23/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455575899883-J4BBF61KIMKRFLEBTU23/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1455575899883-J4BBF61KIMKRFLEBTU23/image-asset.jpeg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-embed embed-block sqs-col-6 span-6 float float-left\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.embed\" data-sqsp-block=\"embed\" data-website-component-id=\"yui_3_17_2_7_1510085389115_8436\" id=\"block-yui_3_17_2_7_1510085389115_8436\"><div class=\"sqs-block-content\">\n  \n\n<div\n  class=\"sqs-embed-container\"\n  data-localized=\"{&quot;embedInvalid&quot;:&quot;Enter a valid embed URL or code.&quot;,&quot;embedTitle&quot;:&quot;Embed Block&quot;,&quot;embedUninitialized&quot;:&quot;Add an embed URL or code.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;invalidThumbnail&quot;:&quot;Custom featured images only available with embedded videos. Go back into embed settings to turn off featured images.&quot;,&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\"\n  \n  \n>\n  \n  \n    \n    \n      \n        \n        \n        \n        \n          <iframe src=\"https://player.vimeo.com/video/241370883\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\n        \n        \n        \n      \n    \n  \n  \n    \n\n\n\n  \n</div>\n\n\n  <style class=\"transform-overrides-vars\">\n  \n</style>\n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_13_1455569500953_54949\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p id=\"yui_3_17_2_13_1455569500953_54626\">Val Guest, the director, engaged Kenneth MacMillan to choreograph the strip-club dancers who appear in the film. Struggling at Shepperton Studios to get them to dance and sing at the same time, MacMillan complained; \u201CIt's the simplest routine. They may have looks, legs and tits, but they have no co-ordination.\u201D Nevertheless for his efforts MacMillan earned more than he would have done in a full year at Covent Garden.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/espresso-bongo",
+      "passwordProtected" : false,
+      "draft" : false
+    } ],
+    "tags" : [ ],
+    "categories" : [ ],
+    "homepage" : false,
+    "typeName" : "index",
+    "regionName" : "default",
+    "synchronizing" : false,
+    "categoryPagesSeoHidden" : false,
+    "tagPagesSeoHidden" : false,
+    "qrCodeEnabled" : false,
+    "pagePermissionType" : 1,
+    "typeLabel" : "index",
+    "fullUrl" : "/when-where",
+    "passwordProtected" : false,
+    "draft" : false,
+    "title" : "1953 - 1960",
+    "navigationTitle" : "1953 - 1960"
+  },
+  "shoppingCart" : {
+    "websiteId" : "56c185f6746fb9a875e10bc8",
+    "created" : 1787124568272,
+    "entries" : [ ],
+    "shippingLocation" : { },
+    "taxLineItems" : [ ],
+    "coupons" : [ ],
+    "promoCodes" : [ ],
+    "appliedGiftCards" : [ ],
+    "cartType" : 1,
+    "validCoupons" : [ ],
+    "invalidCoupons" : [ ],
+    "subtotalCents" : 0,
+    "taxCents" : 0,
+    "shippingCostCents" : 0,
+    "discountCents" : 0,
+    "giftCardRedemptionTotalCents" : 0,
+    "grandTotalCents" : 0,
+    "amountDueCents" : 0,
+    "remainingBalanceCents" : 0,
+    "totalQuantity" : 0,
+    "purelyDigital" : false,
+    "hasDigital" : false,
+    "requiresShipping" : false,
+    "shippingOptions" : [ ]
+  },
+  "shareButtons" : {
+    "twitter" : true,
+    "facebook" : true,
+    "reddit" : true,
+    "tumblr" : true,
+    "pinterest" : true,
+    "google" : true,
+    "linkedin" : true
+  },
+  "showCart" : false,
+  "localizedStrings" : { },
+  "userAccountsContext" : {
+    "showSignInLink" : false
+  },
+  "template" : {
+    "mobileStylesEnabled" : true
+  },
+  "uiextensions" : {
+    "product-badge" : "sqs-uiextensions-product-badge",
+    "product-body" : "sqs-uiextensions-product-body",
+    "product-badge-mobile" : "sqs-uiextensions-product-badge-mobile",
+    "product-body-mobile" : "sqs-uiextensions-product-body-mobile",
+    "product-collection-item" : "sqs-uiextensions-product-collection-item",
+    "scripts-enabled" : false
+  },
+  "empty" : false,
+  "emptyFolder" : false,
+  "calendarView" : false,
+  "items" : [ ],
+  "pagePreviewContext" : {
+    "isPreviewMode" : false,
+    "memberAccessUrl" : "/when-where?format=json-pretty&requestAccess=true"
+  }
+}

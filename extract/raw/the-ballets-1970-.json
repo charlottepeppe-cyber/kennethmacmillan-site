@@ -1,0 +1,1006 @@
+{
+  "website" : {
+    "id" : "56c185f6746fb9a875e10bc8",
+    "cloneable" : false,
+    "contentModifiedOn" : 1513113183947,
+    "identifier" : "charlotte-macmillan-9y0h",
+    "imageMetadataProcessingEnabled" : false,
+    "isHstsEnabled" : false,
+    "language" : "en-US",
+    "primaryDomain" : "www.kennethmacmillan.com",
+    "screenshotId" : "d4182ab0d34d0366c16de4d6b35c8392de50eb052cbcc557f0d196765ef55d2d",
+    "shareButtonOptions" : {
+      "8" : true,
+      "2" : true,
+      "3" : true,
+      "1" : true,
+      "6" : true,
+      "4" : true,
+      "7" : true
+    },
+    "showOwnerLogin" : false,
+    "siteDescription" : "<p>A website dedicated to the life and work of the late Sir Kenneth MacMillan</p>",
+    "siteStatus" : { },
+    "siteTagLine" : "His Life and Work",
+    "siteTitle" : "Kenneth MacMillan ",
+    "sslSetting" : 3,
+    "timeZone" : "Europe/London",
+    "typekitId" : "",
+    "websiteType" : 1,
+    "statsMigrated" : false,
+    "authenticUrl" : "https://www.kennethmacmillan.com",
+    "baseUrl" : "https://www.kennethmacmillan.com",
+    "internalUrl" : "https://charlotte-macmillan-9y0h.squarespace.com",
+    "machineTimeZoneOffset" : 3600000,
+    "socialAccounts" : [ {
+      "serviceId" : 2,
+      "userId" : "10153589214404804",
+      "screenname" : "Charlotte Pepp\u00E9 Was MacMillan",
+      "addedOn" : 1506287690730,
+      "profileUrl" : "http://www.facebook.com/10153589214404804",
+      "iconUrl" : "http://graph.facebook.com/10153589214404804/picture?type=square",
+      "metaData" : {
+        "service" : "facebook"
+      },
+      "iconEnabled" : true,
+      "serviceName" : "facebook"
+    }, {
+      "serviceId" : 20,
+      "userId" : "charlottemacmillan@mac.com",
+      "screenname" : "charlottemacmillan@mac.com",
+      "addedOn" : 1512932781375,
+      "profileUrl" : "mailto:charlottemacmillan@mac.com",
+      "iconEnabled" : true,
+      "serviceName" : "email"
+    } ],
+    "timeZoneAbbr" : "BST",
+    "timeZoneOffset" : 3600000,
+    "siteTitle" : "Kenneth MacMillan "
+  },
+  "websiteSettings" : {
+    "id" : "56c185f6746fb9a875e10bcb",
+    "websiteId" : "56c185f6746fb9a875e10bc8",
+    "type" : "Personal",
+    "subjects" : [ ],
+    "country" : "GB",
+    "state" : "ENG",
+    "simpleLikingEnabled" : true,
+    "mobileInfoBarSettings" : {
+      "isContactEmailEnabled" : false,
+      "isContactPhoneNumberEnabled" : false,
+      "isLocationEnabled" : false,
+      "isBusinessHoursEnabled" : false
+    },
+    "commentLikesAllowed" : true,
+    "commentAnonAllowed" : true,
+    "commentThreaded" : true,
+    "commentApprovalRequired" : false,
+    "commentAvatarsOn" : true,
+    "commentSortType" : 2,
+    "commentFlagThreshold" : 0,
+    "commentFlagsAllowed" : true,
+    "commentEnableByDefault" : true,
+    "commentDisableAfterDaysDefault" : 0,
+    "disqusShortname" : "",
+    "collectionTitleFormat" : "%c \u2014 %s",
+    "itemTitleFormat" : "%i \u2014 %s",
+    "commentsEnabled" : false,
+    "uiComponentRegistrationsFlag" : false,
+    "scriptRegistrationsFlag" : false,
+    "bundleEligible" : false,
+    "bucketingSeedId" : "dca33311-dd47-403c-8721-cee4aef154c0",
+    "newPlanArchitectureEligible" : true,
+    "storeSettings" : {
+      "returnPolicy" : null,
+      "termsOfService" : null,
+      "privacyPolicy" : null,
+      "expressCheckout" : false,
+      "continueShoppingLinkUrl" : "/",
+      "useLightCart" : false,
+      "showNoteField" : false,
+      "shippingCountryDefaultValue" : "US",
+      "billToShippingDefaultValue" : false,
+      "showShippingPhoneNumber" : true,
+      "isShippingPhoneRequired" : false,
+      "showBillingPhoneNumber" : true,
+      "isBillingPhoneRequired" : false,
+      "currenciesSupported" : [ "CHF", "HKD", "MXN", "EUR", "DKK", "USD", "CAD", "MYR", "NOK", "THB", "AUD", "SGD", "ILS", "PLN", "GBP", "CZK", "SEK", "NZD", "PHP", "RUB" ],
+      "defaultCurrency" : "USD",
+      "selectedCurrency" : "USD",
+      "measurementStandard" : 1,
+      "orderConfirmationInjectCode" : "",
+      "showCustomCheckoutForm" : false,
+      "checkoutPageMarketingOptInEnabled" : false,
+      "enableMailingListOptInByDefault" : true,
+      "sameAsRetailLocation" : false,
+      "merchandisingSettings" : {
+        "scarcityEnabledOnProductItems" : false,
+        "scarcityEnabledOnProductBlocks" : false,
+        "scarcityMessageType" : "DEFAULT_SCARCITY_MESSAGE",
+        "scarcityThreshold" : 10,
+        "multipleQuantityAllowedForServices" : true,
+        "restockNotificationsEnabled" : false,
+        "restockNotificationsSuccessText" : "",
+        "restockNotificationsMailingListSignUpEnabled" : false,
+        "relatedProductsEnabled" : false,
+        "relatedProductsOrdering" : "random",
+        "soldOutVariantsDropdownDisabled" : false,
+        "productComposerOptedIn" : false,
+        "productComposerABTestOptedOut" : false,
+        "productReviewsEnabled" : false,
+        "displayImportedProductReviewsEnabled" : false,
+        "hasOptedToCollectNativeReviews" : false
+      },
+      "minimumOrderSubtotalEnabled" : false,
+      "addToCartConfirmationType" : 2,
+      "isLive" : false,
+      "multipleQuantityAllowedForServices" : true
+    },
+    "useEscapeKeyToLogin" : true,
+    "ssBadgeType" : 1,
+    "ssBadgePosition" : 4,
+    "ssBadgeVisibility" : 1,
+    "ssBadgeDevices" : 1,
+    "pinterestOverlayOptions" : {
+      "mode" : "disabled"
+    },
+    "ampEnabled" : false,
+    "isRestrictiveCookiePolicyEnabled" : false,
+    "seoHidden" : false,
+    "userAccountsSettings" : {
+      "loginAllowed" : false,
+      "signupAllowed" : false
+    },
+    "isCookieBannerEnabled" : false,
+    "isVisitorDataRestricted" : false
+  },
+  "collection" : {
+    "id" : "578748d6e4fcb577ca645455",
+    "websiteId" : "56c185f6746fb9a875e10bc8",
+    "video" : {
+      "playbackSpeed" : 1,
+      "zoom" : 0
+    },
+    "backgroundSource" : 1,
+    "enabled" : true,
+    "starred" : false,
+    "type" : 1,
+    "ordering" : 2,
+    "title" : "1970 - 1977",
+    "navigationTitle" : "1970 - 1977",
+    "urlId" : "the-ballets-1970-",
+    "itemCount" : 0,
+    "updatedOn" : 1468483798655,
+    "description" : "",
+    "features" : {
+      "relatedItems" : {
+        "isEnabled" : false
+      },
+      "productQuickView" : {
+        "isEnabled" : false
+      }
+    },
+    "eventView" : 1,
+    "folder" : true,
+    "dropdown" : true,
+    "folderBehavior" : 1,
+    "collections" : [ {
+      "id" : "5787d5ef893fc044e26a13b8",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "mainImageId" : "5787d6c6d482e93ab12650df",
+      "mainImage" : {
+        "id" : "5787d6c6d482e93ab12650df",
+        "recordType" : 2,
+        "addedOn" : 1468520134172,
+        "updatedOn" : 1468520143414,
+        "workflowState" : 1,
+        "publishOn" : 1468520134172,
+        "authorId" : "547c8136e4b0dcc910ec6ea3",
+        "systemDataId" : "1468520143093-YL5KGTEUXKKL4I82MQRF",
+        "systemDataVariants" : "619x450,100w,300w,500w",
+        "systemDataSourceType" : "JPG",
+        "filename" : "p-1.jpg",
+        "mediaFocalPoint" : {
+          "x" : 0.5,
+          "y" : 0.5,
+          "source" : 3
+        },
+        "colorData" : {
+          "topLeftAverage" : "2a2a2a",
+          "topRightAverage" : "333333",
+          "bottomLeftAverage" : "aeaeae",
+          "bottomRightAverage" : "717171",
+          "centerAverage" : "dadada",
+          "suggestedBgColor" : "2a2a2a"
+        },
+        "urlId" : "lf1zlx2zo5neidgjrm1db41cp5mece",
+        "title" : "",
+        "body" : null,
+        "likeCount" : 0,
+        "commentCount" : 0,
+        "publicCommentCount" : 0,
+        "commentState" : 2,
+        "unsaved" : false,
+        "assetUrl" : "https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1468520143093-YL5KGTEUXKKL4I82MQRF/p-1.jpg",
+        "contentType" : "image/jpeg",
+        "items" : [ ],
+        "pushedServices" : { },
+        "pendingPushedServices" : { },
+        "originalSize" : "619x450",
+        "recordTypeLabel" : "image"
+      },
+      "video" : {
+        "playbackSpeed" : 1,
+        "zoom" : 0
+      },
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "1970 - 1977",
+      "navigationTitle" : "1970 - 1977",
+      "urlId" : "1970-1977",
+      "itemCount" : 0,
+      "updatedOn" : 1512852716953,
+      "description" : "",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512852716950\" id=\"page-5787d5ef893fc044e26a13b8\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_26_1468524949927_31262\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <h3>\u00A0</h3><ul><li><h3><a href=\"/checkpoint\"><span style=\"font-size:12.24px\">Checkpoint</span></a></h3></li><li><h3><a href=\"/anastasia\"><span style=\"font-size:12.24px\">Anastasia (3 act)</span></a></h3></li><li><h3><a href=\"/triad\"><span style=\"font-size:12.24px\">Triad</span></a></h3></li><li><h3><a href=\"/ballade\"><span style=\"font-size:12.24px\">Ballade</span></a></h3></li><li><h3><a href=\"/side-show\"><span style=\"font-size:12.24px\">Side Show</span></a></h3></li><li><h3><a href=\"/the-poltroon\"><span style=\"font-size:12.24px\">The Poltroon</span></a></h3></li><li><h3><a href=\"/the-sleeping-beauty-2\"><span style=\"font-size:12.24px\">The Sleeping Beauty</span></a></h3></li><li><h3><a href=\"/sevendeadly\"><span style=\"font-size:12.24px\">Seven Deadly Sins</span></a></h3></li><li><h3><a href=\"/new-page-97\"><span style=\"font-size:12.24px\">Manon</span></a></h3></li><li><h3><a href=\"/untitled-pas-de-deux\"><span style=\"font-size:12.24px\">Untitled pas de deux</span></a></h3></li><li><h3><a href=\"/elite-syncopations\"><span style=\"font-size:12.24px\">Elite Syncopations</span></a></h3></li><li><h3><a href=\"/the-four-seasons\"><span style=\"font-size:12.24px\">The Four Seasons</span></a></h3></li><li><h3><a href=\"/rituals\"><span style=\"font-size:12.24px\">Rituals</span></a></h3></li><li><h3><a href=\"/requiem\"><span style=\"font-size:12.24px\">Requiem</span></a></h3></li><li><h3><a href=\"/feux-follets\"><span style=\"font-size:12.24px\">Feux Follets</span></a></h3></li><li><h3><a href=\"/gloriana\"><span style=\"font-size:12.24px\">Gloriana (Choral Dances)</span></a></h3></li><li><h3><a href=\"/new-page-11\">Pavane</a></h3></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/1970-1977",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787d896b3db2b900c789dc4",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Checkpoint",
+      "navigationTitle" : "Checkpoint",
+      "urlId" : "checkpoint",
+      "itemCount" : 0,
+      "updatedOn" : 1512852136716,
+      "description" : "<p>1970</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512852136712\" id=\"page-5787d896b3db2b900c789dc4\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_12_1512850013099_7064\" id=\"block-yui_3_17_2_12_1512850013099_7064\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-5787d896b3db2b900c789dc5\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>The one-act <a href=\"/anastasia\">Anastasia</a>&nbsp;in Berlin was the first time Kenneth MacMillan had used film in tandem with choreographed action on stage.&nbsp;<em>Checkpoint</em>&nbsp;was the second \u2013 and with less happy results. The audience in Manchester had to wait for almost an hour while technicians completed work on Elisabeth Dalton\u2019s set; scaffolding, back-projection and huge electronic eye. The work itself, MacMillan\u2019s first for the Royal Ballet since Romeo and Juliet, was twenty minutes long.</p><p>Dalton\u2019s design images were redolent of the still-divided Berlin in which MacMillan had so recently lived; the infamous Wall with its watchtowers, cameras, armed guards and sudden death. Choreographically the ballet, patently inspired by George Orwell\u2019s <em>1984</em>, was an extended pas de deux with interpolations from a corps of seven dancers. MacMillan depicted a future totalitarian society in which all expression of human feeling was forbidden and love could only be furtive.</p><p>For the ballet\u2019s protagonists (danced by Svetlana Beriosova and Donald MacLeary), this meant assignations in the shadows, huddles against walls and even a vertiginous duet half way up a sheer wall in their attempts to avoid the all-probing video eye. In the end, they are discovered; the wall which was their refuge now devours them. The ballet ends with only the couple\u2019s hands visible as they are swallowed by the wall and vainly try to reach other.</p><p>Whatever the production intentions, the set appeared cumbersome and unominous. The purportedly all-seeing eye was blinded when a back-projector broke down. \u201CIt is a good subject and was boldly conceived\u201D wrote <em>The Observer\u2019s </em>Alexander Bland. \u201CBut from the moment the curtain rose things went wrong. The setting was cumbersome but ineffective, with very unalarming projections; the score (Gerhard\u2019s <em>Collages</em>) contributed little and the dance-style seemed half thought-out. Svetlana Beriosova and Donald MacLeary were the unhappy lovers in what must be counted a brave failure\u201D.</p><p>\u201CSome of the movement is beautiful\u201D, conceded Peter Williams of <em>Dance and Dancers</em>. \u201CWere it a purely abstract pas de deux it would be interesting. But the ballet is lumbered with a story... nothing really fitted together at any point.\u201D</p><ul><li><p>First performance:&nbsp;Opera House, Manchester 17 November 1970</p></li><li><p>Company:&nbsp;The Royal Ballet New Group</p></li><li><p>Cast:&nbsp;Svetlana Beriosova, Donald MacLeary</p></li><li><p>Music:&nbsp;Roberto Gerhard, Symphony No. 3 (Collages) for orchestra and tape</p></li><li><p>Design:&nbsp;Elisabeth Dalton</p></li><li><p>Benesh notation score:&nbsp;Monica Parker (1971). Working score (incomplete)</p></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/checkpoint",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787d892b3db2b900c789c88",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "video" : {
+        "playbackSpeed" : 1,
+        "zoom" : 0
+      },
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Anastasia (3 Acts)",
+      "navigationTitle" : "Anastasia (3 Acts)",
+      "urlId" : "new-page-62",
+      "itemCount" : 0,
+      "updatedOn" : 1512852078211,
+      "description" : "<p>1971</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512852078206\" id=\"page-5787d892b3db2b900c789c88\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_10_1512850013099_13950\" id=\"block-yui_3_17_2_10_1512850013099_13950\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-5787d892b3db2b900c789c89\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Among Kenneth MacMillan\u2019s successes when he was director of the ballet at Berlin\u2019s Deutsche Oper was the one-act Anastasia. Its protagonist was Anna Anderson, diagnosed as schizophrenic, who had tried to persuade those who would listen that she was in reality the Grand Duchess Anastasia, only survivor of the massacre of the Russian Imperial family.</p><p>When MacMillan returned to London as director of the Royal Ballet, he decided to make her story the subject of a full-length work. The Berlin Anastasia became the third act of the new ballet premiered at Covent Garden in July 1971. It was not a ballet merely but a manifesto. MacMillan believed that ballet\u2019s future was assured only, if like the other theatre arts, it could speak to its times. In both its style and content Anastasia was a determined engagement with modernity.</p><p>Anastasia was also a fascinating exploration of the psychology of identity. For this new work, MacMillan reached back in time to Anastasia\u2019s youth and to the final days of the Romanoff dynasty. The ballet already staged in Berlin became the final act of the work performed at Covent Garden. In the new Acts I and II Anastasia is a real historical figure. Act III is shot through with ambiguity and leaves unresolved the question of whether Anna Anderson was who she claimed. The new ballet is a creation in reverse; an exercise, if Anna is indeed Anastasia, in retrieving memory.</p><p>The first act is a childhood idyll: the teenage Anastasia is on a summer picnic in 1914 with the Tsar and his family. A group of naval cadets are there to liven up the afternoon. Lynn Seymour, who created the role of Anastasia, decided that she could best portray her character\u2019s precocity by making her entrance on roller skates, wearing a sailor suit. The picnic ends with the arrival of a messenger. He brings news of the outbreak of war. The cadets assemble and prepare for action.</p><p>The second act is set in 1917 against the unrest which grips St Petersburg. At the Imperial Palace there is a coming out party for Anastasia, now 16. Among the entertainments is a virtuoso pas de deux by two dancers from the Mariinsky. The ballerina, the Tsar\u2019s ex-mistress is Mathilde Kchessinska (danced in the 1971 production by Antoinette Sibley, partnered by Anthony Dowell). The celebrations are interrupted by armed revolutionaries and the Tsar and his family are marched away.</p><p>In the final act, essentially the one-act Anastasia performed in Berlin in 1967, Anna Anderson (Anna, but now with cropped hair and ravaged face) recreates a confused and half-remembered past; whether this is memory or fantasy MacMillan leaves to the audience\u2019s judgement (only in the mid 1990s did DNA tests finally determine that Anderson was not the Tsar\u2019s daughter). Projected film shows close-ups of a young girl at the Tsar\u2019s side and Anderson rushes towards the screened image. Characters from the first two acts reappear, but in different guises; this, MacMillan told Clement Crisp, was intended to underscore Anna\u2019s confused memories of past and present. At the ballet\u2019s end, Anna is possessed of iron certainty; she is indeed Anastasia and claims the tribute that is hers by right.&nbsp;Anastasia\u2019s problem of identity was not, MacMillan explained, one for herself. \u201CAlways, throughout all the mental and physical confusion, she knows she is the Grand Duchess. Her tragedy is in convincing the rest of the world.\u201D</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-video video-block\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/5c5f6941-0423-4c1f-9eb5-c28cec869a88_584/website.components.video.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/5c5f6941-0423-4c1f-9eb5-c28cec869a88_584/4032.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/5c5f6941-0423-4c1f-9eb5-c28cec869a88_584/website.components.video.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.video\" data-sqsp-block=\"video\" data-website-component-id=\"yui_3_17_2_10_1512850013099_8683\" id=\"block-yui_3_17_2_10_1512850013099_8683\"><div class=\"sqs-block-content\">\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <div class=\"intrinsic\" style=\"max-width:100%\">\n    \n      \n    \n    <div\n      class=\"embed-block-wrapper\"\n      style=\"padding-bottom:56.25%;\"\n    >\n      <div\n        class=\"sqs-video-wrapper\"\n        data-provider-name=\"Vimeo\"\n        data-html=\"&lt;iframe src=&quot;https://player.vimeo.com/video/246577905?wmode=opaque&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; title=&quot;Anastasia trailer (The Royal Ballet)&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;\"\n        data-localized=\"{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}\"\n      >\n        \n      </div>\n    </div>\n    \n    \n\n\n\n  </div>\n\n\n<style class=\"transform-overrides-vars\">\n  \n</style>\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_10_1512850013099_8749\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>The Martinu score for Act III was apt to MacMillan\u2019s scenario. When he wrote it, Martinu was recovering from a head injury and a serious loss of memory. For the new acts, MacMillan settled on two Tchaikovsky symphonies, intended to evoke the sound world of the events to be depicted. Tchaikovsky\u2019s scores are roughly contemporary with the events depicted, while Martinu\u2019s symphony underscores the ambiguous existence of Anna, the would-be Anastasia, after she recovers consciousness in a Berlin mental hospital.</p><p>To its advocates Anastasia was daring in its imaginative reach. \u201CI acclaim the choreographer as dramatist, story-teller and poet\u201D, wrote Richard Buckle in his <em>Sunday Times </em>column. He praised it as \u201Can epic, golden endeavour\u201D. For Andrew Porter of <em>The Financial Times</em>,&nbsp;Anastasia had \u201Cthe intellectual layers and emotional depth of a considerable work of art.\u201D</p><p>But there was vehement dissent from two critics in particular. John Percival of The Times thought Anastasia was \u201Ctastelessly Ruritarian in concept .... which hardly augurs well for the future\u201D. \u201CThe real sorrow\u201D, complained Clive Barnes in <em>The New York Times</em>&nbsp;\u201Cis that its inclusion in the New York repertory has meant the exclusion of works \u2013 such as Ashton\u2019s <em>La Fille Mal Gard\u00E9e</em>&nbsp;or Ondine \u2013 that are basic to New York\u2019s view of the Royal Ballet.\u201D</p><p>Back in London most critics, even if they thought Anastasia flawed, were also prepared, like Alexander Bland of <em>The Observer</em>&nbsp;to concede its merits. \u201CMacMillan has brought off several major feats. He has provided an evening packed with classical dancing which is always distinguished in that quiet way which rewards repeated viewings: he has created a bunch of roles which show off the company to great advantage.\u201D</p><p>For critics of MacMillan\u2019s directorship, in particular Percival and Barnes,&nbsp;Anastasia became emblematic of their distaste for his artistic choices. However, Arlene Croce of <em>The New Yorker</em>&nbsp;praised MacMillan for the scale of his ambition. \u201CIn Anastasia he produced a personal fantasy about a global cataclysm entirely from nothing. I don\u2019t think he was being pretentious, and the insults that were showered on him for missing the mark themselves missed the mark.\u201D And for MacMillan\u2019s advocates, such as Clement Crisp of <em>The Financial Times</em>,&nbsp;Anastasia was eloquent evidence of \u201Chow the big ballet can speak of this century\u2019s history in this century\u2019s terms.\u201D</p><ul><li><p>First performance:&nbsp;Royal Opera House, Covent Garden, 22 July 1971</p></li><li><p>Company:&nbsp;The Royal Ballet</p></li><li><p>Cast:&nbsp;Lynn Seymour, Svetlana Beriosova, Antoinette Sibley, Derek Rencher, Anthony Dowell, Gerd Larsen,Vergie Derman, Jennifer Penney, Lesley Collier, Marilyn Trounson, David Wall, Michael Coleman, Adrian Grater</p></li><li><p>Music:&nbsp;Peter Ilyich Tchaikovsky, Symphonies Nos. 1 (Winter Dreams) and 3: Bohuslav Martinu, Fantaisies Symphoniques (Symphony No. 6): Electronic score, Fritz Winckel and R\u00FCdiger R\u00FCfer</p></li><li><p>Design:&nbsp;Barry Kay</p></li><li><p>Benesh notation score:&nbsp;Monica Parker (1971). Working score for Acts I and II. For Act III see Anastasia (1967)</p></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-62",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787d90b5016e19f4cf33513",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Triad",
+      "navigationTitle" : "Triad",
+      "urlId" : "triad",
+      "itemCount" : 0,
+      "updatedOn" : 1512852149470,
+      "description" : "<p>1971</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512852149464\" id=\"page-5787d90b5016e19f4cf33513\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_12_1512850013099_11824\" id=\"block-yui_3_17_2_12_1512850013099_11824\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-5787d90b5016e19f4cf33514\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Triad</em>&nbsp;graphically portrays the intensities of adolescence and yet again MacMillan created an \u2018outsider\u2019 figure, one left behind. There are three central characters, two brothers and a girl. Her arrival disrupts the very intense relationship between the brothers. The elder (Anthony Dowell) tries to impress the girl and cynically pushes his junior (Wayne Eagling) into the clutches of a gang of young toughs (with whom the girl arrived) who beat him up. He then has a dalliance with the Eve-like newcomer (Antoinette Sibley). Driven by resentments he can barely understand the younger brother lashes out. But dawning sexuality has undone childhood sweetness. The elder has been swept across the threshold of eroticism and the younger must wait outside.</p><p>Richard Buckle was struck by the Cain and Abel like resonances of a pas de trois for Sibley, Dowell and Eagling and thought <em>Triad</em>&nbsp;showed MacMillan to be at the height of his powers. \u201CSecond sight of <em>Triad</em>\u201D, Buckle wrote in his<em>Sunday Times</em>&nbsp;column \u201Cleaves me in no doubt that it is MacMillan\u2019s best ballet. The slides, the curious standing-sitting man\u00E8ge, the tangled knots of choreography resolved in extensions, the partings of the lovers\u2019 bodies by the probing brother \u2013 so many inventive passages of dance, together with the drama caused by Dowell\u2019s tenderness for his brother Eagling and the rejection of him in favour of the vampire Sibley \u2013 all seem to spring so naturally from the contorted hysteria of Prokofiev\u2019s violin concerto.\u201D</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-embed embed-block sqs-col-6 span-6 float float-left\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.embed\" data-sqsp-block=\"embed\" data-website-component-id=\"yui_3_17_2_25_1468518036611_44991\" id=\"block-yui_3_17_2_25_1468518036611_44991\"><div class=\"sqs-block-content\">\n  \n\n<div\n  class=\"sqs-embed-container\"\n  data-localized=\"{&quot;embedInvalid&quot;:&quot;Enter a valid embed URL or code.&quot;,&quot;embedTitle&quot;:&quot;Embed Block&quot;,&quot;embedUninitialized&quot;:&quot;Add an embed URL or code.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;invalidThumbnail&quot;:&quot;Custom featured images only available with embedded videos. Go back into embed settings to turn off featured images.&quot;,&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\"\n  \n  \n>\n  \n  \n    \n    \n      \n        \n        \n        \n        \n          <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/H7YbobFLAA4\" frameborder=\"0\" allowfullscreen></iframe>\n        \n        \n        \n      \n    \n  \n  \n    \n\n\n\n  \n</div>\n\n\n  <style class=\"transform-overrides-vars\">\n  \n</style>\n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_15_1502215998172_5449\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>To some eyes the designs subverted the intent of MacMillan\u2019s choreography. Because Peter Unsworth in the original production costumed the dancers in patterned white body tights, several critics thought the impact excessively balletic. Mary Clarke of <em>Dancing Times</em>&nbsp;complained of a design tendency to make all new ballets look as if they are about ballet dancers than about real people. To <em>The Observer\u2019s</em>Alexander Bland all the dancers were all dressed like sprites. \u201CEven the three toughs looked like they had strayed from somewhere at the bottom of the Garden.\u201D</p><p>But even if the raw hurt of reality was somehow lost in the telling or masked in the costuming, the ballet had much to tease the eye, with a cast at \u201Ctop classical trim\u201D (Bland) and choreography which for Philip Hope-Wallace of <em>The Guardian</em>&nbsp;was \u201Cthe real right thing\u201D. And after the opening night, Ninette de Valois, the Royal Ballet\u2019s founder sent MacMillan a telegram. It read simply: 'For me your finest work.'</p><ul style=\"margin-left:0px; margin-right:0px\"><li><p>First performance:&nbsp;Covent Garden, London, 19 January 1972</p></li><li><p>Company:&nbsp;The Royal Ballet</p></li><li><p>Cast:&nbsp;Antoinette Sibley, Anthony Dowell, Wayne Eagling, David Ashmole, Peter O\u2019Brien, Gary Sherwood.</p></li><li><p>Music:&nbsp;Sergei Prokofiev, Violin Concert No.1</p></li><li><p>Design:&nbsp;Peter Unsworth (redesigned Deborah MacMillan 2001)</p></li><li><p>Benesh notation score:&nbsp;Monica Parker (1972). Preliminary Master Score</p></li><li><p>Video:&nbsp;NVC Arts, American Ballet Theater at the Met (B00008AORF)</p></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/triad",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787d935b8a79b31d1218d90",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Ballade",
+      "navigationTitle" : "Ballade",
+      "urlId" : "ballade",
+      "itemCount" : 0,
+      "updatedOn" : 1512852163166,
+      "description" : "<p>1972</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512852163161\" id=\"page-5787d935b8a79b31d1218d90\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_12_1512850013099_15680\" id=\"block-yui_3_17_2_12_1512850013099_15680\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-5787d935b8a79b31d1218d91\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>To some who saw it <em>Ballade</em>&nbsp;had afterimages of MacMillan\u2019s <a href=\"/triad\">Triad</a>. The dramatic tension in both ballets is a little similar; a woman disrupting the equilibrium in male relationships.</p><p><em>Ballade</em>, a chamber work with a cast of four, was created for The Royal Ballet\u2019s New Group and premiered on a continental tour. The set is austere; white backdrop, white table, white chairs. As the ballet opens, the four dancers sit in line with their backs to the audience. They look at each other and the men look to the only woman. All move to the table as if to play a card game. What followed seemed to Peter Williams of <em>Dance and Dancers </em>an exercise in choreographic poker with the men making plays for the girl in a sequence of pas de deux or groups. She makes up her mind, chooses one, and the two other men leave the table.</p><p>\u201COut of that slender material\u201D, wrote James Kennedy in <em>The Guardian</em>, MacMillan has made a fluent, gently emotional and uninterrupted kaleidoscope of dance. The setting gives it an initial flavour of stern modernism; but essentially is it a series of variations on MacMillan\u2019s quite familiar neo-classical idiom \u2013 free and bold but very recognisably stemming from the grand tradition\u201D.</p><ul><li><p>First performance:&nbsp;Teatro Nacional de S. Carlos, Lisbon, 19 May 1972</p></li><li><p>Company:&nbsp;The Royal Ballet New Group</p></li><li><p>Cast:&nbsp;Vyvyan Lorrayne, Paul Clarke, Nicholas Johnson, Stephen Jefferies</p></li><li><p>Music:&nbsp;Gabriel Faur\u00E9, Ballade for piano and orchestra</p></li><li><p>Benesh notation score:&nbsp;Jacquie Hollander (1972). Working score</p></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/ballade",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787d941ebbd1ad3da4beb3e",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Side Show",
+      "navigationTitle" : "Side Show",
+      "urlId" : "side-show",
+      "itemCount" : 0,
+      "updatedOn" : 1512852210311,
+      "description" : "<p>1972</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512852210308\" id=\"page-5787d941ebbd1ad3da4beb3e\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_14_1512850013099_8086\" id=\"block-yui_3_17_2_14_1512850013099_8086\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-5787d941ebbd1ad3da4beb3f\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Arrangements were under way for The Royal Ballet\u2019s 1972 visit to New York, and Sol Hurok was demanding a world premiere to give focus to the season. MacMillan therefore choreographed a short pas de deux for Lynn Seymour and Rudolf Nureyev.&nbsp;<em>Side Show</em>&nbsp;is a comic pas de deux for a moustachioed circus strong man and a ballerina; a Victorian cartoon of a frayed music hall act long past its prime. Stravinsky\u2019s intent when he wrote the <em>Suites</em>&nbsp;was also satirical; he said that when he wrote the polka he was imagining Diaghilev as a circus ring-master cracking his whip.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block image-block sqs-block-image sqs-col-6 span-6 float float-left\" data-block-type=\"5\" data-sqsp-block=\"image-classic\" id=\"block-yui_3_17_2_22_1506291668048_6771\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n    \n  \n    <div\n        class=\"\n          image-block-outer-wrapper\n          layout-caption-below\n          design-layout-inline\n          \n          \n          \n        \"\n        data-test=\"image-block-inline-outer-wrapper\"\n        data-sqsp-image-classic-block-layout=\"inline\"\n    >\n\n      \n\n      \n        <figure\n            class=\"\n              sqs-block-image-figure\n              intrinsic\n            \"\n            style=\"max-width:428px;\"\n        >\n          \n        \n        \n\n        \n          \n            \n          <div\n              \n              \n              class=\"image-block-wrapper\"\n              data-animation-role=\"image\"\n              \n  data-animation-override\n\n          >\n            <div data-sqsp-image-classic-block-image-container class=\"sqs-image-shape-container-element\n              \n          \n        \n              has-aspect-ratio\n            \" style=\"\n                position: relative;\n                \n                  padding-bottom:80.37383270263672%;\n                \n                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n              \"\n              >\n                \n                \n                \n                \n                \n                \n                \n                <img data-stretch=\"false\" data-src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1506293307807-50XX7D1CBKBUQUFK3NVV/313295.jpg\" data-image=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1506293307807-50XX7D1CBKBUQUFK3NVV/313295.jpg\" data-image-dimensions=\"428x344\" data-image-focal-point=\"0.5,0.5\" alt=\"Lynn Seymour and Rudolf Nureyev in Sideshow\" data-load=\"false\" elementtiming=\"system-image-block\" data-sqsp-image-classic-block-image src=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1506293307807-50XX7D1CBKBUQUFK3NVV/313295.jpg\" width=\"428\" height=\"344\" alt=\"\" sizes=\"(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw\" style=\"display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%\" onload=\"this.classList.add(&quot;loaded&quot;)\" srcset=\"https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1506293307807-50XX7D1CBKBUQUFK3NVV/313295.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1506293307807-50XX7D1CBKBUQUFK3NVV/313295.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1506293307807-50XX7D1CBKBUQUFK3NVV/313295.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1506293307807-50XX7D1CBKBUQUFK3NVV/313295.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1506293307807-50XX7D1CBKBUQUFK3NVV/313295.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1506293307807-50XX7D1CBKBUQUFK3NVV/313295.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/56c185f6746fb9a875e10bc8/1506293307807-50XX7D1CBKBUQUFK3NVV/313295.jpg?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            </div>\n          </div>\n        \n          \n        \n\n        \n          \n          <figcaption data-sqsp-image-classic-block-caption-container class=\"image-caption-wrapper\">\n            <div class=\"image-caption\"><p>Lynn Seymour and Rudolf Nureyev in Sideshow</p></div>\n          </figcaption>\n        \n      \n        </figure>\n      \n\n    </div>\n  \n\n\n  \n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_22_1506291668048_9107\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>It was decided to give<em>&nbsp;Side Show</em>&nbsp;a try out before New York, and so performances were arranged for the last day of the Group\u2019s visit to Liverpool on 1 April 1972. In retrospect it was clear this was a mistake. Liverpool became very excited, for this would be the first time that Nureyev had danced in the city.<em>&nbsp;Side Show</em>&nbsp;was not what the audience expected \u2013 they had anticipated seeing Nureyev in a classical guise - and the performance was badly received.</p><p>However Andrew Porter <em>The Financial Times</em>&nbsp;was appreciative of<em>&nbsp;Side Show\u2019s</em>&nbsp;intrinsic merits. \u201CBrilliantly devised to show off all the things the two of them do best, it includes fleet, funny references to their (and others\u2019) achievements, some happy moments of mutual mockery, and a good deal of witty new invention perfectly keyed to Stravinsky\u2019s spirited miniatures. Seymour proves herself (once again) the most subtle and seductive of comediennes.\u201D</p><ul><li><p>First performance:&nbsp;Royal Court Liverpool. 1 April 1972</p></li><li><p>Company:&nbsp;The Royal Ballet New Group</p></li><li><p>Cast:&nbsp;Lynn Seymour, Rudolf Nureyev</p></li><li><p>Music:&nbsp;Igor Stravinsky, Suites Nos. 1 &amp; 2 for small orchestra</p></li><li><p>Costumes:&nbsp;Thomas O\u2019Neil</p></li><li><p>Benesh notation score:&nbsp;Monica Parker (1972). Working score</p></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/side-show",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787d94fd1758ea29d7c10ff",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "The Poltroon",
+      "navigationTitle" : "The Poltroon",
+      "urlId" : "the-poltroon",
+      "itemCount" : 0,
+      "updatedOn" : 1512852243491,
+      "description" : "<p>1972</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512852243487\" id=\"page-5787d94fd1758ea29d7c10ff\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_15_1512850013099_7578\" id=\"block-yui_3_17_2_15_1512850013099_7578\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_7_1481130267382_34021\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>For <em>The Poltroon</em>, Kenneth MacMillan recreated the characters of the <em>commedia dell\u2019arte</em>, but with a twist. The characters are unromantically drawn and Columbine and Harlequin (Last and Jefferies) depicted as put-upon servants. The moonstruck Pierrot (MacLeary) becomes the vicious Poltroon of the ballet\u2019s title wreaking a terrible vengeance on his tormenters. Chief among these is Pantaloon, the autocratic and miserly master, who scoffs sausages on-stage as part of his act (in a programme note Pantaloon was described as a businessman and Pulcinella as a fascist bully). Pierrot pines for what Peter Williams, writing for <em>The Observer</em>, described as a \u201Creal bitch of a Columbine\u201D.</p><p>There are two sections, one onstage, the other offstage, where the players revert to their \u2018real selves\u2019. In the \u2018stage performance\u2019 Pantaloon becomes ill through over-eating. After a grotesque operation (sawn off limbs all over the stage), he survives and adds to the miseries of his household. They in turn prey on Pierrot. Columbine is no romantic heroine \u2013 she has had sex with every character except Pierrot. Harlequin offers Pierrot a drugged potion. This induces a dream duet in which he romantically pursues Columbine, who evades his advances. Pierrot awakes; the others mock him; the stage performance ends.</p><p>At this point, Thomas O\u2019Neil\u2019s set revolves to reveal \u2018backstage\u2019. It becomes clear that the actors are identical in personality to the characters they depict on stage. Pantaloon is a miserly actor/manager who pays his players a pittance and Pierrot nothing at all. Columbine plays Pierrot along in \u2018real life\u2019, just as she did in the earlier dream fantasy. Pierrot snaps. He kills Columbine in the course of a violently sexual pas de deux and continues to dance with her lifeless body. Finally, Pierrot kills the other characters.</p><p>The critics of the day blew cold on <em>The Poltroon</em>. Perhaps it was Mary Clarke, writing for Dancing Times, who had the truest instinct for MacMillan\u2019s motives in making <em>The Poltroon</em>, for the real objects of his satire and for the ghosts he may have been attempting to exorcise.\u201D Clarke\u2019s review ended:</p><blockquote>\u201CIt is a nasty ballet and some people have called it a sick ballet. It certainly is not vintage MacMillan but how can people expect vintage MacMillan when he has been subjected for nearly two years now to a new and very pernicious \u201Ccriticism\u201D \u2013 from both ends of the Atlantic? This is neither outspoken condemnation nor reasoned arguing. It is snide, personal and usually couched in such short, stinging phrases that it will cause the greatest possible hurt to the victim. I find it irresponsible and very short-sighted. It is one thing to criticise the director of the Royal Ballet \u2013 and the direction has come in for anti-Establishment blastings all its successful life. It is quite another thing to slaughter a creative artist. If MacMillan\u2019s zest for choreography is killed, who in heaven\u2019s name, have we got left?\u201D</blockquote><p>In her biography of Kenneth MacMillan,&nbsp;<em>Different Drummer</em>, Jann Parry quotes a member of the cast, Ashley Killar. \u201CThe tragedy is that the ballet\u2019s real virtues \u2013 the masterful study of grotesquerie, insightful character choreography and inventive pas de deux \u2013 are now dismissed. They were part of a ballet that was produced in the wrong programmes at the wrong time.\u201D</p><ul><li><p>First performance:&nbsp;Sadler\u2019s Wells, 12 October 1972</p></li><li><p>Company:&nbsp;The Royal Ballet New Group</p></li><li><p>Cast:&nbsp;Brenda Last, Stephen Jefferies, Donald MacLeary, David Gordon, Carl Myers, Graham Bart, Ashley Killar.</p></li><li><p>Music:&nbsp;Rudolf Maros, Studies for Orchestra and Musica di Ballo</p></li><li><p>Design:&nbsp;Thomas O\u2019Neil</p></li><li><p>Benesh notation score:&nbsp;Monica Parker (1972). Working score</p></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/the-poltroon",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "57874fb3d2b8572d04771fd8",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "video" : {
+        "playbackSpeed" : 1,
+        "zoom" : 0
+      },
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Pavane",
+      "navigationTitle" : "Pavane",
+      "urlId" : "new-page-11",
+      "itemCount" : 0,
+      "updatedOn" : 1512937519564,
+      "description" : "<p>1973</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512937519561\" id=\"page-57874fb3d2b8572d04771fd8\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_28_1512811300430_6159\" id=\"block-yui_3_17_2_28_1512811300430_6159\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-57874fb3d2b8572d04771fd9\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>This was a pi\u00E9ce d\u2019occasion for a gala at Covent Garden to celebrate Britain\u2019s accession in January 1973 to the European Community and was the first of two MacMillan contributions to the evening\u2019s programme (in the other Rudolf Nureyev and Lynn Seymour danced the <a href=\"/side-show\">Side Show</a>&nbsp;pas de deux). The couple in <em>Pavane</em>&nbsp;were Antoinette Sibley and Anthony Dowell, who also designed the costumes.</p><p>For Mary Clarke, writing in <em>Dancing Times</em>, the pas de deux was \u201Cone of the loveliest he (MacMillan) has written; not perhaps Gala fare, too sensitive and delicate, but with some extraordinarily beautiful lifts and changes of direction.\u201D<em>Pavane</em>&nbsp;took on an intensely elegiac quality when, after Kenneth MacMillan\u2019s death, Birmingham Royal Ballet added performances to a mixed programme as a tribute to his memory. The dancers were Marion Tait and Kevin O\u2019Hare.</p><ul><li><p>First performance:&nbsp;Covent Garden, 13 January 1973</p></li><li><p>Company:&nbsp;The Royal Ballet</p></li><li><p>Cast:&nbsp;Antoinette Sibley, Anthony Dowell</p></li><li><p>Music:&nbsp;Gabriel Faur\u00E9, Pavane</p></li><li><p>Design:&nbsp;Anthony Dowell</p></li><li><p>Benesh notation score:&nbsp;Monica Parker (1973). Preliminary master score</p></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-11",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787d95eb8a79b31d1218fbb",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "The Sleeping Beauty",
+      "navigationTitle" : "The Sleeping Beauty",
+      "urlId" : "the-sleeping-beauty-1",
+      "itemCount" : 0,
+      "updatedOn" : 1512819817495,
+      "description" : "<p>1973</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512819817490\" id=\"page-5787d95eb8a79b31d1218fbb\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_41_1512811300430_7807\" id=\"block-yui_3_17_2_41_1512811300430_7807\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_9_1481130267382_27932\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Kenneth MacMillan\u2019s production of <em>The Sleeping Beauty</em>&nbsp;for Covent Garden was born not of conviction but of bureaucratic compromise and had little of the luxuriance of his previous staging for the Deutsche Oper in Berlin. While MacMillan and the credited designer, Peter Farmer, were roundly condemned for it, the reality was that the 1973 production\u2019s fate was sealed from the outset.</p><p>It replaced Peter Wright\u2019s 1968 production, designed by Lila di Nobili, which was not popular with audiences in London or in America. The chosen designer, Beni Montresor, was not MacMillan\u2019s choice, but that of the Covent Garden Management. Once sets and costumes were in the process of being made, it became increasingly clear that they were unsatisfactory \u2013 as Kenneth MacMillan told his wife Deborah, d \u201CEven Walt Disney would have thought them over the top\u201D \u2013 and Montresor\u2019s designs were abandoned. With only six weeks before the first night, Peter Farmer was called in with formidable task of creating an alternative.</p><p>The critics\u2019 reactions were inevitable. Farmer took most of the blame and there were also cavils at MacMillan\u2019s imprints on the choreography. For Richard Buckle of <em>The Sunday Times</em>&nbsp;it was \u201Ca complete disaster\u201D, \u201CA fancy dress extravaganza and an upsetting evening\u201D, Alexander Bland of <em>The Observer</em>&nbsp;complained. \u201CThe company got it on, but only just\u201D, wrote Mary Clarke for <em>Dancing Times</em>. Clarke was the only critic to note the harshness of the press\u2019s judgement on Peter Farmer. In the light of the reaction, The Royal Ballet did not, as intended, bring the production to the United States in the following year.</p><ul><li><p>First performance:&nbsp;Covent Garden, London, 15 March 1973</p></li><li><p>Company:&nbsp;The Royal Ballet</p></li><li><p>Cast:&nbsp;Leslie Edwards, Gerd Larsen, Antoinette Sibley, Anthony Dowell, Ronald Plaisted, Alexander Grant, Deanne Bergsma, Jennifer Penney, Julian Hosking, Laura Connor, Peter Fairweather, Alfreda Thorogood, Murray Kilgour, Anita Young, Wayne Eagling, Lesley Collier, David Ashmole, David Drew</p></li><li><p>Music:&nbsp;Peter Ilyich Tchaikovsky, The Sleeping Beauty</p></li><li><p>Design:&nbsp;Peter Farmer</p></li></ul><p>\u00A0</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/the-sleeping-beauty-1",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787d976b8a79b31d121910a",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Seven Deadly Sins",
+      "navigationTitle" : "Seven Deadly Sins",
+      "urlId" : "seven-deadly-sins",
+      "itemCount" : 0,
+      "updatedOn" : 1512819869894,
+      "description" : "<p>1973</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512819869890\" id=\"page-5787d976b8a79b31d121910a\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_42_1512811300430_7026\" id=\"block-yui_3_17_2_42_1512811300430_7026\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-5787d976b8a79b31d121910b\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>In 1973 Kenneth MacMillan revisited Berthold Brecht and Kurt Weill\u2019s <em>Seven Deadly Sins</em>which he had previously choreographed for Western Theatre Ballet in 1961. Again he chose Ian Spurling as his design collaborator. While the production concept was mostly unchanged, MacMillan was attracted by the challenge of scaling up the work for a larger company and choreographically the 1973 ballet differs markedly from its 1961 predecessor.</p><p>This time his Dancing Anna was Jennifer Penney, while the jazz singer Georgia Brown was her singing alter ego. Lynn Seymour was a burlesque queen attended by two male transvestites while Vergie Derman confidently headed a tap chorus line. As in 1961, Spurling used giant versions of children\u2019s building blocks to spell out the names of the various sins.</p><p>Two critics, Peter Williams and Philip Hope-Wallace, were of an age to have seen Balanchine\u2019s original staging in the 1930s with Lotte Lenya and Tilly Losch. To Hope-Wallace, writing for <em>The Guardian</em>, MacMillan\u2019s reworking suffered in the comparison and lacked the hard bitter edge of the original. \u201CIt was not the period piece I believe it should be; the sense of evil was evoked without strong climax\u201D.</p><p><strong>Click <a target=\"_blank\" href=\"http://collections.vam.ac.uk/item/O1111019/costume-design-spurling-ian/\">here</a>&nbsp; and <a target=\"_blank\" href=\"http://collections.vam.ac.uk/item/O1222530/costume-design-spurling-ian/\">here</a> to view the V&amp;A archive collection of Ian Spurling's design for Seven Deadly Sins.</strong></p><p>But Peter Williams of <em>Dance and Dancers</em>&nbsp;thought that <em>Seven Deadly Sins</em>presented intrinsic difficulties which were unsolved by Balanchine in 1933 and which might be equally intractable for anyone else. Specifically he thought that MacMillan\u2019s problem was one of scale;&nbsp;<em>Seven Deadly Sins</em>was wrong for Covent Garden and might instead have been admirably suited to the Royal Ballet\u2019s New Group. Nonetheless Williams conceded that choreographically it had \u201Clittle gems which combined with the visual excitements of Spurling\u2019s designing contribute to something that seemed a nice blast of decadent draught, blowing through the usual establishment Opera House offerings.\u201D</p><ul><li><p>First performance:&nbsp;Covent Garden, London, 19 July 1973</p></li><li><p>Company:&nbsp;The Royal Ballet</p></li><li><p>Cast:&nbsp;Jennifer Penney, Georgia Brown</p></li><li><p>Music:&nbsp;Kurt Weill, The Seven Deadly Sins</p></li><li><p>Lyrics:&nbsp;Berthold Brecht</p></li><li><p>Design:&nbsp;Ian Spurling</p></li><li><p>Benesh notation score:&nbsp;Monica Parker (1973). Working score</p></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/seven-deadly-sins",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787d9925016e19f4cf33b4e",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "video" : {
+        "playbackSpeed" : 1,
+        "zoom" : 0
+      },
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Manon",
+      "navigationTitle" : "Manon",
+      "urlId" : "new-page-97",
+      "itemCount" : 0,
+      "updatedOn" : 1512819892382,
+      "description" : "<p>1974</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512819892377\" id=\"page-5787d9925016e19f4cf33b4e\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_43_1512811300430_8528\" id=\"block-yui_3_17_2_43_1512811300430_8528\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_9_1481130267382_31969\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Manon</em>&nbsp;was MacMillan\u2019s second three-act ballet as artistic director of the Royal Ballet. Anastasia, three years before, had met with such trenchant criticism that MacMillan opted for a more familiar operatic story and structure. He based his scenario on the 1731 novel by the Abb\u00E9 Pr\u00E9vost,&nbsp;<em>L\u2019Histoire du Chevalier des Grieux et de Manon Lescaut</em>. The story had been used for operas by Massenet and Puccini, and adapted for films MacMillan had enjoyed.</p><p>\u00A0</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-video video-block\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/5c5f6941-0423-4c1f-9eb5-c28cec869a88_584/website.components.video.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/5c5f6941-0423-4c1f-9eb5-c28cec869a88_584/4032.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/5c5f6941-0423-4c1f-9eb5-c28cec869a88_584/website.components.video.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.video\" data-sqsp-block=\"video\" data-website-component-id=\"yui_3_17_2_9_1481130267382_32618\" id=\"block-yui_3_17_2_9_1481130267382_32618\"><div class=\"sqs-block-content\">\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <div class=\"intrinsic\" style=\"max-width:100%\">\n    \n      \n    \n    <div\n      class=\"embed-block-wrapper\"\n      style=\"padding-bottom:56.20608899297424%;\"\n    >\n      <div\n        class=\"sqs-video-wrapper\"\n        data-provider-name=\"YouTube\"\n        data-html=\"&lt;iframe src=&quot;//www.youtube.com/embed/XC3ZNU3bAUg?wmode=opaque&amp;amp;enablejsapi=1&quot; height=&quot;480&quot; width=&quot;854&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;\n&lt;/iframe&gt;\"\n        data-localized=\"{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}\"\n      >\n        \n      </div>\n    </div>\n    \n    \n\n\n\n  </div>\n\n\n<style class=\"transform-overrides-vars\">\n  \n</style>\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_9_1481130267382_37178\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>clip courtesy of The Royal Opera House.</p><p><span style=\"font-size:10px\">&nbsp;&nbsp;</span>He was advised to steer clear of Puccini\u2019s score for <em>Manon Lescaut</em>&nbsp;(already in the Royal Opera repertoire) and go for lesser-known music by Massenet. Leighton Lucas, a former dancer with the Ballets Russes who had become a conductor for ballet and a composer of film scores, was asked to compile and orchestrate a selection of Massenet\u2019s music. Extracts come from overtures, opera ballets and incidental music for plays as well as from once obscure operas and oratorios. Hilda Gaunt, the company pianist, assisted MacMillan when he began to choreograph by suggesting, and playing, suitable music for the various pas de deux \u2013 always his starting point.</p><p>He had chosen Antoinette Sibley as <em>Manon</em>&nbsp;and Anthony Dowell as Des Grieux, giving them both a copy of Pr\u00E9vost\u2019s novel to read in preparation for their roles. He had completed three of their key pas de deux when Sibley was injured, out of action for several months. MacMillan finished the ballet with Jennifer Penney as <em>Manon</em>. Sibley had recovered in time for the first night. Penney danced the role in the 1982 Royal Ballet video, with Dowell as Des Grieux and David Wall as Lescaut.</p><p>MacMillan was quoted as saying that he found his clue to <em>Manon</em>\u2019s behaviour in her background of poverty: \u2018<em>Manon</em>&nbsp;is not so much afraid of being poor as ashamed of being poor. Poverty in that period was the equivalent of long, slow death\u2019. Nicholas Georgiadis\u2019s designs reflect the precarious division between opulence and degradation in pre-Revolutionary France. (The ballet is set later in the 18th century than Pr\u00E9vost\u2019s novel.) Tiers of rags drape the background in the first two acts, half-hidden behind the architectural sets. Demi-monde characters flaunt their finery while beggars, thieves and prostitutes ply their trades.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-embed embed-block sqs-col-6 span-6 float float-left\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.embed\" data-sqsp-block=\"embed\" data-website-component-id=\"yui_3_17_2_8_1510085389115_13654\" id=\"block-yui_3_17_2_8_1510085389115_13654\"><div class=\"sqs-block-content\">\n  \n\n<div\n  class=\"sqs-embed-container\"\n  data-localized=\"{&quot;embedInvalid&quot;:&quot;Enter a valid embed URL or code.&quot;,&quot;embedTitle&quot;:&quot;Embed Block&quot;,&quot;embedUninitialized&quot;:&quot;Add an embed URL or code.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;invalidThumbnail&quot;:&quot;Custom featured images only available with embedded videos. Go back into embed settings to turn off featured images.&quot;,&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\"\n  \n  \n>\n  \n  \n    \n    \n      \n        \n        \n        \n        \n          <iframe src=\"https://player.vimeo.com/video/241743638\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\n        \n        \n        \n      \n    \n  \n  \n    \n\n\n\n  \n</div>\n\n\n  <style class=\"transform-overrides-vars\">\n  \n</style>\n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_8_1510085389115_15017\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Georgiadis researched the period in depth, drawing on images from paintings and etchings for his costumes and settings: the sinister ratcatcher and the girl dressed as a pretty boy, for example, come from18th century pictures. Later designers for other companies\u2019 productions have been less specific about the ballet\u2019s social context.</p><p>In Act I,&nbsp;<em>Manon</em>&nbsp;is on her way to enter a convent when her stage-coach stops at an inn. Her brother, Lescaut, is there on an outing with a louche group of acquaintances from Paris. He prepares to sell his teenage sister to the highest bidder, Monsieur G.M, but she runs off with a young student, Des Grieux, who has charmed her with his ardour.</p><p>Their idyllic affair in Des Grieux\u2019s lodging is running out of money when Lescaut arrives with Monsieur G.M in tow. G.M. offers <em>Manon</em>&nbsp;luxuries she cannot resist. She abandons Des Grieux to become a kept woman.</p><p>At the start of Act II, she makes an entrance on the arm of G.M at a party in Madame X\u2019s <em>hotel particulier</em>, where every woman is for sale. Des Grieux is reluctantly present, brought by drunken Lescaut. Although <em>Manon</em>&nbsp;delights in being the centre of attention, she is torn between her desire for material rewards and her first love for Des Grieux. She conspires in a scheme for Des Grieux to fleece G.M in a game of cards, but his inept cheating is soon exposed. The lovers make their escape during the brawl that follows.</p><p>They are discovered in Des Grieux\u2019s lodgings by Monsieur G.M and the militia, who have arrested Lescaut. Lescaut is shot and killed and <em>Manon</em>&nbsp;is detained, to be deported as a prostitute.</p><p>Act III opens with a dockside scene in the port of New Orleans. The latest batch of bedraggled deportees arrives, with <em>Manon</em>&nbsp;among them. Des Grieux has accompanied her to the penal colony to share her exile. The gaoler of the colony forces himself on <em>Manon</em>; Des Grieux breaks in and stabs him to death.</p><p>In the final scene, the lovers have fled into the swamps of Louisiana.&nbsp;<em>Manon</em>, delirious, hallucinates episodes from her past before collapsing and dying in the arms of Des Grieux.</p><p>Although <em>Manon</em>&nbsp;was well-received by the public, critics had reservations about the ballet\u2019s structure and the characters\u2019 motives. Some were taken aback by the amoral nature of the heroine, more unusual in a ballet than in an opera. \u2018Basically,&nbsp;<em>Manon</em>&nbsp;is a slut and Des Grieux is a fool and they move in the most unsavoury company . . . the most effective character, in fact, becomes Lescaut himself\u2019, wrote Mary Clarke in <em>The Guardian</em>. \u2018An appalling waste of lovely Antoinette Sibley, who is reduced to a nasty little diamond digger\u2019, opined Jane King in the <em>Morning Star</em>. While most critics appreciated the quality of the choreography, especially for the three main roles, they found the ballet too long. (Cuts were made after the first season at the start of the third act, speeding up the action.) In an extensive review in <em>The Financial Times</em>, Andrew Porter, who disliked the Massenet score, praised the distinction of the choreography, dancing and designs, predicting that <em>Manon</em>&nbsp;would \u2018certainly reward repeated observation and generations of performers\u2019.</p><p>It has.&nbsp;<em>Manon</em>&nbsp;herself has altered as different dancers have taken on the role. Antoinette Sibley saw her as a girl \u2018who allowed it all to happen to her . . .I don\u2019t think she\u2019s a schemer - she only makes decisions when she has to\u2019. Lynn Seymour made her more ruthless: she and her brother are \u2018cut from the same cloth, both bandits, using all they have to achieve what they want . . . she broke the rules and the punishment crushed her\u2019. Natalia Makarova understood her as an instinctive creature who lives for the moment, \u2018extracting from it all the excitement she can. At the same time she fully knows that the day will come when she must pay the price\u2026. for the pleasure of living fully\u2019. Sylvie Guillem\u2019s guileful <em>Manon</em>&nbsp;used her sexual allure to survive in a male-dominated world. Des Grieux\u2019s misfortune was to have strayed into her path just as she was discovering her power. Where other <em>Manon</em>s die as desperate victims, limp as rags, Guillem fought on, defying death itself.</p><p>The three leading roles continue to attract new interpreters as the ballet is performed by companies around the world. Male dancers often alternate the roles of Des Grieux and Lescaut, as Dowell and Wall used to do. When the Paris Opera Ballet took <em>Manon</em>&nbsp;into its repertoire in 1991, a legal wrangle resulted in MacMillan\u2019s ballet being re-titled <em>L\u2019Histoire de Manon</em>. The heir to Massenet\u2019s estate had objected to possible confusion between the opera and the ballet. Henceforth, the ballet has been known in Europe (with the exception of the United Kingdom) as <em>L\u2019Histoire de Manon</em>&nbsp;and in the rest of the world simply as <em>Manon</em>.</p><p>\u00A0</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/new-page-97",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787d9b1b8a79b31d12193c0",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Untitled Pas de Deux",
+      "navigationTitle" : "Untitled Pas de Deux",
+      "urlId" : "untitled-pas-de-deux",
+      "itemCount" : 0,
+      "updatedOn" : 1512939768134,
+      "description" : "<p>1974</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512939768125\" id=\"page-5787d9b1b8a79b31d12193c0\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_43_1512811300430_13247\" id=\"block-yui_3_17_2_43_1512811300430_13247\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_9_1481130267382_39546\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>In July 1974 Lord Drogheda relinquished the chairmanship of the Royal Opera House which he had held for 17 years. The farewell gala held in his honour was produced by Frederick Ashton. Kenneth MacMillan\u2019s contribution was a pas de deux to Stravinsky\u2019s Symphony in Three Movements. John Percival of The Times wrote: \u201CIt used Donald MacLeary\u2019s admirable strength and skill as a partner to display the lithe line of Natalia Makarova, slipping through his arms or between his legs, sometimes held diagonally across his chest with her angular arms characteristically outstretched.\u201D</p><ul><li><p>First performance:&nbsp;Covent Garden, 17 July 1974</p></li><li><p>Company:&nbsp;The Royal Ballet</p></li><li><p>Cast:&nbsp;Donald MacLeary, Natalia Makarova</p></li><li><p>Music:&nbsp;Igor Stravinsky, Symphony in Three Movements</p></li></ul><p>\u00A0</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/untitled-pas-de-deux",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787d9c5e3df288bfffc29be",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Elite Syncopations",
+      "navigationTitle" : "Elite Syncopations",
+      "urlId" : "elite-syncopations",
+      "itemCount" : 0,
+      "updatedOn" : 1512982534628,
+      "description" : "<p>1974</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512982534621\" id=\"page-5787d9c5e3df288bfffc29be\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_45_1512811300430_7681\" id=\"block-yui_3_17_2_45_1512811300430_7681\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_9_1481130267382_41696\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Elite Syncopations</em>&nbsp;had its premiered just seven months after <a href=\"/new-page-97\">Manon</a>&nbsp;\u2013 and is MacMillan at his most playful. He had been planning a ragtime ballet even before George Roy Hill\u2019s use of Scott Joplin\u2019s \u201CThe Entertainer\u201D as the title-track for his film <em>The Sting</em>&nbsp;revived popular interest in Joplin\u2019s music. Two other ballets of the period were also choreographed to Joplin rags. These were Barry Moreland\u2019s <em>Prodigal Son</em>&nbsp;for London Festival Ballet and Alfonso Cat\u00E1\u2019s and Kent Stowell\u2019s <em>Ragtime</em>&nbsp;for Frankfurt Ballet.</p><p>The curtain opens as <em>Elite Syncopation\u2019s</em>&nbsp;cast dance wildly on a virtually bare stage. On a rostrum at the back is a band of twelve players led by a pianist (at the premiere Philip Gammon, with members of the Covent Garden orchestra). The setting might be a competition in a louche dancehall in the Mississipi Delta at the turn of the last century, where the ballet\u2019s characters flirt, dance and vie with each other for the limelight. There is no real plot; just a succession of rags, cakewalks and slow drags which demand virtuosity and comic flair.</p><p>The designer was Ian Spurling, with whom MacMillan has already collaborated on <a href=\"/seven-deadly-sins\">Seven Deadly Sins</a>. The costumes are dazzlingly garish, a riot of gaudy and inventive colour. For the dancers there are sassy lycra unitards, variously patterned with arrows, stars and stripes, buttons and bows. The band\u2019s costumes are toned-down versions of the 1900 fashions so extravagantly exaggerated on the dancers\u2019 bodies. In both scenery and costume Spurling\u2019s designs underscored the informal - and almost improvisatory - quality of the ballet and contributed greatly to its enduring success.</p><p>Like Danses Concertantes, MacMillan\u2019s first work for the Sadler\u2019s Wells Theatre Ballet,&nbsp;<em>Elite Syncopations</em>&nbsp;is a \u2018dance concert\u2019 whose individual sections are watched by other dancers not performing at the time. In the triple bill at which it was premiered,&nbsp;<em>Elite Syncopations</em>&nbsp;contrasted with the seriousness of Frederick Ashton\u2019s <em>Sc\u00E9nes de ballet</em>&nbsp;and MacMillan\u2019s own <em>Song of the Earth</em>.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-embed embed-block sqs-col-6 span-6 float float-left\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.embed\" data-sqsp-block=\"embed\" data-website-component-id=\"yui_3_17_2_8_1510085389115_7828\" id=\"block-yui_3_17_2_8_1510085389115_7828\"><div class=\"sqs-block-content\">\n  \n\n<div\n  class=\"sqs-embed-container\"\n  data-localized=\"{&quot;embedInvalid&quot;:&quot;Enter a valid embed URL or code.&quot;,&quot;embedTitle&quot;:&quot;Embed Block&quot;,&quot;embedUninitialized&quot;:&quot;Add an embed URL or code.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;invalidThumbnail&quot;:&quot;Custom featured images only available with embedded videos. Go back into embed settings to turn off featured images.&quot;,&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\"\n  \n  \n>\n  \n  \n    \n    \n      \n        \n        \n        \n          \n          <div class=\"intrinsic\" style=\"max-width:100%\">\n            <div class=\"embed-block-wrapper embed-block-provider-Vimeo\" style=\"padding-bottom:56.25%;\">\n        \n        \n          <iframe src=\"https://player.vimeo.com/video/241742646?wmode=opaque\" title=\"Elite Syncopations\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\" width=\"640\" height=\"360\" frameborder=\"0\"></iframe>\n        \n        \n            </div>\n          </div>\n        \n        \n      \n    \n  \n  \n    \n\n\n\n  \n</div>\n\n\n  <style class=\"transform-overrides-vars\">\n  \n</style>\n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_8_1510085389115_7894\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Elite Syncopations</em>&nbsp;was a hit with audiences in London, as it would be later in Canada and the United States. For Covent Garden regulars it was a chance to see favourite dancers letting their hair down: in the first night cast, Monica Mason\u2019s witty and showgirlish Calliope Rag; the <em>Alaskan Rag</em>for the tall elegant Vergie Derman and the diminutive Wayne Sleep; for Michael Coleman a spectacular solo, shot through with rhythmic wit; and the engaging Bethena rag-waltz for Merle Park and Donald MacLeary.</p><p>According to Noel Goodwin, writing for Dance and Dancers, MacMillan had choreographed several more rags than he eventually used in the ballet. Even on a second viewing Goodwin wrote,&nbsp;<em>Elite Syncopations</em>&nbsp;was \u2018cheerfully diverting\u2019. He continued: \u201CMuch of my enjoyment came from watching some of the Royal Ballet\u2019s best and most distinctive principals displaying new facets of their artistry in the choreography MacMillan devised for them.\u201D</p><p>When in 1976 the Royal Ballet brought <em>Elite Syncopations</em>&nbsp;to the United States, Anna Kisselgoff,&nbsp;<em>The New York Times\u2019</em>dance critic, was unstinting. \u201CThe ballet is fun\u201D, she enthused. \u201CHere is Mr MacMillan in full verve. That\u2019s entertainment.\u201D</p><ul><li><p>First performance:&nbsp;Covent Garden, London, 7 October 1974</p></li><li><p>Company:&nbsp;The Royal Ballet</p></li><li><p>Cast:&nbsp;Merle Park, Donald Macleary, Monica Mason, Michael Coleman, Jennifer Penney, David Wall, Vergie Derman, Wayne Sleep, Wayne Eagling, Jennifer Jackson, Judith How, David Drew, David Adams</p></li><li><p>Music:&nbsp;Scott Joplin, Scott Hayden, Paul Pratt, Joseph F. Lamb, Max Morath, Donald Ashwander, Robert Hampton</p></li><li><p>Design:&nbsp;Ian Spurling</p></li><li><p>Benesh notation score:&nbsp;Monica Parker (1974) Preliminary Master Score</p></li><li><p>Television:&nbsp;BBC, 21 September 1975</p></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/elite-syncopations",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787d9db725e2502e4e37887",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "The Four Seasons",
+      "navigationTitle" : "The Four Seasons",
+      "urlId" : "the-four-seasons",
+      "itemCount" : 0,
+      "updatedOn" : 1512936876660,
+      "description" : "<p>1975</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512936876657\" id=\"page-5787d9db725e2502e4e37887\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_48_1512811300430_7505\" id=\"block-yui_3_17_2_48_1512811300430_7505\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-5787d9db725e2502e4e37888\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>Kenneth MacMillan devised <em>The Four Seasons</em>&nbsp;as a showcase for the Royal Ballet\u2019s strength in depth from corps to soloists and principals; just two months previously the corps had received the Evening Standard ballet award for outstanding contribution to dance in 1974.</p><p>MacMillan, advised by the critic Andrew Porter, chose music from three Verdi operas, principally the <em>Sicilian Vespers</em>ballet divertissement and similarly balletic sections from<em>&nbsp;I Lombardi</em>&nbsp;and <em>Don Carlos</em>. Along with MacMillan\u2019s recent choice of composer in Manon, Massenet, his resort to Verdi seemed to mark MacMillan\u2019s turn to an older musical tradition (a contrast to the Stravinsky, Prokofiev and Shostakovich of some of his earlier ballets).</p><p>The ballet opened with series of ensemble dances; intricate footwork on pointe for women with soaring beating jumps for the men, danced according to Mary Clarke in <em>Dancing Times</em>, \u201Cso impeccably that it would be cruel to the dancers (although perhaps kinder to their feet?) to cut it short.\u201D Then came a series of classical variations, the <em>Winter</em>&nbsp;pas de trois for Donald MacLeary, Marguerite Porter and Vergie Derman;&nbsp;<em>Spring</em>&nbsp;pas de quatre for Lesley Collier, Michael Coleman, David Ashmole and Wayne Eagling); a languorous <em>Summer</em>pas de deux for Monica Mason and David Wall; finally, three gypsies, Anthony Dowell, Jennifer Penney and Wayne Sleep in <em>Autumn</em>.</p><p>Mary Clarke was full of praise for MacMillan\u2019s \u201Cimagination and invention\u201D. Peter Williams of <em>Dance and Dancers</em>thought it \u201Cgood to see so many dancers so well used and displayed. With much pruning and by possibly using just a plain cyclorama,&nbsp;<em>The Four Seasons</em>&nbsp;could become the kind of \u2018defil\u00E9\u2019 ballet that the repertory has long needed.</p><p>The original design for <em>The Four Seasons</em>&nbsp;(1975) by Peter Rice seemed vaguely north Italian meets Bavaria and were too overpowering and specific. The dance moved more freely in the more unlocalised designs of Deborah Williams when the ballet was redesigned in 1980.</p><ul><li><p>First performance:&nbsp;Covent Garden, London, 5 March 1975</p></li><li><p>Company:&nbsp;The Royal Ballet</p></li><li><p>Cast:&nbsp;Vergie Derman, Marguerite Porter, Donald MacLeary, Lesley Collier, Michael Coleman, David Ashmole, Wayne Eagling, Monica Mason, David Wall, Anthony Dowell, Jennifer Penney, Wayne Sleep</p></li><li><p>Music:&nbsp;Verdi</p></li><li><p>Design:&nbsp;Peter Rice (costumes redesigned by Deborah Williams, 1980)</p></li><li><p>Benesh notation score:&nbsp;Diana Curry (1980). Master score.</p></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/the-four-seasons",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787da0b197aea9fd0b543c4",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Rituals",
+      "navigationTitle" : "Rituals",
+      "urlId" : "rituals",
+      "itemCount" : 0,
+      "updatedOn" : 1512820248283,
+      "description" : "<p>1975</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512820248278\" id=\"page-5787da0b197aea9fd0b543c4\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_49_1512811300430_7931\" id=\"block-yui_3_17_2_49_1512811300430_7931\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_9_1481130267382_50675\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Rituals</em>&nbsp;was one of three new productions for The Royal Ballet at Covent Garden in the 1975-\u20196 season. The company had recently returned from a visit to Tokyo, an experience which prompted MacMillan\u2019s choice of subject. The East then seemed much on the company\u2019s mind; Sadler\u2019s Wells Royal Ballet had recently danced Jack Carter\u2019s Shukumei, while MacMillan\u2019s own <em>Prince of the Pagodas</em>&nbsp;was already in gestation (even if it would take a generation finally to reach the stage).</p><p><em>Rituals</em>, based on the traditional forms of kabuki and bunraku puppet theatre, is in three movements. The first,&nbsp;<em>Preparation for combat and self-defence</em>, is a male initiation rite supervised by a Grand Master. In a formal bout of combat two princes fight with each other until one triumphs. This is a novel and highly charged exploration of the possibilities of male pas de deux, which also guys exaggerated masculinity.</p><p>At first impression, the second movement,&nbsp;<em>Puppets</em>, appears to be a ritualised wedding ceremony. Processions of bride and groom approach each other. But when they disrobe, they reveal themselves as jointed puppets; each apparently manipulated by a team of puppetmasters. The puppet bride and groom, as they now manifest themselves, go through a stylised courtship and wedding. But after they are re-robed in wedding dress, they collapse. For Peter Williams of <em>Dance and Dancers</em>&nbsp;\u201Cthe form of this section is fascinating and has the sinister implications associated with all puppets, as to who controls whom.\u201D</p><p>A final section,&nbsp;<em>Celebration and Prayer</em>, is a stylised childbirth scene. A stern midwife oversees a mother\u2019s pre-natal exercises watched by a cast of variously agitated ritual \u2018celebrants\u2019. She then appears to give birth. To John Percival, writing in <em>The Times</em>, parts of this scene suggested a Shinto equivalent of the western ceremony of churching a woman after she had had a child.</p><p>MacMillan\u2019s choice of score was a compromise. He could not find an authentic Japanese accompaniment. According to Edward Thorpe\u2019s earlier biography of MacMillan, it was Anthony Twiner, then conductor/accompanist with the Royal Ballet, who suggested the Bartok sonata with its intriguing sonorities and fierce rhythmic drive.</p><p>Yolanda Sonnabend's delicate parchment screens, suspended over the set and marked with bold black bush-strokes, frame the dance. The performers wear mask-like kabuki make-up; the effect is to conceal their faces, while formal robes partly disguise the bodies beneath. Several critics commented on a tension between the close authenticity of Sonnabend\u2019s designs and the European-ness of score and choreography. But although some critics questioned the ballet\u2019s over-all coherence, others recognised that <em>Rituals</em>&nbsp;was shot through with originality, with Peter Williams suggesting that its choreography was MacMillan\u2019s most inventive since <em>Song of the Earth</em>.</p><ul><li><p>First performance:&nbsp;Covent Garden, London, 11 December 1975</p></li><li><p>Company:&nbsp;The Royal Ballet, Covent Garden, London</p></li><li><p>Cast:&nbsp;David Drew, Wayne Eagling, Stephen Beagley, Vergie Derman, David Wall, Lynn Seymour, Monica Mason, Graham Fletcher</p></li><li><p>Music:&nbsp;Bela Bartok, Sonata for Two Pianos and Percussion</p></li><li><p>Design:&nbsp;Yolanda Sonnabend</p></li><li><p>Benesh notation score:&nbsp;Jacqui Hollander (1976), Preliminary Master Score</p></li></ul><p>\u00A0</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/rituals",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "584848ed8419c274e41a584c",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Requiem",
+      "navigationTitle" : "Requiem",
+      "urlId" : "requiem-1",
+      "itemCount" : 0,
+      "updatedOn" : 1512939039303,
+      "description" : "<p>1976</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512939039299\" id=\"page-584848ed8419c274e41a584c\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_49_1512811300430_13233\" id=\"block-yui_3_17_2_49_1512811300430_13233\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_10_1481130267382_31967\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Requiem</em>&nbsp;was MacMillan\u2019s tribute to his friend John Cranko, who had died unexpectedly three years earlier. They had known each other since 1946, when both were students at the Sadler\u2019s Wells Ballet School and soon to become members of the touring company. South African-born Cranko knew from early on that he was to become a choreographer; MacMillan took longer to discover his vocation.</p><p>Cranko had gone on to become artistic director of the Stuttgart Ballet from 1961 until his death in 1973. He gave MacMillan ready access to the Stuttgart company until their friendship soured in 1970. When MacMillan was ready to create a requiem ballet, the music he chose was vetoed by the Royal Opera House board of governors. Certain board members declared that setting a ballet to Faur\u00E9\u2019s sacred music would offend religious sensibilities. MacMillan turned instead to Marcia Hayd\u00E9e, by then artistic director of the Stuttgart Ballet, asking if she would welcome the Faur\u00E9&nbsp;<em>Requiem</em>&nbsp;as a memorial to Cranko. She accepted without hesitation, confident that the Stuttgart opera company would provide the singers the choral work required.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-embed embed-block sqs-col-6 span-6 float float-left\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/461a1024-7fd2-462f-8744-66047849c99f_584/website.components.embed.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.embed\" data-sqsp-block=\"embed\" data-website-component-id=\"yui_3_17_2_15_1502215998172_10133\" id=\"block-yui_3_17_2_15_1502215998172_10133\"><div class=\"sqs-block-content\">\n  \n\n<div\n  class=\"sqs-embed-container\"\n  data-localized=\"{&quot;embedInvalid&quot;:&quot;Enter a valid embed URL or code.&quot;,&quot;embedTitle&quot;:&quot;Embed Block&quot;,&quot;embedUninitialized&quot;:&quot;Add an embed URL or code.&quot;,&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;invalidThumbnail&quot;:&quot;Custom featured images only available with embedded videos. Go back into embed settings to turn off featured images.&quot;,&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\"\n  \n  \n>\n  \n  \n    \n    \n      \n        \n        \n        \n          \n          <div class=\"intrinsic\" style=\"max-width:100%\">\n            <div class=\"embed-block-wrapper embed-block-provider-YouTube\" style=\"padding-bottom:75%;\">\n        \n        \n          <iframe src=\"//www.youtube.com/embed/M1MAsz7Hr6g?wmode=opaque&amp;enablejsapi=1\" height=\"480\" width=\"640\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"\">\n</iframe>\n        \n        \n            </div>\n          </div>\n        \n        \n      \n    \n  \n  \n    \n\n\n\n  \n</div>\n\n\n  <style class=\"transform-overrides-vars\">\n  \n</style>\n\n\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_15_1502215998172_10198\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>The ballet was a portrait of the Stuttgart ballet company as a community coming to terms with the loss of a much-loved leader. Hayd\u00E9e, still dancing as well as directing, was the central figure embodying their grief before consoling them. Although the choreography was created on specific dancers, who were Cranko\u2019s favourites as well as MacMillan\u2019s, the roles are generic: the performers are sometimes human mourners, sometimes angels or spirits. MacMillan based many of the choreographic images on William Blake\u2019s symbolic drawings and paintings, though he did not show the dancers the illustrations he had in mind.</p><p>A huddled mass of mourners enter to the <em>Introitus</em>, hammering their fists in anger, their mouths open in silent howls of grief. They raise the Hayd\u00E9e figure aloft as if she were an offering; she rolls on a sea of hands, a soul on a journey to becoming a blessed spirit. She dances a pas de deux in the <em>Offertorium</em>&nbsp;and the <em>Sanctus</em>with two different men, who have their own anguished solos. Her solo to the Pie Jesu, a prayer for eternal peace, is a marvel of simplicity. She touches the ground \u2013 the Earth \u2013 as though exploring the light falling upon it. She returns at the end of the <em>Agnus Dei</em>to comfort a grieving young woman, suspended above her by a group of men like an angel of mercy bestowing a blessing.</p><p>In the final section,&nbsp;<em>In Paradisum</em>, the company gathers around a pool of light as if witnessing the departure of a soul to heaven. Women are flown in from the wings, lifted by men with upstretched arms. At the end, all depart in a procession, backs to the audience, leaving the stage bathed in white light.</p><p>Yolanda Sonnabend\u2019s set consists of tall fibreglass panels lit to appear translucent, with a white backcloth and floor. Costumes are lycra body-tights, the torsos painted with striations resembling veins and muscles. Sonnabend based them on Vesalius\u2019s anatomical studies and Blake\u2019s illustrations of bodies in extremis. One of the male soloists wears only a loin-cloth, making him resemble a biblical figure. The central woman is distinguished from the others by a semi-transparent chiffon shift. MacMillan told Sonnabend that he was aiming for a similar spareness to the designs for <em>The Song of the Earth</em>, the work <em>Requiem</em>&nbsp;most closely resembles.</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-audio audio-block\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.audio/6ab7eeb1-6b97-436c-8d6f-7aa6640710ff_495/website.components.audio.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.audio/6ab7eeb1-6b97-436c-8d6f-7aa6640710ff_495/website.components.audio.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.audio\" data-sqsp-block=\"audio\" data-website-component-id=\"yui_3_17_2_10_1481130267382_34597\" id=\"block-yui_3_17_2_10_1481130267382_34597\"><div class=\"sqs-block-content\">\n  \n\n<div class=\"sqs-audio-embed\"\n  data-design-style=\"minimal\"\n  data-show-download=\"false\"\n  data-file-location=\"\"\n  data-url=\"\"\n  data-asset-url=\"https://static1.squarespace.com/static/56c185f6746fb9a875e10bc8/t/5a2d9aa5f9619a5b7c8536a9/1512938235604/BirgitKeilVladimirKlos.mp3\"\n  data-title=\"Brendan McCarthy talks to Birgit Keil and Vladimir Klos about working with MacMillan\"\n  data-author=\"McCarthy\"\n  data-length-in-milli-seconds=\"1081000\"\n  data-no-file=\"No File\"\n  data-untitled=\"Untitled\">\n  \n  <!-- Minimal Mode Player Structure -->\n  <div class=\"sqs-widget sqs-widgets-audio-player light\">\n    <div class=\"sqs-widgets-audio-player-content\">\n      <div class=\"player\">\n        <div class=\"action\" tabindex=\"0\">\n          <div class=\"play\">\n            <div class=\"play-button\"></div>\n          </div>\n          <div class=\"pause\">\n            <div class=\"pause-button\"></div>\n          </div>\n        </div>\n        <div class=\"track\">\n          <span class=\"played\"><span class=\"icon\"></span></span>\n        </div>\n        <div class=\"labels\">\n          <div class=\"title-wrapper\">\n            <div class=\"title\">Brendan McCarthy talks to Birgit Keil and Vladimir Klos about working with MacMillan</div>\n          </div>\n          <div class=\"artistName\">McCarthy</div>\n        </div>\n        <div class=\"secondary-controls\">\n          <div class=\"time\">\n            <span class=\"progress\"></span>\n            <span class=\"total\"></span>\n          </div>\n          \n        </div>\n      </div>\n    </div>\n  </div>\n  \n  \n\n\n\n</div>\n\n<style class=\"transform-overrides-vars\">\n  \n</style>\n</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_10_1481130267382_34662\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p><em>Requiem</em>&nbsp;was well-received in Stuttgart and in Washington, D.C, when the Stuttgart Ballet took it on tour to the United States six months later. Clive Barnes in <em>The New York Times</em>and John Percival in <em>The Times</em>, both known to be harsh critics of MacMillan\u2019s work on occasion, praised the ballet and reproached the Royal Ballet for missing an important work by its own choreographer. MacMillan had given the Stuttgart Ballet exclusive rights to <em>Requiem</em>&nbsp;for six years. The Royal Ballet took it into the repertoire in 1983, where it joined <em>Voluntaries</em>, Glen Tetley\u2019s 1973 tribute to John Cranko.</p><ul><li><p>First performance:&nbsp;W\u00FCrttembergische Staatstheater, Stuttgart, 28 November 1976</p></li><li><p>Company:&nbsp;Stuttgart Ballet</p></li><li><p>Cast:&nbsp;Marcia Hayd\u00E9e, Birgit Keil, Richard Cragun Egon Madsen, Reid Anderson</p></li><li><p>Music:&nbsp;Gabriel Faur\u00E9, Requiem</p></li><li><p>Design:&nbsp;Yolanda Sonnabend</p></li><li><p>Benesh notation score:&nbsp;Jane Bourne, Georgette Tsinguirides (1976). Working score</p></li></ul><p>\u00A0</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/requiem-1",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787da12725e2502e4e37aa9",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Feux Follets",
+      "navigationTitle" : "Feux Follets",
+      "urlId" : "feux-follets",
+      "itemCount" : 0,
+      "updatedOn" : 1512826101989,
+      "description" : "<p>1976</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512826101985\" id=\"page-5787da12725e2502e4e37aa9\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_51_1512811300430_7862\" id=\"block-yui_3_17_2_51_1512811300430_7862\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-yui_3_17_2_11_1481130267382_30798\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>\u201CI am a skater\u201D, John Curry told <em>Time</em>&nbsp;magazine in December 1978. \u201CI believe that the word \u2018skater\u2019 has the same value as the word \u2018dancer\u2019\u201D. \u201CIn fact\u201D,&nbsp;<em>Time</em>&nbsp;explained, \u201CCurry is both an ice skater who dances and a ballet dancer who ice skates.\u201D Indeed, Curry, who in 1976 won the Olympic Gold medal for figure skating, would, if parental opposition had not prevented him, have rather been a ballet dancer. After his Olympic success, he channelled his ambitions into extending the grammar of skating and to creating a style far removed from the conventions of competition and of commercial ice shows. He had distinct affinity for purity of classical line and the virtuosity of his technique was altogether exceptional among skaters of the day.</p><p>\u201COne of the happiest experiences I ever had\u201D, Curry told the UPI press agency, \u201Cwas when I met Sir Kenneth and he said to me, 'I want to do a ballet for you. Will you let me?' Well, you can imagine what my answer was!'' So it was that MacMillan choreographed a piece for Curry\u2019s Theatre of Skating, as too did Twyla Tharp. Peter Martins and Norman Maen.</p><p>The stage of London\u2019s Cambridge Theatre was enlarged and a specially designed ice-rink laid. According to John Percival in The <em>Time</em>s, MacMillan\u2019s <em>Feux Follets</em>&nbsp;(\u2018Will-o\u2019-the-wisps\u2019) revealed \u201Cthe seamless flow which is a speciality of the Curry style. Capricious changes of direction and multitudinous spins match the will-o\u2019-the-wisp connotations of Liszt\u2019s piano solo. In her review, Anna Kisselgoff of The New York <em>Time</em>s singled out MacMillan\u2019s as one of the works which best came to terms with the medium of ice. \u201CMr MacMillan\u2019s <em>Feux Follets</em>\u201D she wrote, \u201Clooked as if it could only be performed on ice \u2013 a series of whirlwind turns with Mr Curry shooting out like the firefly of the title.\u201D Arlene Croce of <em>The New Yorker</em>, was impressed with \u201Ca man\u00E9ge of turns that, except for the extraordinary stamina it would take to get through it on dry land, might well have been choreographed for Anthony Dowell.\u201D And Newsweek\u2019s Hubert Saal wrote that in \u201Cin MacMillan's <em>Feux Follets</em>&nbsp;Curry comes close to equalling the dazzle of his great Olympic routine-this time with real involvement in the music.\u201D</p><p>James Kennedy in <em>The Guardian</em>, while impressed with the choreography and with Curry\u2019s own technique, were doubtful about the ultimate worth of the enterprise: \u201CMuch though Curry\u2019s own skating has benefited from the balletic influence, their line cannot after all rid itself of the encumbrance of those heavy line destroying skates. As an art form skating has something to offer, but it is all a bit like ballet in big boots.\u201D</p><ul><li><p>First performance:&nbsp;Cambridge Theatre London, 2 December 1976</p></li><li><p>Company:&nbsp;Theatre of Skating</p></li><li><p>Cast:&nbsp;John Curry</p></li><li><p>Music:&nbsp;Liszt, Transcendental Study No 5.</p></li><li><p>Design:&nbsp;Nadine Bayliss</p></li></ul><p>\u00A0</p>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/feux-follets",
+      "passwordProtected" : false,
+      "draft" : false
+    }, {
+      "id" : "5787da23725e2502e4e37b81",
+      "websiteId" : "56c185f6746fb9a875e10bc8",
+      "backgroundSource" : 1,
+      "enabled" : true,
+      "starred" : false,
+      "type" : 10,
+      "ordering" : 3,
+      "title" : "Gloriana",
+      "navigationTitle" : "Gloriana",
+      "urlId" : "gloriana",
+      "itemCount" : 0,
+      "updatedOn" : 1512826121923,
+      "description" : "<p>1977</p>",
+      "mainContent" : "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-type=\"page\" data-updated-on=\"1512826121918\" id=\"page-5787da23725e2502e4e37b81\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/7fd9496e-a333-4843-a512-848194c635d1_1162/website.components.spacer.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.spacer\" data-website-component-id=\"yui_3_17_2_52_1512811300430_7397\" id=\"block-yui_3_17_2_52_1512811300430_7397\"><div class=\"sqs-block-content\">&nbsp;</div></div><div class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" data-sqsp-block=\"text\" id=\"block-5787da23725e2502e4e37b82\"><div class=\"sqs-block-content\">\n\n<div class=\"sqs-html-content\" data-sqsp-text-block-content>\n  <p>For the gala at Covent Garden to celebrate Queen Elizabeth II\u2019s Silver Jubilee Kenneth MacMillan made a new work set to the festive dances from Benjamin Britten\u2019s opera <em>Gloriana</em>. Britten\u2019s original was commissioned to celebrate the Queen\u2019s coronation in 1953 and it harked back to Elizabeth\u2019s illustrious namesake, the Virgin Queen, hailed with cries of \u2018Gloriana\u2019 after the defeat of the Spanish Armada.</p><p>Queen Elizabeth I was an enthusiastic dancer \u2013 even \u201Cdanced La Volta high\u201D. In MacMillan\u2019s choreography she is not a spectator merely but an active participant, even to the point of being turned upside down by her courtiers in the course of a pas de quatre. \u201CThe deep arabesques and unorthodox supported turns were not entirely majestic, noted John Percival of <em>The Times</em>. \u201CNo complaints however about the choreographic invention for a group of six attendant gentlemen who began the proceedings with an exhilaratingly boisterous entry, full of jumps, hand-slappings and turns.\"</p><ul><li><p>First performance:&nbsp;Covent Garden, 30 May 1977</p></li><li><p>Company:&nbsp;The Royal Ballet</p></li><li><p>Cast:&nbsp;Lynn Seymour, Wayne Eagling, Michael Coleman, Stephen Beagley, Graham Fletcher</p></li><li><p>Music:&nbsp;Benjamin Britten, Gloriana</p></li><li><p>Design:&nbsp;Yolanda Sonnabend</p></li></ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</div></div></div></div></div>",
+      "features" : {
+        "relatedItems" : {
+          "isEnabled" : false
+        },
+        "productQuickView" : {
+          "isEnabled" : false
+        }
+      },
+      "eventView" : 1,
+      "folder" : false,
+      "dropdown" : false,
+      "homepage" : false,
+      "typeName" : "page",
+      "regionName" : "default",
+      "synchronizing" : false,
+      "categoryPagesSeoHidden" : false,
+      "tagPagesSeoHidden" : false,
+      "qrCodeEnabled" : false,
+      "pagePermissionType" : 1,
+      "typeLabel" : "page",
+      "fullUrl" : "/gloriana",
+      "passwordProtected" : false,
+      "draft" : false
+    } ],
+    "tags" : [ ],
+    "categories" : [ ],
+    "homepage" : false,
+    "typeName" : "index",
+    "regionName" : "default",
+    "synchronizing" : false,
+    "categoryPagesSeoHidden" : false,
+    "tagPagesSeoHidden" : false,
+    "qrCodeEnabled" : false,
+    "pagePermissionType" : 1,
+    "typeLabel" : "index",
+    "fullUrl" : "/the-ballets-1970-",
+    "passwordProtected" : false,
+    "draft" : false,
+    "title" : "1970 - 1977",
+    "navigationTitle" : "1970 - 1977"
+  },
+  "shoppingCart" : {
+    "websiteId" : "56c185f6746fb9a875e10bc8",
+    "created" : 1787124566296,
+    "entries" : [ ],
+    "shippingLocation" : { },
+    "taxLineItems" : [ ],
+    "coupons" : [ ],
+    "promoCodes" : [ ],
+    "appliedGiftCards" : [ ],
+    "cartType" : 1,
+    "validCoupons" : [ ],
+    "invalidCoupons" : [ ],
+    "subtotalCents" : 0,
+    "taxCents" : 0,
+    "shippingCostCents" : 0,
+    "discountCents" : 0,
+    "giftCardRedemptionTotalCents" : 0,
+    "grandTotalCents" : 0,
+    "amountDueCents" : 0,
+    "remainingBalanceCents" : 0,
+    "totalQuantity" : 0,
+    "purelyDigital" : false,
+    "hasDigital" : false,
+    "requiresShipping" : false,
+    "shippingOptions" : [ ]
+  },
+  "shareButtons" : {
+    "twitter" : true,
+    "facebook" : true,
+    "reddit" : true,
+    "tumblr" : true,
+    "google" : true,
+    "pinterest" : true,
+    "linkedin" : true
+  },
+  "showCart" : false,
+  "localizedStrings" : { },
+  "userAccountsContext" : {
+    "showSignInLink" : false
+  },
+  "template" : {
+    "mobileStylesEnabled" : true
+  },
+  "uiextensions" : {
+    "product-badge" : "sqs-uiextensions-product-badge",
+    "product-body" : "sqs-uiextensions-product-body",
+    "product-badge-mobile" : "sqs-uiextensions-product-badge-mobile",
+    "product-body-mobile" : "sqs-uiextensions-product-body-mobile",
+    "product-collection-item" : "sqs-uiextensions-product-collection-item",
+    "scripts-enabled" : false
+  },
+  "empty" : false,
+  "emptyFolder" : false,
+  "calendarView" : false,
+  "items" : [ ],
+  "pagePreviewContext" : {
+    "isPreviewMode" : false,
+    "memberAccessUrl" : "/the-ballets-1970-?format=json-pretty&requestAccess=true"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_note": "Explicit, auditable corrections to the archive text: unambiguous misspellings of proper names, and details that have since changed such as who to contact. Nothing here alters meaning, judgement or wording. Each entry is applied to captions, credits and body text, and every application is logged by corrections.py.",
+  "replacements": [
+    {
+      "find": "DAVID BINGHAM-FRENCH",
+      "replace": "HENRY ST CLAIR",
+      "note": "Licensing enquiries now go to Henry St Clair at HarrisonParrott (changed September 2026)."
+    },
+    {
+      "find": "d.binghamfrench@gmail.com",
+      "replace": "henry.stclair@harrisonparrott.co.uk",
+      "note": "Licensing contact address, changed with the above."
+    },
+    {
+      "find": "Kennth MacMillan",
+      "replace": "Kenneth MacMillan",
+      "note": "Misspelling of the choreographer's own name in a photograph caption."
+    },
+    {
+      "find": "Rudolph Nureyev",
+      "replace": "Rudolf Nureyev",
+      "note": "Nureyev spelled his first name Rudolf; 31 other mentions across the site already use the correct form."
+    },
+    {
+      "find": "Nicolas Georgiadis",
+      "replace": "Nicholas Georgiadis",
+      "note": "The designer's name is Nicholas; 52 other mentions already use the correct form."
+    },
+    {
+      "find": "Nicholas Geordiadis",
+      "replace": "Nicholas Georgiadis",
+      "note": "Transposed letters in the designer's surname."
+    }
+  ]
+}

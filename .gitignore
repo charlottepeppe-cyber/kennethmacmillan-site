@@ -1,0 +1,7 @@
+.DS_Store
+.venv/
+.wrangler/
+.claude/
+*.zip
+ziGmdpJ6
+__pycache__/

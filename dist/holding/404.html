@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kenneth MacMillan — His Life, His Work</title>
+<meta name="description" content="The archive of the choreographer Kenneth MacMillan (1929–1992). A new edition of this site is in preparation. Licensing and general enquiries below.">
+<meta name="theme-color" content="#14100f">
+<meta property="og:title" content="Kenneth MacMillan — His Life, His Work">
+<meta property="og:description" content="The archive of the choreographer Kenneth MacMillan (1929–1992). A new edition of this site is in preparation.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@200;300;400&family=Source+Serif+4:opsz,wght@8..60,300..500&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%2314100f'/><text x='16' y='23' font-family='Futura,sans-serif' font-size='19' fill='%23f4f3f1' text-anchor='middle'>M</text></svg>">
+<style>
+  :root {
+    --ink: #f4f3f1;
+    --ink-soft: #b9b1ab;
+    --ink-faint: #8a827c;
+    --ground: #14100f;
+    --rule: rgba(244, 243, 241, 0.16);
+    --accent: #e0a49b;
+    --sans: "Jost", "Futura", "Century Gothic", sans-serif;
+    --serif: "Source Serif 4", Georgia, serif;
+    --pad: clamp(1.5rem, 5vw, 4rem);
+    --shell: 46rem;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; }
+
+  html { -webkit-text-size-adjust: 100%; }
+
+  body {
+    margin: 0;
+    min-height: 100svh;
+    display: flex;
+    flex-direction: column;
+    background: var(--ground);
+    color: var(--ink);
+    font-family: var(--serif);
+    font-size: clamp(1rem, 0.96rem + 0.2vw, 1.0625rem);
+    line-height: 1.7;
+    font-synthesis-weight: none;
+    text-rendering: optimizeLegibility;
+    position: relative;
+    isolation: isolate;
+    background-image: radial-gradient(
+      120% 90% at 50% 0%,
+      #1e1917 0%, #14100f 55%, #0e0b0a 100%);
+  }
+
+  /* The 1951 photograph sits behind everything, faded well back. It is held on
+     its own layer so the veil over it can be tuned without touching the type. */
+  .backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background-image: url("macmillan-1951.jpg");
+    background-repeat: no-repeat;
+    /* full height, anchored right, so he stands beside the type rather than
+       under it; the left edge is dissolved into the ground below */
+    background-position: right center;
+    background-size: auto 100%;
+    opacity: 0.62;
+    filter: grayscale(1) contrast(1.04);
+    /* dissolve the photograph's own left edge so it meets the ground without
+       a seam, instead of stopping in a straight line */
+    -webkit-mask-image: linear-gradient(90deg,
+      transparent 30%, rgba(0, 0, 0, 0.55) 44%, #000 60%);
+    mask-image: linear-gradient(90deg,
+      transparent 30%, rgba(0, 0, 0, 0.55) 44%, #000 60%);
+  }
+  .backdrop::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(90deg,
+        #0e0b0a 0%,
+        rgba(14, 11, 10, 0.92) 40%,
+        rgba(14, 11, 10, 0.66) 58%,
+        rgba(14, 11, 10, 0.18) 80%,
+        rgba(14, 11, 10, 0.32) 100%),
+      linear-gradient(to bottom,
+        rgba(14, 11, 10, 0.5) 0%,
+        rgba(14, 11, 10, 0) 22%,
+        rgba(14, 11, 10, 0) 70%,
+        rgba(14, 11, 10, 0.8) 100%);
+  }
+  @media (max-width: 60rem) {
+    /* not enough width to stand him beside the text, so he goes behind it,
+       veiled hard enough to keep the type legible */
+    .backdrop {
+      opacity: 0.3;
+      background-size: cover;
+      background-position: 60% 22%;
+    }
+    .backdrop::after {
+      background: linear-gradient(to bottom,
+        rgba(14, 11, 10, 0.78) 0%,
+        rgba(14, 11, 10, 0.66) 40%,
+        rgba(14, 11, 10, 0.9) 100%);
+    }
+  }
+
+  .wrap {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding: clamp(3rem, 10vh, 7rem) var(--pad);
+  }
+
+  main { width: 100%; max-width: var(--shell); margin-inline: auto; }
+
+  .tracked {
+    font-family: var(--sans);
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.32em;
+    font-size: 0.6875rem;
+    line-height: 1.6;
+    color: var(--ink-faint);
+    margin: 0;
+  }
+
+  h1 {
+    font-family: var(--sans);
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    /* sized with headroom so the longer of the two lines still fits if Jost
+       fails to load and a wider fallback face is substituted */
+    font-size: clamp(2.2rem, 0.8rem + 8vw, 5.5rem);
+    line-height: 1;
+    margin: clamp(1.25rem, 3vw, 2rem) 0 0;
+  }
+  h1 span { display: block; }
+
+  .dates {
+    font-family: var(--sans);
+    font-weight: 300;
+    letter-spacing: 0.24em;
+    font-size: clamp(0.8rem, 0.74rem + 0.3vw, 0.95rem);
+    color: var(--ink-soft);
+    margin: clamp(1.25rem, 3vw, 1.75rem) 0 0;
+  }
+
+  .rule {
+    height: 1px;
+    background: var(--rule);
+    margin: clamp(2.25rem, 6vw, 3.5rem) 0;
+    border: 0;
+  }
+
+  .note {
+    color: var(--ink-soft);
+    max-width: 36em;
+    margin: 0;
+  }
+  .note + .note { margin-top: 1.1em; }
+
+  .contacts {
+    display: grid;
+    gap: clamp(1.75rem, 4vw, 3rem);
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+    margin-top: clamp(2.5rem, 6vw, 3.5rem);
+  }
+  .contacts h2 { margin: 0 0 0.6rem; }
+  .contacts p { margin: 0; line-height: 1.55; }
+  .contacts .name {
+    font-family: var(--sans);
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    font-size: 0.8125rem;
+    color: var(--ink);
+  }
+  a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(224, 164, 155, 0.35);
+    padding-bottom: 0.08em;
+    transition: border-color .18s, color .18s;
+    overflow-wrap: anywhere;
+  }
+  a:hover, a:focus-visible { color: var(--ink); border-bottom-color: var(--ink); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+
+  footer {
+    padding: 0 var(--pad) clamp(2rem, 5vw, 3rem);
+  }
+  footer .inner {
+    max-width: var(--shell);
+    margin-inline: auto;
+    padding-top: clamp(1.5rem, 4vw, 2rem);
+    border-top: 1px solid var(--rule);
+  }
+  footer p { margin: 0; font-size: 0.8125rem; color: var(--ink-faint); }
+  footer .credit { margin-bottom: 0.4rem; }
+</style>
+</head>
+<body>
+
+<div class="backdrop" role="img"
+     aria-label="Kenneth MacMillan dancing in a doorway at Sadler's Wells, 1951"></div>
+
+<div class="wrap">
+  <main>
+    <p class="tracked">His life, his work</p>
+
+    <h1><span>Kenneth</span><span>MacMillan</span></h1>
+
+    <p class="dates">1929 &nbsp;&ndash;&nbsp; 1992</p>
+
+    <hr class="rule">
+
+    <p class="note">
+      This site is the archive of the choreographer Kenneth MacMillan: ninety-one
+      ballets made over forty years, with the essays, photographs and production
+      records that surround them.
+    </p>
+    <p class="note">
+      A new edition is in preparation and will be here shortly. In the meantime,
+      enquiries are very welcome and are answered as usual.
+    </p>
+
+    <div class="contacts">
+      <div>
+        <h2 class="tracked">Licensing the work</h2>
+        <p class="name">Henry St Clair</p>
+        <p><a href="mailto:henry.stclair@harrisonparrott.co.uk">henry.stclair@harrisonparrott.co.uk</a></p>
+      </div>
+      <div>
+        <h2 class="tracked">General enquiries</h2>
+        <p class="name">Charlotte MacMillan</p>
+        <p><a href="mailto:charlottemacmillan@mac.com">charlottemacmillan@mac.com</a></p>
+      </div>
+    </div>
+  </main>
+</div>
+
+<footer>
+  <div class="inner">
+    <p class="credit">Kenneth MacMillan, 1951.
+    Photograph &copy; Roger Wood / Royal Opera House Archives.</p>
+    <p>All rights to the ballets of Kenneth MacMillan remain in copyright.
+    &copy; The MacMillan Estate.</p>
+  </div>
+</footer>
+
+</body>
+</html>

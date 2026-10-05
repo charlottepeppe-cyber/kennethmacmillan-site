@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Studio — face and hue</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Antonio:wght@100..700&family=Bebas+Neue&family=Big+Shoulders+Display:wght@100..900&family=Barlow+Condensed:wght@300;400;500&family=Oswald:wght@200..600&family=Spectral:ital,wght@0,200;0,300;0,400;1,300&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#0d0d0c; --panel:#161615; --panel-2:#1c1c1a; --ink:#e6e4e0;
+  --ink-soft:#b4b0a9; --faint:#7d7a74; --rule:#2a2a28;
+  --accent:#d2f24c; --accent-dim:#9bb437;
+  --display:'Anton'; --display-w:400; --display-ls:0;
+  --text:'Spectral',Georgia,serif; --meta:'JetBrains Mono',monospace;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--text);
+  font-weight:300;line-height:1.65;padding-bottom:9rem}
+img{max-width:100%;height:auto;display:block}
+
+/* controls */
+.panel{position:fixed;left:0;right:0;bottom:0;z-index:99;background:#111;
+  border-top:1px solid var(--rule);padding:.7rem clamp(.75rem,2vw,1.5rem);
+  display:grid;gap:.5rem}
+.set{display:flex;flex-wrap:wrap;gap:.35rem;align-items:center}
+.set > span{font-family:var(--meta);font-size:.55rem;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--faint);width:4.5rem;flex:none}
+.panel button{font-family:var(--meta);font-size:.58rem;letter-spacing:.08em;
+  text-transform:uppercase;background:#1c1c1a;color:#b4b0a9;border:1px solid #2a2a28;
+  padding:.45rem .7rem;cursor:pointer;display:flex;align-items:center;gap:.4rem;
+  transition:background .15s,color .15s,border-color .15s}
+.panel button:hover{color:#fff;border-color:#444}
+.panel button.on{background:var(--accent);color:#0d0d0c;border-color:var(--accent)}
+.panel button i{width:.65rem;height:.65rem;display:block;border-radius:1px}
+.hint{font-family:var(--meta);font-size:.52rem;letter-spacing:.1em;color:#5a5854;
+  text-transform:uppercase}
+
+/* the specimen page itself */
+.wrap{max-width:46rem;margin:0 auto;padding:clamp(1rem,3vw,2.5rem)}
+.crumb{font-family:var(--meta);font-size:.58rem;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--faint);border-bottom:1px solid var(--rule);
+  padding-bottom:.7rem;margin-bottom:clamp(1.5rem,4vw,3rem)}
+h1{font-family:var(--display);font-weight:var(--display-w);
+  letter-spacing:var(--display-ls);text-transform:uppercase;
+  font-size:clamp(2.6rem,1rem + 11vw,7rem);line-height:.9;margin:0}
+h1 em{font-style:normal;color:var(--accent)}
+.meta{margin-top:1.2rem;display:flex;flex-wrap:wrap;gap:.3rem 1.5rem;
+  font-family:var(--meta);font-size:.6rem;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--faint)}
+.meta .yr{color:var(--accent)}
+figure{margin:clamp(2rem,5vw,3rem) 0}
+figure img{max-width:min(100%,500px);filter:grayscale(1) contrast(1.08) brightness(.96)}
+figcaption{margin-top:.6rem;font-family:var(--meta);font-size:.56rem;
+  letter-spacing:.05em;text-transform:uppercase;color:var(--faint)}
+p{margin:0 0 1.15em}
+p:first-of-type::first-line{font-family:var(--meta);font-size:.78em;
+  letter-spacing:.04em;text-transform:uppercase;color:var(--accent)}
+.credits{margin-top:clamp(2.5rem,6vw,4rem);border:1px solid var(--rule)}
+.credits h2{font-family:var(--meta);font-weight:400;text-transform:uppercase;
+  letter-spacing:.22em;font-size:.6rem;color:var(--accent);margin:0;padding:.85rem 1rem;
+  border-bottom:1px solid var(--rule)}
+.credits dl{margin:0;display:grid;grid-template-columns:minmax(9rem,13rem) 1fr}
+.credits dt{font-family:var(--meta);font-size:.58rem;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--faint);padding:.8rem 1rem;background:var(--panel);
+  border-bottom:1px solid var(--rule)}
+.credits dd{margin:0;padding:.8rem 1rem;border-bottom:1px solid var(--rule);font-size:.92rem}
+@media(max-width:40rem){.credits dl{grid-template-columns:1fr}
+  .credits dt{border-bottom:0;padding-bottom:.2rem;background:none}}
+</style></head><body>
+
+<div class="wrap">
+  <div class="crumb">Kenneth MacMillan &nbsp;/&nbsp; The Ballets &nbsp;/&nbsp; 1977&ndash;1992</div>
+  <h1>The Judas <em>Tree</em></h1>
+  <div class="meta"><span class="yr">1992</span><span>The Royal Ballet</span>
+    <span>Royal Opera House, Covent Garden</span><span>Music &mdash; Brian Elias</span></div>
+  <figure><img src="/images/52a406-McFadyen_Judas_Tree.jpg" alt="" width="500" height="371">
+    <figcaption>Original painting by Jock McFadyen</figcaption></figure>
+  <p>The only clue MacMillan gave to his last ballet is a programme note quoting the Sufi writer Kahlil Gibran: ‘As a single leaf turns not yellow but with the silent knowledge of the whole tree, so the wrongdoer cannot do wrong without the hidden will of you all’.</p><p>The Judas Tree is a ballet about betrayal and guilt, individual and communal. MacMillan based it on the iconic biblical story of betrayal, the Judas kiss that resulted in Jesus Christ’s crucifixion. He was also thinking of more recent instances of betrayal, such as the Tiananmen Square massacre in 1989. Protesting students demanding democratic reforms had been mown down by the Chinese army, in spite of politicians’ assurances that there would be no violence.</p><p>MacMillan had discussed his general ideas for the ballet with Brian Elias when he commissioned a 40 minute score in 1989. Elias took his inspiration from research into the myths and scholarly studies about Judas and the Apostles. He passed on his findings to MacMillan, who selected what he wanted from the mass of information Elias had provided when he started work on the choreography in 1991.</p>
+  <section class="credits"><h2>Creation</h2><dl><dt>First Performance</dt><dd>Royal Opera House, Covent Garden, 19 March 1992</dd><dt>Company</dt><dd>The Royal Ballet</dd><dt>Cast</dt><dd>Irek Mukhamedov, Viviana Durante, Michael Nunn, Mark Silver, Luke Heydon</dd><dt>Music</dt><dd>Brian Elias, The Judas Tree (commissioned score)</dd><dt>Design</dt><dd>Jock McFadyen</dd></dl></section>
+</div>
+
+<div class="panel">
+  <div class="set"><span>Face</span><button data-face="Anton" data-weight="400" data-ls="0" class='on' title="Current. Heavy, stamped, almost no counter space.">Anton</button><button data-face="Antonio" data-weight="400" data-ls="0" title="Anton&#x27;s lighter sibling — same condensed proportions, much less weight.">Antonio</button><button data-face="Antonio" data-weight="300" data-ls=".01em" title="Lighter again. Starts to feel drawn rather than stamped.">Antonio Light</button><button data-face="Bebas Neue" data-weight="400" data-ls=".01em" title="Caps-only, even stroke, a little wider. Cleaner, more neutral.">Bebas Neue</button><button data-face="Big Shoulders Display" data-weight="300" data-ls=".01em" title="Flat cut terminals. More character, slightly industrial.">Big Shoulders</button><button data-face="Barlow Condensed" data-weight="500" data-ls=".02em" title="Softest of the set. Quieter, least like a poster.">Barlow Condensed</button><button data-face="Oswald" data-weight="300" data-ls=".01em" title="Familiar and highly legible. The safe choice.">Oswald</button></div>
+  <div class="set"><span>Hue</span><button data-hue="#d2f24c" data-dim="#9bb437" class='on' title="Current. Loud, contemporary, gallery-ish."><i style="background:#d2f24c"></i>Acid</button><button data-hue="#ece4d3" data-dim="#a89f8d" title="No colour at all. Pure restraint — the archive speaking plainly."><i style="background:#ece4d3"></i>Bone</button><button data-hue="#e8492c" data-dim="#a8341f" title="Theatrical and bloody. Suits Mayerling and the Judas Tree."><i style="background:#e8492c"></i>Vermilion</button><button data-hue="#c9a24a" data-dim="#8f7333" title="Opera house gilt. Warm, ceremonial, a little formal."><i style="background:#c9a24a"></i>Brass</button><button data-hue="#dfa093" data-dim="#a2685e" title="Flesh and tulle. Softer, more bodily, unmistakably dance."><i style="background:#dfa093"></i>Rose</button><button data-hue="#93bcd9" data-dim="#5f83a0" title="Cool and distant. Stage light rather than blood."><i style="background:#93bcd9"></i>Ice</button><button data-hue="#e5c93f" data-dim="#a08a25" title="Between brass and acid. Old paper under a bright lamp."><i style="background:#e5c93f"></i>Sulphur</button></div>
+  <div class="hint">Hover a button for a note. Choice is remembered while you browse.</div>
+</div>
+
+<script>
+const root=document.documentElement;
+function pick(group,btn){
+  group.querySelectorAll('button').forEach(b=>b.classList.remove('on'));
+  btn.classList.add('on');
+}
+document.querySelectorAll('[data-face]').forEach(b=>b.addEventListener('click',()=>{
+  root.style.setProperty('--display',"'"+b.dataset.face+"'");
+  root.style.setProperty('--display-w',b.dataset.weight);
+  root.style.setProperty('--display-ls',b.dataset.ls);
+  pick(b.parentElement,b);
+  localStorage.setItem('face',JSON.stringify(b.dataset));
+}));
+document.querySelectorAll('[data-hue]').forEach(b=>b.addEventListener('click',()=>{
+  root.style.setProperty('--accent',b.dataset.hue);
+  root.style.setProperty('--accent-dim',b.dataset.dim);
+  pick(b.parentElement,b);
+  localStorage.setItem('hue',JSON.stringify(b.dataset));
+}));
+try{
+  const f=JSON.parse(localStorage.getItem('face')||'null');
+  if(f){const b=document.querySelector(`[data-face="${f.face}"][data-weight="${f.weight}"]`);if(b)b.click();}
+  const h=JSON.parse(localStorage.getItem('hue')||'null');
+  if(h){const b=document.querySelector(`[data-hue="${h.hue}"]`);if(b)b.click();}
+}catch(e){}
+</script>
+</body></html>
